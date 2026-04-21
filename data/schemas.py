@@ -99,9 +99,9 @@ class CompositionCreate(BaseModel):
     B:  Optional[float] = Field(default=None, ge=0.0, le=0.1)  # B rarely exceeds 0.01 wt%
     N:  Optional[float] = Field(default=None, ge=0.0, le=1.0)
 
-    # Residuals
+    # Residuals — P capped at 0.1; S raised to 0.4 to allow free-cutting grades (SAE 11xx/12xx, up to ~0.33 wt%)
     P: Optional[float] = Field(default=None, ge=0.0, le=0.1)
-    S: Optional[float] = Field(default=None, ge=0.0, le=0.1)
+    S: Optional[float] = Field(default=None, ge=0.0, le=0.4)
 
     @model_validator(mode="after")
     def check_mass_balance(self) -> "CompositionCreate":

@@ -46,6 +46,8 @@ Source-specific parser → SteelIngestBundle (Pydantic) → ingest_bundles() →
 
 **`database.py`** — SQLAlchemy engine + session management. Database URL is set via `DATABASE_URL` env var (defaults to `sqlite:///./steels.db`). SQLite-only note: foreign keys are disabled in SQLite by default; the engine enables them via PRAGMA.
 
+**`parsers/mondal.py`** — Parser for four appendix tables from S.K. Mandal's *Steel Metallurgy* textbook. Produces 97 composition-only records (nominal range midpoints for SAE carbon, alloy, and free-cutting grades) and 39 property records with coarse processing info. Composition ranges stored as midpoints — not individual heat measurements. Schema S limit raised to 0.4 wt% to accommodate free-cutting steels (SAE 11xx/12xx).
+
 **`parsers/nims.py`** — Parser for NIMS MatNavi MSDB exports (.xlsx/.csv). Column names vary across NIMS export versions — always run `NIMSParser.inspect(path)` on a new download before parsing to verify header names match `COLUMN_MAP`.
 
 **`parsers/steelbench.py`** — Parser for SteelBench v1.0 (Zenodo, CC-BY 4.0, 1,360 records). Downloads directly from Zenodo if no local path is given. Three data tiers with different reliability: `nims_measured` (5), `emk_spec_verified` (4), `kaggle_measured` (2). Critical data quality notes:

@@ -25,6 +25,35 @@ Processing coverage: austenitize_T ~51%, quench_medium ~47% (air/water/oil only)
 
 ---
 
+### Mondal Appendix Tables (SAE/AISI Composition + Properties)
+- **Location:** `data/Steel_metallurgy_Mondal_appendices/`
+- **Source:** S.K. Mandal, *Steel Metallurgy: Properties, Specifications and Applications*, 1st Edition
+- **Parser:** `data/parsers/mondal.py` — `parse_mondal()`
+- **Reliability:** 4 (textbook specification values — nominal ranges, not individual heat measurements)
+- **Status:** Parser complete. Not yet ingested.
+
+Four files, two categories:
+
+**Composition tables (97 grades, composition-only records):**
+
+| File | Grades | Elements |
+|------|--------|----------|
+| `Plain_carbon_steels.xlsx` | 41 SAE 10xx/15xx grades | C, Mn, S, P |
+| `Standard_SAE_grade_alloy_steels.xlsx` | 42 SAE 13xx/4xxx/5xxx/6xxx/8xxx/9xxx grades | C, Mn, Cr, Ni, Mo, Si (where applicable) |
+| `SAE_grade_free_cutting_resulphurised_steels_chemical_composition.xlsx` | 14 SAE 11xx/12xx grades | C, Mn, P, S |
+
+Compositions are stored as midpoints of the published nominal ranges. Missing elements are `NULL` (not zero). Free-cutting steels have S up to 0.33 wt% by design — the schema S limit was raised to 0.4 wt% to accommodate them.
+
+**Properties table (39 records, properties + coarse processing):**
+
+| File | Records | Properties | Processing |
+|------|---------|-----------|------------|
+| `Properties_of_steel.xlsx` | 39 | yield MPa, UTS MPa, elongation, RA, hardness HB | Route type + temper temp (°F → °C converted) |
+
+Processing methods mapped to route types: Hot Rolled/Cold Drawn → `as_rolled`, annealed → `anneal`, Case Hardened → `case_harden`, Drawn at temp → `QT` with temper_temp_C. Austenitizing temperature is not given in the source — left null. Composition is not in this table; records link by grade name only.
+
+---
+
 ### NIMS MatNavi MSDB
 - **Location:** `data/AISI_steel_code_tables/` *(to be downloaded separately)*
 - **Parser:** `data/parsers/nims.py` — `NIMSParser` / `parse_nims_file()`
@@ -60,12 +89,7 @@ The `STLCDPID` file is useful for:
 
 ## Planned (not yet acquired)
 
-### AISI/SAE Grade Composition Tables
-- **What's needed:** Nominal wt% composition ranges for standard grades (e.g., AISI 4340: C 0.38–0.43, Mn 0.60–0.80, Cr 0.70–0.90, Ni 1.65–2.00, Mo 0.20–0.30)
-- **Why:** High-reliability ground truth for standard grades. More reliable than any model for compositions that are well-standardized.
-- **Source options:** Hand-curate from AISI/SAE published standards, or find a structured open dataset
-- **Use in pipeline:** Phase 4 lookup tables for standard-grade processing routes; validation reference for the forward model
-- **Status:** Not acquired. The AISI code tables in this repo are the ordering protocol, not this.
+### PyCalphad + TDB Files
 
 ### PyCalphad + TDB Files
 - **What's needed:** `pycalphad` package + thermodynamic database files (.tdb) covering the Fe-C-Mn-Cr-Ni-Mo system
