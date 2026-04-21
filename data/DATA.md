@@ -96,6 +96,25 @@ Total: **385 records** across 5 tables.
 
 ---
 
+### Cheng et al. 2024 — Fe–C–Mn–Al Advanced Steel Dataset
+- **Location:** `data/H.Cheng_et_al/d3cp05453e1.xlsx`
+- **Source:** H. Cheng et al., "Composition design and optimization of Fe–C–Mn–Al steel based on machine learning," *Physical Chemistry Chemical Physics*, 2024. DOI: 10.1039/d3cp05453e
+- **Parser:** `data/parsers/cheng2024.py` — `parse_cheng2024()`
+- **Coverage:** 580 records; composition (17 elements) + multi-step processing + UTS + elongation
+- **Reliability:** 3 (literature-aggregated, not single-source measurements)
+- **Status:** Parser complete. Not yet ingested.
+
+This is the most processing-rich dataset in the project. It covers advanced/lightweight steel families (medium-/high-Mn TWIP/TRIP, high-Al lightweight steels) with a detailed multi-step process record per sample: hot rolling → optional cold rolling → annealing → optional tempering.
+
+Key schema notes:
+- `steel_family = 'other'` for all records (Mn up to 30 wt%, Al up to 13 wt% — outside standard AISI families)
+- Only UTS and elongation are reported — no yield strength
+- Intercritical annealing temperatures of 200–580°C (below the schema's 600°C `austenitize_temp_C` floor) are stored in `notes` only; records with AT ≥ 600°C are stored in the field normally
+- B values of 0.31 wt% (3 records) exceed the schema cap and are stored in notes — real steel B is normally < 0.01 wt%, suggesting a specialty alloy or source unit error
+- `d3cp05453e2.xlsx` contains 580 additional records with numerically encoded categorical columns; the encoding key is not published — excluded from this parser
+
+---
+
 ## Reference / Lookup (not ingested into steels.db)
 
 ### AISI Steel Code Tables
