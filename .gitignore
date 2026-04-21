@@ -20,3 +20,9 @@ wheels/
 
 # Raw data downloads
 data/raw/
+
+# macOS
+.DS_Store
+
+# Literature PDFs — keep local
+*.pdf

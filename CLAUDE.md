@@ -55,6 +55,10 @@ Source-specific parser → SteelIngestBundle (Pydantic) → ingest_bundles() →
 
 **`coverage.py`** — Coverage report tool. Run after every major ingest batch to surface gaps before modeling. Processing-parameter coverage is the key weak point.
 
+**`AISI_steel_code_tables/`** — The AISI Steel Code ordering and communication protocol (EDI tables used between steelmakers and buyers). These are **not** composition databases. Only `STLCDPID_10-30-19.xlsx` is relevant — it contains grade type codes and heat treatment type codes useful as lookup/validation references. The COMPORD, Outside-Processing, and Shipping files have no use in this project. See `data/DATA.md` for the full breakdown.
+
+For a complete description of all data sources (ingested, reference, and planned), see **`data/DATA.md`**.
+
 ### Planned Pipeline (not yet implemented)
 
 Per `roadmap.md`, the eventual agent pipeline is:
