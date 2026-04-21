@@ -1,0 +1,4036 @@
+Hardenability of Carbon
+and Low-Alloy Steels
+Hardenable Carbon and Low-Alloy Steels
+Hardenability of Carbon and Low-Alloy Steels
+Hardenability Curves
+
+.451
+.464
+.485
+
+ASM Handbook, Volume 1: Properties and Selection: Irons, Steels, and High-Performance Alloys
+ASM Handbook Committee, p 451-463
+DOI: 10.1361/asmhba0001028
+
+Copyright © 1990 ASM International®
+All rights reserved.
+www.asminternational.org
+
+Hardenable Carbon
+and Low-Alloy Steels
+Revised by Eugene R. Kuch, Gardner Denver Division of Cooper Industries
+
+CARBON STEELS are produced in
+greater tonnage and have wider usage than
+any other metal because of their versatility
+and low cost. For about ten years before
+World War II, there was a trend toward
+replacing carbon steels with alloy steels.
+The scarcity of alloying elements at that
+time caused a reappraisal of carbon steels,
+and in many instances, users reverted to
+carbon grades. With rapidly rising costs and
+the prospect of permanent shortages of various alloying elements, this trend is continuing.
+Carbon steels proved to be satisfactory
+upon reappraisal because:
+• Hardenability, although less than that of
+alloy steels, was adequate for many parts,
+and for some parts, shallow hardening
+was actually advantageous because it
+minimized quench cracking
+• Refinements in heat-treating methods,
+such as induction hardening and flame
+hardening, made it possible to obtain
+higher properties from carbon steels than
+was previously possible
+• Many new compositions were added to
+the carbon steel group, permitting a more
+discriminating selection
+More than 50 grades are nominally available in the 10xx-series carbon steels, and
+more than 30 grades are available in the
+resulfurized l lxx and 12xx series. Also
+available are about 20 grades in the 15xx
+series (originally lOxx series steels with
+higher than normal manganese contents,
+usually in the range of 1.00 to 1.65%). The
+versatility of carbon steels has been further
+extended by the addition of lead for improved machinability and of boron for
+greater hardenability and for improvement
+in cold heading.
+In addition to the standard carbon and
+alloy steels, there is a specific class of
+high-strength low-alloy (HSLA) steels.
+These materials are normally furnished to
+mechanical property requirements rather
+than to composition ranges. These steels
+are generally not intended for quenching
+
+and tempering by the user. Their properties
+and characteristics are covered in the articles "High-Strength Structural and HighStrength Low-Alloy Steels" and "HighStrength Low-Alloy Steel Forgings" in this
+Volume.
+Generally, alloy steels are not used without appropriate heat treatment. By far the
+largest tonnage of alloy steels is of the type
+with nominal carbon contents between
+about 0.25 and 0.55%. If an alloy steel is to
+be used for carburized parts, the nominal
+carbon content usually does not exceed
+0.20%. Various combinations and amounts
+of manganese, silicon, nickel, chromium,
+molybdenum, vanadium, and boron are
+commonly present in these steels to enhance the properties of the quenched and
+tempered alloy.
+The microstructure (tempered martensite
+or bainite) produced by quenching and tempering alloy steels is characterized by good
+toughness, that is, the capacity to deform
+without rupture, at a given strength level.
+The basic phenomenon of obtaining a favorable microstructure by heat treatment is
+also possible in plain carbon steels, although primarily in thin sections. Thus, the
+most important effect of alloying elements
+in steel is to induce the formation of martensite or bainite, and accompanying superior properties, in large sections. The level
+of hardness or strength of these structures is
+a function of the carbon content of the
+transformation products rather than of the
+alloying elements present.
+The general effect of alloying elements
+dissolved in austenite is to decrease the rate
+of austenite transformation at subcritical
+temperatures. Because the desirable products of transformation in these steels (martensite and lower bainite) are formed at low
+temperatures, this decreased transformation rate is essential. Consequently, pieces
+can be cooled more slowly, or larger pieces
+can be quenched in a given medium, without transformation of austenite to the undesirable high-temperature products (pearlite
+or upper bainite). This function, decreasing
+
+the rate of transformation and thereby facilitating ultimate transformation to martensite or lower bainite, is known as hardenability, the most important effect of alloying
+elements in hardenable steels. By increasing hardenability, alloying elements greatly
+extend the potential for enhanced properties to the large sections required for many
+applications.
+Many of the curves in this article and in
+the article "Hardenability Curves" in this
+Volume serve to illustrate the principle that,
+regardless of composition, tempered steels
+of the same hardness have approximately
+the same tensile strength.
+The maximum (as-quenched) hardness of
+heat-treated steel depends primarily on the
+carbon content. Alloying elements have little effect on the maximum hardness that can
+be developed in steel, but they profoundly
+affect the depth to which this maximum
+hardness can be developed in a part of
+specific size and shape. Thus, for a specific
+application, one of the first decisions to be
+made is what carbon level is required to
+obtain the desired hardness. The next step
+is to determine what alloy content will give
+the proper hardening response in the section size involved. This is not to imply that
+tempered martensitic steels are alike in every respect, regardless of composition, because the alloy content is responsible for
+differences in the preservation of strength at
+elevated temperatures; in abrasion resistance; in resistance to corrosion; and even,
+to a certain extent, in toughness. However,
+the similarities are sufficiently marked to
+permit reasonably accurate predictions of
+mechanical properties from hardness rather
+than from composition, thereby justifying
+the emphasis on hardenability as the most
+important function of the alloying elements.
+
+Hardenability
+Required hardenability is the most important factor influencing a choice between
+carbon- and alloy steel. It is now possible to
+purchase carbon steels produced to a spe-
+
+452 / Hardenability of Carbon and Low-Alloy Steels
+Table 1 Composition of carbon and carbon-boron H steels
+[
+
+UNS No.
+
+SAE or AISI
+No.
+
+C
+
+Mn
+
+H10380
+H10450
+H15220
+H15240
+H15260
+H15410
+H15211
+H15281
+H15301
+H15351
+H15371
+H15411
+H15481
+H15621
+
+1038H .........
+....
+1045H .........
+....
+1522H .........
+....
+1524H .........
+....
+1526H .........
+....
+1541H .........
+....
+15B21H(a) ......
+....
+15B28H(a) ......
+....
+15B30H(a) ......
+....
+15B35H(a) ......
+....
+15B37H(a) ......
+....
+15B41H(a) ......
+....
+15B48H(a) ......
+....
+15B62H(a) ...........
+
+0.34/0.43
+0.42/0.51
+0.17/0.25
+0.18/0.26
+0.21/0.30
+0.35/0.45
+0.17/0.24
+0.25/0.34
+0.27/0.35
+0.31/0.39
+0.30/0.39
+0.35/0.45
+0.43/0.53
+0.54/0.67
+
+0.50/1.00
+0.50/1.00
+1.00/1.50
+1.25/1.75
+1.00/1.50
+1.25/1.75
+0.70/1.20
+1.00/1.50
+0.70/1.20
+0.70/1.20
+1.00/1.50
+1.25/1.75
+1.00/1.50
+1.00/1.50
+
+Ladle chemical composition, wt%
+Si
+P, maximum(b)
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.40/0.60
+
+S, maximum(b) I
+
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+
+(a) These steels contain 0.0005 to 0.003% B. (b) If electric furnace practice is specified or required, the limit for both phosphorus and
+sulfur is 0.025%, and the prefix E is added to the SAE or AISI number. Source: Ref 1
+
+cific hardenability band. As of 1989, there
+were six carbon H steels (1038H, 1045H,
+1522H, 1524H, 1526H, and 1541H), nine
+carbon-boron H steels (15B21H, 15B28H,
+15B30H,
+15B35H,
+15B37H,
+15B41H,
+15B46H, 15B48H, and 15B62H) and 70
+standard alloy H steels for which hardenability data had been compiled. This establishes a more definite distinction between
+carbon and alloy steels than can be done by
+actual hardenability values because the latter are available as H steels in most of the
+tonnage grades. Tables I and 2 list the
+compositions of all the H steels.
+Carbon steels with low manganese (some
+grades as low as 0.30%) and a virtual absence of residual nickel, chromium, and
+molybdenum are the lowest in hardenability
+of all standard steels. This holds true for
+nearly all carbon levels, because in the
+absence of higher manganese or other alloying elements, carbon functions almost entirely to control maximum hardness and has
+only a minor effect on hardenability.
+Most of the hardenable ixxx-series carbon steels have 0.60 to 0.90% manganese,
+
+although several grades have higher and
+others have lower manganese contents.
+Those steels with a maximum manganese
+content between 1.00% and 1.65% have
+been renumbered and now constitute the
+15xx series. The effect of manganese on the
+variation of strength with carbon content in
+as-hot-rolled carbon steels is shown in Fig.
+I. Manganese has a marked effect on hardenability. Even a difference of 0.25% makes
+a significant difference on the end-quench
+hardenability of 0.50% carbon steel (Fig. 2).
+Considering the range of manganese that
+is available in carbon steels, it follows that a
+wide range of hardenability can exist. For
+example, 1541 steel frequently shows endquench hardenability values higher than the
+minimum of the hardenability band for 1340
+steel (Fig. 3). Thus, there is a gradual transition in hardenability from carbon grades
+to alloy grades.
+Steels are not necessarily better because
+they are higher in hardenability. They are
+better only when higher hardenability is
+required. There are many applications for
+which minimum, rather than maximum,
+
+hardenability is needed, which accounts for
+the many low-manganese grades melted.
+For example, it is often desirable to produce
+thin layers of maximum hardness on shaft
+bearings or cam contours. This is usually
+accomplished by induction or flame hardening; however, if the hardened zone is too
+deep, an unfavorable pattern of residual
+stresses will be established, with resultant
+cracking in quenching or premature failure
+in service. In one instance, cams were made
+from standard 1050 steel (0.60 to 0.90%
+Mn) and induction hardened to 60 HRC
+to a depth of about !.6 mm (l/16 in.). If
+the hardened zone became as deep as 3.2
+mm (V8 in.), a significant number of
+parts cracked. Cracking was eliminated by
+using a modified grade of 1050 steel (0.30
+to 0.60% Mn), which resulted in a shallower hardened zone after induction hardening.
+It is more economical to use carbon steels
+whenever possible. The higher-manganese
+grades cost more than the lower-manganese
+grades, but are less expensive than the least
+expensive alloy grades.
+Measuring Hardenability. Many tests have
+been proposed for measuring and comparing the hardenability of various grades of
+steel. The end-quench test (often referred to
+as the Jominy test) is used for testing the
+hardenability of carbon and alloy steels.
+This test involves heating a test bar 25.4 mm
+(!.0 in.) in diameter to the proper austenitizing temperature, placing the bar in a
+special hardenability fixture, and quenching
+only the end surface with water. Hardness
+is then measured along a plane just below
+the surface, at intervals of about 1.6 mm
+
+LIVE GRAPH
+Click here to view
+Distance from quenched end, mm
+0
+70
+
+10
+
+20
+
+30
+
+I
+
+I
+
+I
+
+40
+
+50
+
+60
+
+70
+
+q
+
+I I
+
+I
+
+1050 modified
+%C
+
+l
+
+900
+
+Manganese, %
+c~ 0.40- 0,50
+800
+
+700
+
+~. 0.60--0.69
+~, 0.70-0.79
+•
+
+130
+
+o 0.51 1.29
+
+5O
+
+Z~ 0.48 1.07
+• 0.51 1.04
+
+•
+120
+
+¢.3
+a:
+
+0.52 1.27
+
+-i-
+
+110
+
+O.9O
+O.~O-
+
+c
+100
+
+%Mn
+
+60
+
+r
+
+40
+
+-i"
+3O
+
+600
+
+90
+
+c
+
+00
+
+~
+
+2O
+.q
+
+k- 500
+
+70
+
+10
+
+0
+
+40O
+
+o~-
+
+60
+
+/
+
+8
+
+16
+
+24
+
+32
+
+40
+
+48
+
+Distance from quenched end, 1/16 in.
+
+300 heats
+50
+
+3OO
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+0.35
+
+0.40
+
+0.45
+
+0.50
+
+Carbon content, %
+
+Fig. 1 Effect of manganese and carbon on tensile str'ength of as-hot-rolled carbon steels
+LIVE GRAPH
+Click here to view
+
+0.55
+
+I:-'.
+"'15°
+
+Effect of carbon and manganese o n end2 quench
+hardenability of 1050 steel. The steels
+
+with 1.29 and 1.27% manganese contained 0.06% residual chromium. Steels with 1.07 and 1.04% manganese contained 0.06 and 0.08% residual chromium,
+respectively. No other residual elements were reported.
+
+Hardenable Carbon and Low-Alloy Steels / 453
+Table 2 Composition of standard alloy H steel
+The ranges and limits on this table apply only to material not exceeding 1.3 x 105 mm 2 (200 in. 2) in cross-sectional area, 460 mm (18 in.) in width, or
+4.5 Mg (10 000 Ib) in weight per piece• Ranges and limits are subject to the permissible variations for product analysis shown in Table 4 of SAE J409.
+UNS No.
+
+SAE or AISI No.
+
+H13300
+H13350
+H13400
+H13450
+
+i
+
+Ladle chemical composition, wt%(a)(b)
+Ni
+
+C
+
+Mn
+
+Si
+
+1330H . . . . . . . . . . . . . . . . . . . .
+1335H . . . . . . . . . . . . . . . . . . . .
+1340H . . . . . . . . . . . . . . . . . . . .
+1345H . . . . . . . . . . . . . . . . . . . .
+
+0.27/0.33
+0.32/0.38
+0.37/0.44
+0.42/0.49
+
+1.45/2.05
+1.45/2.05
+1.45/2.05
+1.45/2.05
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+H40270
+H40280(c)
+H40320
+H40370
+H40420
+H40470
+
+4027H . . . . . . . . . . . . . . . . . . . .
+4028H(c) . . . . . . . . . . . . . . . . .
+4032H . . . . . . . . . . . . . . . . . . . .
+4037H . . . . . . . . . . . . . . . . . . . .
+4042H . . . . . . . . . . . . . . . . . . . .
+4047H . . . . . . . . . . . . . . . . . . . .
+
+0.24/0.30
+0.24/0.30
+0.29/0.35
+0.34/0.41
+0.39/0.46
+0.44/0.51
+
+0.60/1.00
+0.60/1.00
+0.60/1.00
+0.60/1.00
+0.60/1.00
+0.60/1.00
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+H41180
+H41300
+H41350
+H41370
+H41400
+H41420
+H41450
+H41470
+H41500
+H41610
+
+4118H . . . . . . . . . . . . . . . . . . . .
+4130H . . . . . . . . . . . . . . . . . . . .
+4135H . . . . . . . . . . . . . . . . . . . .
+4137H . . . . . . . . . . . . . . . . . . . .
+4140H . . . . . . . . . . . . . . . . . . . .
+4142H . . . . . . . . . . . . . . . . . . . .
+4145H . . . . . . . . . . . . . . . . . . . .
+4147H . . . . . . . . . . . . . . . . . . . .
+4150H . . . . . . . . . . . . . . . . . . . .
+4161H . . . . . . . . . . . . . . . . . . . .
+
+0.17/0.23
+0.27/0.33
+0.32/0.38
+0.34/0.41
+0.37/0.44
+0.39/0.46
+0.42/0.49
+0.44/0.51
+0.47/0.54
+0.55/0.65
+
+0.60/1.00
+0.30/0.70
+0.60/1.00
+0.60/1.00
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+H43200
+H43400
+H43406(d)
+
+4320H . . . . . . . . . . . . . . . . . . . .
+4340H . . . . . . . . . . . . . . . . . . . .
+E4340H(d) . . . . . . . . . . . . . . .
+
+0.17/0.23
+0.37/0.44
+0.37/0.44
+
+0.40/0.70
+0.55/0.90
+0.60/0.95
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+Cr
+
+Mo
+
+0.30/0.70
+0.75/1.20
+0.75/1.20
+0.75/1.20
+0.75/1.2O
+0.75/1.20
+0.75/1.20
+0.75/1.20
+0.75/1.20
+0.65/0.95
+1.55/2.00
+1.55/2.00
+1.55/2.00
+
+0.35/0.65
+0.65/0.95
+0.65/0.95
+
+0.08/0.15
+
+0.15/0.25
+0.15/0.25
+
+0.15/0.25
+0.15/0.25
+
+0.15/0.25
+0.15/0.25
+0.15/0.25
+
+0.15/0.25
+0.25/0.35
+
+0.20/0.30
+0.20/0.30
+0.20/0.30
+
+H46200
+
+4620H . . . . . . . . . . . . . . . . . . . .
+
+0.17/0.23
+
+0.35/0.75
+
+0.15/0.35
+
+1.55/2.00
+
+4718H . . . . . . . . . . . . . . . . . . . .
+4720H . . . . . . . . . . . . . . . . . . . .
+
+0.15/0.21
+0.17/0.23
+
+0.60/0.95
+0.45/0.75
+
+0.15/0.35
+0.15/0.35
+
+0.85/1.25
+0.85/1.25
+
+H48150
+H48170
+H48200
+
+4815H . . . . . . . . . . . . . . . . . . . .
+4817H . . . . . . . . . . . . . . . . . . . .
+4820H . . . . . . . . . . . . . . . . . . . .
+
+0.12/0.18
+0.14/0.20
+0.17/0.23
+
+0.30/0.70
+0.30/0.70
+0.40/0.80
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+3.20/3.80
+3.20/3.80
+3.20/3.80
+
+H50401(e)
+H50441(e)
+H50460
+H50461(e)
+H50501(e)
+H50601(e)
+
+50B40H(e) . . . . . . . . . . . . . . .
+50B44H(e) . . . . . . . . . . . . . . .
+5046H . . . . . . . . . . . . . . . . . . . .
+50B46H(e) . . . . . . . . . . . . . . .
+50B50H(e) . . . . . . . . . . . . . . .
+50B60H(e) . . . . . . . . . . . . . . .
+
+0.37/0.44
+0.42/0.49
+0.43/0.50
+0.43/0.50
+0.47/0.54
+0.55/0.65
+
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+0.65/1.10
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+0.30/0.70
+0.30/0.70
+0.13/0.43
+0,13/0.43
+0.30/0.70
+0.30/0.70
+
+H51200
+H51300
+H51320
+H51350
+H51400
+H51470
+H51500
+H51550
+H51600
+H51601(e)
+
+5120H . . . . . . . . . . . . . . . . . . . .
+5130H . . . . . . . . . . . . . . . . . . . .
+5132H . . . . . . . . . . . . . . . . . . . .
+5135H . . . . . . . . . . . . . . . . . . . .
+5140H . . . . . . . . . . . . . . . . . . . .
+5147H . . . . . . . . . . . . . . . . . . . .
+5150H . . . . . . . . . . . . . . . . . . . .
+5155H . . . . . . . . . . . . . . . . . . . .
+5160H . . . . . . . . . . . . . . . . . . . .
+51B60H(e) . . . . . . . . . . . . . . .
+
+0.17/0.23
+0.27/0.33
+0.29/0.35
+0.32/0.38
+0.37/0.44
+0.45/0.52
+0.47/0.54
+0.50/0.60
+0.55/0.65
+0.55/0.65
+
+0.60/1.00
+0.60/1.10
+0.50/0.90
+0.50/0.90
+0.60/1.00
+0.60/1.05
+0.60/1.00
+0.60/1.00
+0.65/1.10
+0.65/1.10
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+0.60/1.00
+0.75/1.20
+0.65/1.10
+0.70/1.15
+0.60/1.00
+0.80/1.25
+0.60/1.00
+0.60/I .00
+0.60/1.00
+0.60/1.00
+
+H61180
+H61500
+
+6118H . . . . . . . . . . . . . . . . . . . .
+6150H . . . . . . . . . . . . . . . . . . . .
+
+0.15/0.21
+0.47/0.54
+
+0.40/0.80
+0,60/1.00
+
+0.15/0.35
+0.15/0.35
+
+0.40/0.80
+0.75/1.20
+
+H81451(e)
+
+81B4S5(e) . . . . . . . . . . . . . . . .
+
+0.42/0.49
+
+0,70/1.05
+
+0.15/0.35
+
+0.15/0.45
+
+0.30/0.60
+
+0.08/0.15
+
+H86170
+H86200
+H86220
+H86250
+H86270
+H86300
+H86301(e)
+H86370
+H86400
+H86420
+H86450
+H86451(e)
+H86500
+H86550
+H86600
+
+8617H . . . . . . . . . . . . . . . . . . . .
+8620H . . . . . . . . . . . . . . . . . . . .
+8622H . . . . . . . . . . . . . . . . . . . .
+8625H . . . . . . . . . . . . . . . . . . . .
+8627H . . . . . . . . . . . . . . . . . . . .
+8630H . . . . . . . . . . . . . . . . . . . .
+86B30H(e) . . . . . . . . . . . . . . .
+8637H . . . . . . . . . . . . . . . . . . . .
+8640H . . . . . . . . . . . . . . . . . . . .
+8642H . . . . . . . . . . . . . . . . . . . .
+8645H . . . . . . . . . . . . . . . . . . . .
+86B45H(e) . . . . . . . . . . . . . . .
+8650H . . . . . . . . . . . . . . . . . . . .
+8655H . . . . . . . . . . . . . . . . . . . .
+8660H . . . . . . . . . . . . . . . . . . . .
+
+0.14/0.20
+0.17/0.23
+0.19/0.25
+0.22/0.28
+0.24/0.30
+0.27/0.33
+0.27/0.33
+0.34/0.41
+0.37/0.44
+0.39/0.46
+0.42/0.49
+0.42/0.49
+0.47/0.54
+0.50/0.60
+0.55/0.65
+
+0,60/0.95
+0,60/0.95
+0.60/0.95
+0.60/0.95
+0.60/0.95
+0.60/0.95
+0.60/0.95
+0.70/1.05
+0.70/1.05
+0.70/1.05
+0.70/1.05
+0.70/1.05
+0.70/1.05
+0.70/1.05
+0.70/1.05
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+0.35/0.75
+0.35/0,75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0.35/0.75
+0,35/0,75
+
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+0.35/0.65
+
+0.15/0.25
+0.15/0.25
+0.15/0.25
+0.15/0.25
+0.15/0.25
+0.15/0.25
+0.15/0.25
+
+H87200
+H87400
+
+8720H . . . . . . . . . . . . . . . . . . . .
+8740H . . . . . . . . . . . . . . . . . . . .
+
+0.17/0.23
+0.37/0.44
+
+0.60/0.95
+0.70/1.05
+
+0.15/0.35
+0.15/0.35
+
+0.35/0.75
+0.35/0.75
+
+0.35/0.65
+0.35/0.65
+
+0.20/0.30
+0.20/0.30
+
+0.35/0.75
+
+0.35/0.65
+
+0.30/0.40
+
+H88220
+
+8822H . . . . . . . . . . . . . . . . . . . .
+
+0.19/0.25
+
+0.70/1.05
+
+0.15/0.35
+
+9260H . . . . . . . . . . . . . . . . . . . .
+
+0.55/0.65
+
+0.65/1.10
+
+1.70/2.20
+
+I
+
+0.20/0.30
+0.20/0.30
+0.20/0.30
+0.20/0.30
+0.20/0.30
+0.20/0.30
+
+H47180
+H47200
+
+H92600
+
+V
+
+0.20/0.30
+0.30/0.60
+0.30/0.60
+
+0.30/0.40
+
+0.15/0.25
+0.20/0.30
+0.20/0.30
+0.20/0.30
+
+0.10/0.15
+0.15
+
+0.15/0.25
+
+0.15/0.25
+0.15/0.25
+0.15/0.25
+
+0.15/0.25
+0.15/0.25
+
+0.15/0.25
+0.15/0.25
+
+H93100(d)
+
+9310H(d) . . . . . . . . . . . . . . . . .
+
+0.07/0.13
+
+0.40/0.70
+
+0.15/0.35
+
+2.95/3.55
+
+1.00/1.45
+
+0.08/0.15
+
+H94151(e)
+H94171(e)
+H94301(e)
+
+94BI5H(e) . . . . . . . . . . . . . . .
+94B17H(e) . . . . . . . . . . . . . . .
+94B30H(e) . . . . . . . . . . . . . . .
+
+0.12/0.18
+0.14/0.20
+0.27/0.33
+
+0.70/1.05
+0.70/1.05
+0.70/1.05
+
+0.15/0.35
+0.15/0.35
+0.15/0.35
+
+0.25/0.65
+0.25/0.65
+0.25/0.65
+
+0.25/0.55
+0.25/0.55
+0.25/0.55
+
+0.08/0.15
+0.08/0.15
+0.08/0.15
+
+(a) Small quantities of certain elements may be found in alloy steel that are not specified or required. These elements are to be considered incidental and acceptable to the following maximum amounts: copper to
+0.35%, nickel to 0.25%, chromium to 0.20%, and molybdenumto 0.06%. ~b) For open hearth and basic oxygen steels, maximum sulfur content is to be 0.040%, and maximum phosphorus content is to be 0.035%.
+Maximum phosphorus and sulfur in basic electric furnace steels are to be 0.025% each.(c) Sulfur content range is 0.035/0.050%. (d) Electric furnace steel.(e)These steels contain 0.0005 to 0.003% 13. Source: Ref I
+
+454 / Hardenability of Carbon and Low-Alloy Steels
+
+LIVE GRAPH
+Click here to view
+
+Approximate diameter of rounds with same as-quenched
+hardness (HRC), mm
+50 75
+20 30
+20
+I
+
+60
+30 40
+I
+
+I
+
+I
+
+80
+
+I
+
+I
+
+20
+15
+
+40
+60
+80
+100
+30
+45
+60
+75
+10
+20
+30
+40
+50
+
+65
+
+I
+
+90
+50 60
+I
+
+I
+
+Location in round
+
+Quench
+
+100
+
+Surface
+3/4 radius from center
+Center
+
+Mild
+water
+quench
+
+75
+
+Surface
+3/4 radius from center
+Center
+
+Mild
+oil
+quench
+
+so
+50
+
+I
+
+90
+60
+
+4O ~
+
+~,~.
+
+30
+
+"~8b~
+
+99.9% martensite
+
+60
+20
+
+,,
+
+10
+0.20
+
+50
+
+- -
+
+0.30
+
+50%
+I
+
+I
+0.40
+
+0.50
+
+0.60
+
+Carbon content, %
+Average relationship between carbon con" ~ " 4 tent and hardness for steels containing different amounts of untempered martensite in their microstructures
+
+20
+
+3
+
+5
+
+7
+
+9
+
+11 13 15
+
+20
+25
+30
+Distance from quenched end, mm
+
+35
+
+F i g . 3 Comparison of 1340H and 1541H hardenability ranges. Source: Ref 1
+
+(Vi6 in.) from the water-quenched end, to
+determine how far from this end the hardness extends. Typical end-quench hardenability data are given in the article " H a r d enability C u r v e s " in this Volume.
+Some industries have found the SAC
+(surface area center) test, also known as the
+Rockwell inch test, to be more discriminating than the end-quench test for determining
+the hardenability of shallow-hardening
+steels because of the sharp gradient on the
+end-quench curve.
+
+Carbon Steels Containing
+up to 0.25% C
+Carbon steels with nominal carbon contents below about 0.25% are the first of
+three arbitrary classifications of carbon
+steels. Three principal types of heat treatments are used for this first group of steels:
+• Case-hardening treatments, which are
+used mainly to produce a hard, wearresistant surface layer
+• Conditioning treatments, such as process
+annealing, that prepare the steel for certain fabricating operations
+• Quenching and tempering to improve machinability
+The improvements in mechanical properties that can be gained by the quenching and
+tempering of low-carbon steels, however,
+are minimal and are usually not worth the
+cost.
+
+40
+
+45
+
+50
+
+LIVE GRAPH
+Click here to view
+
+Many industrial applications require a
+part that is hard and wear resistant, but in
+almost every instance these properties are
+of prime importance at the surface of the
+part. Usually, it is a significant advantage in
+processing or service (or both) to have a
+part that is hard and wear resistant at the
+surface, yet softer, more ductile, and tougher below the surface. Case-hardening processes such as carburizing, carbonitriding,
+nitriding, and cyaniding are intended to
+produce just such a combination of properties by changing the composition of the
+surface layer through the absorption and
+inward diffusion of carbon, nitrogen, or
+both. Case hardening has very definite economic advantages for parts that must
+be formed and/or machined to intricate
+shapes and must be wear resistant in service, with surface properties approximating
+those normally attributed to high-carbon
+steels.
+The cold-heading properties of most
+steels are improved by process annealing,
+spheroidizing, or stress relieving. In general, process annealing is done at the steel
+mill. Additional heat treatment is not used
+unless required, for at least two reasons:
+First, the process could cost more than any
+savings realized in cold heading, and, second, cold-headed products often depend for
+their final strength on work hardening prior
+to and during the heading process, and if
+reannealed before cold heading, they may
+lose much of their potential strength.
+
+Heat treatments are frequently employed
+to improve machinability. The generally
+poor machinability of the low-carbon steels,
+except those containing sulfur or other special alloying elements, results principally
+from the fact that the proportion of free
+ferrite to carbide is high. This situation
+cannot be changed fundamentally, but the
+machinability can be improved by putting
+the carbide in its most voluminous form,
+pearlite, and dispersing this pearlite evenly
+throughout the ferrite mass. Normalizing is
+commonly used with success, but best results are obtained by quenching the steel in
+oil from a temperature of about 815 to 870
+°C (1500 to 1600 °F). In steels other than
+1025 and 1524, no martensite is formed, and
+the parts do not require tempering.
+
+Carbon Steels Containing
+0.25 to 0.55% C
+Because of their higher carbon content,
+carbon steels containing 0.25 to 0.55% C are
+usually used in the hardened and tempered
+condition. By varying the quenching medium (cooling rate) and tempering temperature, a wide range of mechanical properties
+can be produced. These steels are the most
+versatile of the three groups of carbon steels
+and are most commonly used for crankshafts, couplings, tie-rods, and many other
+machinery parts that have required hardness values in the range of 229 to 444 HB.
+In this group of steels, which includes
+water-hardening and oil-hardening types,
+hardenability is very sensitive to changes in
+chemical composition, particularly to
+changes in the content of carbon, manganese, silicon, and residual elements. It is
+also sensitive to grain size. Figure 4 illustrates the general relationship between carbon content and hardness obtained in
+quenching for microstructures containing
+various amounts of martensite.
+The rate of the heating of parts for
+quenching has a marked effect on harden-
+
+Hardenable Carbon and Low-Alloy Steels / 455
+ability under certain conditions. If the structure is nonuniform as a result of severe
+banding or lack of proper normalizing or
+annealing, extremely rapid heating (such as
+may be obtained in liquid baths) does not
+allow sufficient time for the diffusion of
+carbon and other elements in the austenite.
+Thus, nonuniform or low hardness will be
+produced unless the time at temperature is
+extended. In heating steels that contain free
+carbide (for example, spheroidized material), sufficient time must be allowed for the
+carbides to dissolve; otherwise, the austenite at the time of quenching will have a
+lower carbon content than is represented by
+the chemical composition of the steel, and
+disappointing results may be obtained.
+However, this condition may be produced
+deliberately (see the section "Carbon Steels
+Containing 0.55 to 1.00% C" below).
+Usually these medium-carbon steels
+should be either normalized or annealed
+before hardening to obtain the best mechanical properties after hardening and tempering. Parts made from bar stock are frequently given no treatment prior to hardening,
+but it is common practice to normalize or
+anneal forgings.
+Most bar stock, both hot finished and
+cold finished, is machined as received, except for the higher-carbon grades and small
+sizes that require annealing to reduce the
+as-received hardness. Forgings are usually
+normalized because this treatment avoids
+the extreme softening and consequent reduction of machinability that results from
+annealing.
+In some instances, a cycle treatment is
+used. The parts are heated as for normalizing and are then cooled rapidly in the furnace to a temperature somewhat above the
+nose of the time-temperature transformation (TTT) curve, that is, within the transformation range that produces pearlite. The
+parts are then held at temperature or cooled
+slowly until the desired amount of transformation has taken place; thereafter, they are
+cooled in any convenient manner. Specially
+arranged furnaces are usually required. Details of the treatments vary widely and are
+frequently determined by the furnace equipment available.
+Cold-headed products are commonly
+made from these steels, especially from
+those containing less than 0.40% C. Process
+treating before cold working is usually necessary because the higher carbon content
+decreases workability. For certain uses,
+these steels are normalized or annealed
+above the upper transformation temperature, but more frequently, a spheroidizing
+treatment is used. The degree of spheroidization required depends on the application. After shaping operations are finished, the parts may be heat treated by
+quenching and tempering.
+These medium-carbon steels are widely
+used for machinery parts for moderate duty.
+
+When such parts are to be machined after
+heat treatment, the maximum hardness is
+usually held to 321 HB and frequently much
+lower.
+Water is the quenching medium most
+commonly used because it is the most economical and the easiest to install. Caustic
+soda solution (5 to 10% NaOH by weight) is
+used in many instances with improved results. Compared to water, it is a faster and
+therefore a more thorough and uniform
+quench, producing better mechanical properties in all but light sections. Because of its
+rapid action, more scale is removed from
+the parts.
+When used hot (55 to 70 °C, or 130 to 160
+°F), caustic soda solution frequently makes
+possible drastic quenching of parts that
+could not be water quenched without cracking. The disadvantages of caustic soda are
+that it can be used only in a closed system
+with provisions made for cooling, operators
+must be protected against contact with it,
+the solution must be checked frequently,
+and the proper concentration must be maintained. Woolen clothing disintegrates rapidly after contact with it; cotton clothing is
+not affected.
+Salt solutions (brine) are often successfully used. Up to about 40 °C (100 °F), they
+produce almost as good results as caustic
+solutions, but are much less effective when
+hot. Like caustic solutions, they require a
+closed system. Salt solutions are not as
+dangerous to operators as are hot caustic
+ones, but their corrosive action on iron and
+steel equipment is very serious.
+When the section is thin or the properties
+required after heat treatment are not high,
+oil quenching is often used. This usually
+eliminates cracking and is very effective in
+reducing distortion.
+Of the four quenching media, oil tends to
+provide the slowest cooling of steel parts,
+and brine the most rapid (Ref 2). Furthermore, the effectiveness of each of these
+liquids increases if it is agitated. Sometimes
+it is desirable to use a quenching medium
+with a severity between that of water and oil.
+For this, the so-called polymer quenchants
+are used. These include polyvinyl alcohol
+(PVA) (the most common), polyalkylene glycol ethers (PAGs), polyvinylpyrrolidone
+(PVP), and polyacrylates (Ref 2).
+A wide range of austenitizing temperatures is necessary for compatibility with the
+possible variations in composition, grain
+size, section size, and quenching medium or
+cooling rate. Lower temperatures should be
+used for the higher-manganese steels, light
+sections, coarse-grained material, and water quenching; higher temperatures are required for lower-manganese steels, heavy
+sections, fine-grain materials, and oil
+quenching. Excessive temperatures should
+be avoided; in many steels, the higher austenitizing temperatures promote the retention of austenite.
+
+Many common hand tools, such as pliers,
+open-end wrenches, screwdrivers, and a
+few edged tools (for example, tin snips and
+brush knives) are made from these steels.
+The cutting tools are necessarily quenched
+locally on the cutting edges, in water, brine,
+or caustic solution, and are subsequently
+given suitable tempering treatments. In
+some instances, the edge is time quenched;
+the remainder of the tool is then oil
+quenched for partial strengthening. When
+made of these grades of steel, pliers,
+wrenches, and screwdrivers are usually
+quenched in water, either locally or completely, and then are properly tempered.
+
+Carbon Steels Containing
+0.55 to 1.00% C
+Carbon steels with these higher carbon
+contents are more restricted in application
+than are the 0.25 to 0.55% C steels because
+of decreased machinability, poor formability, and poor weldability, which make them
+more difficult and more costly to fabricate.
+They are also less ductile after hardening
+and tempering. Higher-carbon steels such
+as 1070 to 1095 are especially suitable for
+springs that require resistance to fatigue and
+permanent set. They are also used in the
+nearly fully hardened condition (55 HRC
+and higher) for applications in which abrasion resistance is a primary requirement, as
+for agricultural tillage tools such as plowshares and knives for cutting hay or grain.
+Forged parts should be annealed because
+the refinement of the forging structure is
+important in producing a high-quality hardened product and because the as-forged
+parts are too hard for cold trimming or for
+economical machining. Ordinary annealing
+practice, followed by furnace cooling to
+about 595 °C (1100 °F), is satisfactory for
+most parts.
+Most of the parts made from steels in this
+group are hardened by conventional
+quenching. However, special techniques
+are necessary at times. Both oil and water
+quenching are used; water is used for heavy
+sections of the lower-carbon steels and for
+cutting edges, and oil is used for general
+purposes. Austempering and martempering
+are often applied successfully; the principal
+advantages from such treatments are considerably reduced distortion, elimination of
+breakage (in many instances), and greater
+toughness at high hardness.
+For heavy machinery parts, such as shafts,
+collars, and the like, 1055 and 1561 steels
+may be used, either normalized and tempered for low strength or quenched and
+tempered for moderate strength. Other
+steels in the list may be used, but the
+combination of carbon and manganese in
+the two mentioned makes them particularly
+well adapted to such applications.
+Even with favorable hardenability factors
+and with the use of a drastic quench, these
+
+456 / Hardenability of Carbon and Low-Alloy Steels
+steels are much shallower hardening than
+are alloy steels because carbon alone, or in
+combination with manganese in the
+amounts involved here, does not promote
+deep hardening. Therefore, the sections for
+which such steels are suited will definitely
+be limited. Even so, the danger of quench
+cracking is real and must be carefully guarded against when such parts are heat treated,
+especially parts of nonuniform section.
+For hardening wrenches (except the Stillson type), screwdrivers, pliers, and similar
+tools, oil quenching is generally used, followed by tempering to the required hardness range. Even when no reduction of
+as-quenched hardness is desired, stress relieving at 150 to 190 °C (300 to 375 °F) is
+desirable to help prevent sudden service
+failures. In Stillson-type wrenches, the jaw
+teeth are really cutting edges and are nearly
+always quenched in water or brine to produce a hardness of 50 to 60 HRC. Either the
+jaws may be locally heated and quenched or
+the parts may be heated all over and the
+jaws locally time quenched in water or
+brine. The entire part is then quenched in oil
+for partial hardening of the remainder. In
+this way, considerable structural strength is
+obtained.
+Hammers must possess high hardness on
+the striking face and somewhat lower hardness on the claws. They are usually locally
+hardened and tempered on each end, depending on type. The striking face is always
+quenched in water or brine. Satisfactory
+service depends on obtaining the proper
+depth of fully hardened (martensitic) surface on this face and then stress relieving at
+about 175 °C (350 °F). Final hardness is
+usually 50 to 58 HRC on the striking face
+and 40 to 47 HRC on claws.
+Hand cutting tools, particularly axes and
+hatchets, must possess high hardness and
+high relative toughness in their cutting edges, as well as the ability to hold a keen edge.
+Because nothing is as effective as carbon in
+imparting the latter property, the carbon
+content is always higher than if hardness
+and toughness alone were required. Many
+such tools are given an ordinary furnace
+anneal after forging, but high-quality tools
+are prepared for hardening by spheroidization, which may be performed as a separate
+operation after regular annealing. Most frequently, however, the spheroidizing and
+hardening treatments are combined by heating to 870 °C (1600 °F), quenching in oil, and
+then tempering at 675 to 745 °C (1250 to
+1375 °F).
+For hardening, the cutting edges of such
+tools are usually heated in liquid baths to
+the lowest temperature at which the piece
+can be hardened and are then quenched in
+brine. The quick heating of the liquid bath
+and the low temperature fail to put all the
+spheroidal carbide into solution. As a result, the cutting edge of the tool consists of
+martensite with less carbon than indicated
+
+by the chemical composition of the steel; it
+also contains particles of cementite. In this
+condition, the tool is at its maximum toughness, relative to its hardness, and the cementite particles promote long life of the
+cutting edge. Final hardness may range
+from 55 to 60 HRC.
+
+Agricultural Machinery
+
+Components.
+
+Manufacturers of agricultural implements
+make wide use of the steels in this group.
+Braces, control rods, shafts, and similar
+parts are often made of high-carbon steels
+to obtain increased strength without the
+additional cost of heat treating. The principal heat-treated parts are plowshares, moldboards, coulters, cultivator shovels, disks
+for harrows and plows, mower and binder
+knives, ledger plates, and band knives.
+Those parts used for cutting or turning soil
+must be moderately tough, with the ability
+to resist abrasion. They are made of steels
+containing various combinations of carbon
+and manganese that will permit full hardening.
+Grass-cutting and grain-cutting tools are
+usually made of 1090 or 1095 steel because
+the higher carbon level provides the desired
+edge to give a long service life. These parts
+are made from strip stock by blanking. They
+are not annealed below the transformation
+range, except for some process annealing
+that may be done at the rolling mill. As a
+result, spheroidization is obtained only occasionally. Local hardening is done either
+by induction heating or in continuous furnaces provided with fixtures that permit the
+pieces to be heated on the cutting edges
+only. Upon discharge, the parts are
+quenched all over in oil and are tempered at
+a low temperature. Final hardness on the
+cutting edges may range from 55 to 60 HRC.
+
+Alloy Steels
+Alloy steels are ordinarily quench hardened and tempered to the level of strength
+desired for the application. The tempered
+martensite or bainite thus obtained imparts
+toughness, the capability of deforming without rupture.
+The several elements commonly dissolved in austenite prior to quenching increase hardenability in approximately the
+following ascending order: nickel, silicon,
+manganese, chromium, molybdenum, vanadium, and boron. The addition of several
+alloying elements in small amounts is more
+effective in increasing hardenability than
+the addition of much larger amounts of one
+or two alloying elements.
+To increase hardenability effectively, it is
+essential that the alloying elements be in
+solution in the austenite. Steels containing
+the carbide-forming elements, that is, chromium, molybdenum, and vanadium, require
+special consideration in this respect. These
+elements are present predominantly in the
+carbide form in annealed steels; such car-
+
+bides dissolve only at higher temperatures,
+and dissolution proceeds more slowly than
+for iron carbide. Hence, for effectiveness,
+heating schedules should be set up to dissolve an adequate proportion of these elements. It is uneconomical to heat at such
+low temperatures that the carbide-forming
+elements are largely undissolved.
+Because the basic function of alloying in
+these steels is to increase hardenability, the
+selection of a steel and the choice of suitable austenitizing conditions should primarily be based on obtaining adequate hardenability. More than adequate hardenability is
+rarely a disadvantage, except in terms of
+cost.
+
+Alloying Elements in Quenching
+Because the sections treated are often
+relatively large and because the alloying
+elements have the general effect of lowering
+the temperature range at which martensite
+is formed, the thermal and transformational
+stresses set up during quenching tend to be
+greater in these alloy steel parts than those
+encountered in quenching the necessarily
+smaller sections of plain carbon steels. In
+general, the greater stresses result in distortion and risk of cracking.
+Alloying elements, however, have two
+functions that tend to offset these disadvantages. First and probably most important is
+the capacity to permit the use of a lower
+carbon content for a given application. The
+decrease in hardenability accompanying the
+decrease in carbon content may be readily
+offset by the hardenability effect of the
+added alloying elements, and the lower carbon steel will exhibit a much lower susceptibility to quench cracking. This lower susceptibility results from the greater plasticity
+of the low-carbon martensite and from the
+generally higher temperature range at which
+martensite is formed in the lower-carbon
+materials. Quench cracking is seldom encountered in steels containing 0.25% C or
+less, and the susceptibility to cracking increases progressively with increasing carbon content.
+The second function of the alloying elements in quenching is to permit slower rates
+of cooling for a given section because of
+increased hardenability, thereby generally
+decreasing the thermal gradient and, in
+turn, the cooling stress. It should be noted,
+however, that this is not altogether advantageous, because the direction, as well as
+the magnitude, of the stress existing after
+the quench is important in relation to cracking.
+To prevent cracking, surface stresses after quenching should be either compressive
+or at a relatively low tensile level. In general, the use of a less drastic quench suited to
+the hardenability of the steel will result in
+lower distortion and greater freedom from
+cracking.
+
+LIVE GRAPH
+
+Click here to view
+
+2000
+
+550
+
+1750
+
+I
+|1 _ ~
+Normal I
+expectanclY
+
+~
+
+(260)1800
+
+~
+
+,260
+
+. ..............
+
+1ooo
+
+~
+
+500 ~ .
+
+(230)
+_
+
+- lOO~.
+
+"~ 400
+
+- 50
+
+= 350
+
+tolnc°mpletehardeningreSp°nse
+-///,4~//~ ~.
+~
+
+250
+
+100 150 200 250 300 350 400 450 500
+Hardness,HB
+
+Relation between tensile strength and Brinell
+HS" 5 hardnessfor steels in the as-rolled, normalized, or quenched and tempered condition. The tensile strength in ksi is approximately one-half the
+Brinell hardness number and in MPa is approximately
+3~ times the Brinell hardness number.
+
+xo 300
+
+Mechanical Properties
+When quenched to martensite and tempered to the same hardness, carbon and
+alloy steels have similar tensile properties in
+that portion of the cross section that reacts
+to the quench. If carbon steel has the hardenability required by the critical section of
+the part and the quench used, the resulting
+tensile strength, yield strength, and elongation in the fully hardened zone will be in the
+same range as in a similar zone in an alloy
+steel quenched and tempered to the same
+hardness. The similarity in properties of the
+hardened zones is maintained, regardless of
+the depth of hardening, but the strength of
+the pieces will be governed by the thickness
+of the respective hardened zone (depth of
+hardening).
+
+~
+
+<~"
+250
+
+,35
+
+(200)1200~E
+
+_
+
+1000
+
+(145)F~c
+_.o
+
+/
+
+ms05r-T /
+
+'3601!
+
+14oo "~_
+
+-(175) ~
+]
+
+j f ~
+
+200
+
+11151
+
+i-
+
+~ched--
+
+, ,
+
+- 350
+
+300-r
+I / I ~
+250
+I ~
+When not fully
+< 215[-hardened,tempering
+curve will a p p r o a c h ~
+-- 200
+this line.
+145L- 50(
+I
+I
+-- 150
+200 300 400 500 600 700
+Tempering temperature, °C
+"~290
+
+00(
+
+!
+
+Effect of tempering temperature on tensile
+
+150
+50
+
+Furthermore, the increased hardenability
+of these alloy steels may permit heat treatment by austempering or martempering,
+and therefore the level of adverse residual
+stress before tempering may be held to a
+minimum. In austempering, the workpiece
+is cooled rapidly to a temperature in the
+lower bainite region and is held at that
+temperature so that the section transforms
+completely to bainite. Because transformation occurs at a relatively high temperature
+and proceeds rather slowly, the stress level
+after transformation is quite low, and distortion is minimal.
+In martempering, the workpiece is cooled
+rapidly to a temperature just above M~, held
+there until the piece attains a uniform temperature throughout, and then is cooled
+slowly (usually by air cooling) through the
+martensite range. This procedure causes
+martensite to form more or less simultaneously throughout the entire section, thereby
+holding transformational stresses at a very
+low level, which minimizes distortion and
+the danger of cracking.
+
+_ 1600
+
+45O
+
+-
+
+~
+
+/
+
+500
+
+_200;
+
+Tempering temperature, °F
+600 800 1000 1200
+t
+I I ] I I I
+Fully hardeneds t e e l : - - 55O
+\
+[o o c. I - 500
+~ = o i l quenchedJ
+45O
+.water
+-go
+>'--.
+o3o c,- 400-1-
+
+400
+58OF- 10oc
+
+~.~ 250
+
+is00
+
+~ _750
+.,
+
+Hardenable Carbon and Low-Alloy Steels / 457
+
+LIVE GRAPH
+
+Click here to view
+
+J
+
+"Above normal 600
+expectancy (85)
+
+60
+70
+80
+90
+100
+Yield strength, % of tensile strength
+
+Relation between tensile strength and yield
+I:l=i
+" b " 6 strength for quenched and tempered steels.
+Source: Ref 1
+
+Figure 5 shows the relationship between
+hardness and tensile strength for hardened
+and tempered, as-rolled, annealed, or normalized carbon and alloy constructional
+steels. Because of the effect of cold working, this relationship may not apply to colddrawn steels. Figure 6 shows the relation
+between tensile strength and yield strength.
+The effect of tempering temperature on
+tensile strength and hardness is shown in
+Fig. 7.
+An important exception to this similarity
+of properties is the relationship between
+tensile strength and the reduction in area.
+Figure 8 shows the direct relationship between ductility and hardness and illustrates
+that the reduction in area decreases as hardness increases and, for a given hardness,
+the reduction is higher for alloy steels than
+for plain carbon steels. Figures 5 to 8 further reinforce the contention that, despite
+some differences in certain properties, the
+major difference between carbon and alloy
+steels is hardenability.
+One other and sometimes important difference between carbon and alloy steels is
+that, for the same hardness levels, fully
+quenched alloy steels require higher tempering temperatures than do carbon steels.
+This higher tempering temperature is presumed to reduce the stress level in the
+finished parts without impairing mechanical
+properties.
+Property relations given in Fig. 5 to 8
+illustrate general correlations among mechanical properties of steels. Normal variations in composition and grain size from
+heat to heat and even within one heat produce a considerable scatter of results in
+sections of the same size.
+
+Fig. 7 strength and hardness of hardened carbon
+
+and alloy steels with carbon contents of 0.50 and
+0.30%
+
+LIVE GRAPH
+
+Click here to view
+
+Changes in section size have a greater
+influence on the mechanical properties of
+carbon steels (particularly when quenched
+and tempered) than on the properties of
+alloy steels because of the lower hardenability of carbon steels. The section size of a
+heat-treated section affects not only specific
+properties, but also the relation of one property to another. As the section size increases, incomplete response to hardening
+lowers the ratio of yield strength to tensile
+strength. Figure 9 shows mechanical property relations for 1030 steel in both the
+as-rolled and quenched and tempered conditions, as a function of section size. The
+tensile strength decreases as the section
+size increases for a given composition and
+heat treatment, and there is some lowering
+of the ratio of yield to tensile strength.
+As the section size increases and the
+hardness and strength levels increase, the
+hardenability of carbon steels is no longer
+adequate, and alloy steels must be used.
+The H-band alloy steels that should be
+considered for different design yield
+strength levels for highly stressed parts are
+given in Table 3 for round sections up to 102
+mm (4 in.) in diameter. Either oil quenching
+or water quenching these alloys, as noted,
+should give 80% martensite at the indicated
+location within the section. For moderately
+stressed parts, a 50% martensite structure
+at the center is frequently adequate. The
+H-band alloy steels that can produce 50%
+martensite at the indicated location by oil or
+water quenching are given in Table 4 for
+round sections up to 102 mm (4 in.) in
+diameter. This information is intended to be
+a guide in the selection of an appropriate
+alloy steel; variations in equipment and
+techniques will greatly influence the final
+properties obtained. The grades are listed in
+the approximate order of increasing alloy
+cost to further aid in the initial screening of
+candidate alloys.
+
+458 / Hardenability of Carbon and Low-Alloy Steels
+
+LIVE GRAPH
+Click here to view
+
+560
+1900
+(275)
+1800
+(260)
+
+520
+
+1700
+(245)
+480
+1600
+(230)
+440
+1500
+(215)
+', Alloy steels i
+
+en
+
+"1"
+
+1400
+
+(2OO)
+
+400
+
+~d
+
+==
+
+"O
+
+1300
+(190)
+
+E
+
+o~
+
+360
+1200
+(175)
+
+Carbon steels
+
+1100
+(160)
+
+320
+
+I000
+(145)
+
+280
+
+900
+(130)
+240
+800
+(115)
+
+200 ~
+70
+
+60
+
+.L
+40
+
+50
+
+-a
+30
+
+L-20
+
+700
+(100)
+10
+
+Reduction of area, %
+
+Fig. 8 Relation between tensile strength and the reduction in area for quenched and tempered steels
+Increasing carbon content consistently in-
+
+creases tensile and yield strength and decreases elongation and reduction in area,
+regardless of whether the steel is as-rolled
+or quenched and tempered (provided the
+ranges of tempering temperatures are the
+same). However, there is one major disadvantage to increasing the carbon content:
+Carbon steels show an increasing tendency
+to crack on quenching as the carbon content
+increases above about the 0.35% level. Consequently, parts to be made from steel having a carbon content greater than 0.35%
+should be tested for quench cracking before
+production is begun.
+Variations in chemical composition within
+a specific grade contribute to the scatter of
+mechanical properties. This is illustrated by
+
+the test data in Fig. 10, where the properties
+for two heats of quenched and tempered
+1050 steel are compared for a tempering
+range of 315 to 650 °C (600 to 1200 °F).
+
+Tempering
+Hardened steels are softened by reheating, although this effect may not be sought
+in tempering. The real need is to increase
+the capability of the steel to flow moderately without fracture, and this is inevitably
+accompanied by a loss of strength. The
+tensile strength is very closely related to
+hardness in this class of steels, as heat
+treated; thus, the effects of tempering can
+be followed by measuring the Brinell or
+Rockwell hardness.
+
+Figure 11 shows the response to tempering of four carbon and alloy steels containing 0.45% C. All steels were tempered for 1
+h at the temperatures indicated. Somewhat
+shorter or longer intervals at temperature
+would affect hardness, values to various
+degrees, depending on the tempering temperature.
+The general effect of alloying is to retard
+the tempering rate, and therefore alloy
+steels require a higher tempering temperature to obtain a given hardness than does
+carbon steel of the same carbon content.
+However, the individual elements show significant differences in the magnitude of their
+retarding effect. Nickel, silicon, aluminum,
+and, to a large extent, manganese, all of
+which have little or no tendency to occur in
+the carbide phase and merely remain dissolved in ferrite, have only a minor effect on
+the hardness of the tempered steel, as
+would be expected from the general pattern
+of solid-solution hardening.
+However, the carbide-forming elements,
+chromium, molybdenum, and vanadium, retard softening, particularly at higher tempering temperatures. These elements do not
+merely raise the tempering temperature;
+when they are present in higher percentages, the rate of tempering is no longer a
+continuous function of tempering temperature. That is. the tempering curves for these
+steels will show a range of tempering temperature in which the tempering is retarded
+or, with relatively high alloy content, in
+which the hardness may actually increase
+with an increase in tempering temperature.
+This characteristic behavior is known as
+secondary hardening and results from a
+delayed precipitation of fine alloy carbides.
+Secondary hardening is most often encountered in the higher-alloy tool steels.
+As mentioned previously, the primary
+purpose of tempering is to impart plasticity
+or toughness to the steel, and the loss in
+strength is only incidental to this very important increase in toughness. The increase
+in toughness after tempering reflects two
+effects of tempering:
+• The relief of residual stress induced during quenching
+• The precipitation, coalescence, and spheroidization of iron and alloy carbides,
+resulting in a microstructure of greater
+plasticity
+In addition to their effects on microstructure, the alloying elements have a secondary function. The higher tempering temperatures for a given hardness, which has been
+determined to be characteristic of alloy
+steels (particularly those containing carbide-forming elements), will presumably
+permit greater relaxation of residual stress
+and thereby improve properties. Furthermore, as discussed in the section "Alloying
+Elements in Quenching" in this article, the
+hardenability of these steels may permit the
+
+H a r d e n a b l e C a r b o n and L o w - A l l o y Steels / 4 5 9
+Forged to 25.4 mm (1.00 in.) diem
+
+700
+
+75 80
+
+Tensile strength, ksi
+85 90 95 100 105 110 115
+
+1
+
+[I
+
+v3(101)
+
+6oo)
+
+"
+
+I
+
+Reference line,
+yield strength
+v
+
+° I
+
+I
+
+I
+
+I
+
+~--(101)
+
+~
+
+;
+
+~ ooo.~
+
+~
+
+-o
+~800
+
+Click here to view
+
+'E
+E
+
+=o
+
+Tensile strength, ksi
+75 80
+85 90 95 100 105 110 115
+'
+[ II ' I' ' I l
+Reference line, elongation
+[ / /
+
+40
+
+~ ~ / o-
+
+30
+
+._c
+20
+
+_
+
+10
+500
+
+LU
+
+550
+
+LIVE GRAPH
+
+°
+
+'
+
+80
+
+o~
+
+400
+
+(58)
+
+to
+
+300
+(44)
+500
+
+~"
+
+9~
+
+---
+
+g o~-
+
+-550
+
+~
+
+40
+
+85
+l
+
+90
+l
+
+~
+
+550
+
+600 650 700
+750
+Tensile strength, MPa
+
+o°
+
+--
+
+550 600
+650 700
+Tensile strength, MPa
+80
+
+o
+~=
+
+uJ
+
+90
+
+I L I
+
+l
+
+~lRefere?ce
+•
+
+~?o o
+
+750
+
+800
+
+100
+
+110
+
+'1
+
+II
+
+line, elongation
+
+~ . -~
+
+o O
+
+~ 20
+g
+
+800
+
+0
+
+o
+
+" ~
+
+- o
+o
+
+10
+
+75 80
+I
+
+85
+I
+
+o~
+.c_~'80
+
+--o~ y ~
+
+60
+
+450
+
+500
+
+550
+
+90 95 100 105 110 175
+I 11 i i I
+I
+Reference line,
+a~-r e a ~
+reduction
+~. ~ o in Ooo
+~.
+
+100
+o~
+.-~" 80
+~
+
+--o
+
+40
+
+~
+
+70
+I
+
+80
+
+600 650 700
+750
+Tensile strength, MPa
+
+700
+
+750
+
+800
+
+800
+
+90
+I
+
+60
+
+~
+
+I°° o,
+40
+
+oO
+
+o
+o
+0
+
+20
+450
+
+100
+I
+
+110
+I
+
+Reference line,
+- - - - --__ " ' /" ~ - - -- -reduction
+'~ in area
+
+or
+
+550
+
+650
+
+Click here to view Tensile strength, ksi
+
+~
+
+20
+500
+
+600
+
+LIVE GRAPH Tensile strength, MPa
+
+Click here to view Tensile strength, ksi
+
+800
+
+500
+
+70
+40
+
+/3C
+
+550
+
+-
+
+~(p p 8
+~ °c
+
+LIVE GRAPH
+
+~
+20
+500
+
+.
+
+300
+(44)
+200
+(29)
+450
+
+800
+
+o
+o
+
+Click here to view Tensile strength, ksi
+
+600
+650 700
+750
+Tensile strength, MPa
+
+LIVE GRAPH
+
+~
+
+1/ ~']~I . ., i
+
+0
+
+500
+
+100
+
+J
+
+yield strength ~.~s
+~- ~- t ~"
+
+4oo
+
+~
+"o
+~-
+
+o(
+
+30
+
+10
+
+40
+
+(73)
+
+b ~
+
+o
+,~
+
+rc
+
+IIReference
+II line,
+
+o~ 30
+~
+
+c
+
+~
+
+~~.
+
+o
+
+20 --Reference line, elongation
+
+~-~
+
+Hot rolled to 25.4 mm (1.00 in.) d i e m
+Tensile strength, ksi
+70
+80
+90
+100
+110
+
+500
+
+95 100 105 110 115
+I
+l
+I
+
+.-~
+
+800
+
+600
+--(87)~
+
+°
+
+.E
+
+600 650
+700
+750
+Tensile strength, MPa
+
+[
+
+~ ' "
+
+o
+
+85 90 95 100 105 110 115
+I i I il
+I
+[
+I
+1
+Reference line,
+~reduction in area
+o
+~'"¢' ~ 9°~~: ~ ° ~ "
+
+60
+
+500
+
+50 75 80
+I
+
+75 80
+I
+
+o~
+
+Reference line,
+yield strength ~
+
+°~°c~. o
+
+Click here to view Tensile strength, ksi
+100
+
+1
+
+-
+
+o~
+-..__.
+c~
+E
+
+o
+
+I
+
+Click here to view Tensile strength, ksi
+
+=o
+o~
+
+.-~
+
+Ill
+
+600 650 700
+750
+LIVE GRAPH Tensile strength, MPa
+
+E
+
+.~o~
+
+I
+
+(87)
+-
+
+400
+~ "°'°{ '
+(58) ,~
+o
+300
+(44}
+500
+550 600 650 700
+750
+LIVE GRAPH Tensile strength, MPa
+
+11
+
+600
+
+~
+
+o ccc
+
+-o
+-~
+>-
+
+50
+
+700
+
+Forged to 57.15 mm (2.25 in.) diem
+Tensile strength, ksi
+75 80 85 90 95 100 105 110 115
+
+500
+
+"~
+
+o
+0 0
+
+550 600 650
+700
+Tensile strength, MPa
+
+750
+
+800
+
+Effect of processing variables on mechanical properties of 1030 steel. Billets of 1030 steel were either forged to 25 mm (1 in.) or 57.15 mm (2.25 in.) in diameter,
+Fig. 9 then quenched and tempered, or they were hot rolled to 25 mm (1 in.) in diameter and not heat treated. Heat-treated specimens were water quenched from 870
+°C (1600 °F) and tempered at 535 to650 °C (1000 to 1200 °F). Specimens were taken from the center of 25 mm (1 in.) bars and at half-radius from the 57.15 turn (2.25 in.)
+bars. Reference lines represent mean values for the forged and heat-treated 25 mm (1 in.) diem bars.
+
+LIVE GRAPH
+Click here to view
+
+use of less drastic quenching practices, so
+that the stress level before tempering will be
+lower, permitting these steels to be used at
+a higher level of hardness; this is because
+higher temperatures are not required for
+relief of quenching stresses. It should he
+noted, however, that this latter characteristic is only a secondary function of alloying
+elements in tempering; the effect primarily
+reflects the hardenability function of the
+alloying elements.
+Another secondary function of alloying
+elements in tempering is to permit the use of
+steels with lower carbon content for a given
+level of hardness, because adequate tempering may be ensured by the retardation of
+softening caused by alloying. This results in
+greater freedom from cracking and generally improved plasticity at any given hardness. Here again, the function of alloying
+elements in tempering is a secondary func-
+
+LIVE GRAPH
+
+LIVE GRAPH
+
+Click here to view
+
+Click here to view
+
+tion; their primary function is to increase
+hardenability sufficiently to offset the effect
+of a decreased carbon content.
+The increase in plasticity upon tempering
+is discontinuous in those alloy steels that
+contain the carbide-forming elements; the
+behavior of notched specimens shows a
+characteristic irregularity at approximately
+260 to 315 °C (500 to 600 °F). The quenched
+martensitic steel gains toughness, as reflected in a notched-bar impact test, by tempering at temperatures as high as 205 °C (400
+°F). However, after tempering at higher
+temperatures, in the temper-brittle range,
+these types of steel lose toughness until
+they may be less tough than the same steels
+not tempered. Still higher tempering temperatures restore greater toughness (see
+Fig. 12).
+The mechanism of this behavior is not
+fully understood, but it seems to be associ-
+
+ated with the first precipitation of carbide
+particles and is presumably a grain boundary phenomenon; fractures of steels tempered in this region tend to follow intergranular paths. Thus, there is a range of
+tempering temperatures at about 205 to 370
+°C (400 to 700 °F) never used for these
+steels; the tempering temperature is either
+below 205 °C (400 °F) or above 370 °C (700
+°F). Although this phenomenon is common
+to all of these alloy steels, the alloying
+elements have a secondary function in this
+connection; a combination of carbon and
+alloy contents of suitable hardenability may
+be chosen that would permit tempering to
+the desired strength at temperatures outside
+this undesirable range.
+Temper brittleness is another example of a
+discontinuous increase in plasticity subsequent to the tempering of steels containing
+the carbide-forming elements. This phe-
+
+460 / Hardenability of Carbon and Low-Alloy Steels
+Table 3 Alloy steel selection guide for highly stressed parts
+Unless otherwise indicated in the footnotes, any steel in this table may be considered for a lower strength level or a smaller section, or both.
+
+[~
+
+Required yield strength ~ ]
+MPa
+ksi
+
+As-tempered hardness
+HRC
+HB
+
+[ - Steels to give 80% martensite, minimum, for indicated location in a round section of indicated diameter - - [
+[-At center - - ]
+I
+At midradius - - ]
+[
+At 3/4 radius - I
+-<13 mm
+13-25 mm
+25-38 mm
+38-50 mm
+50-63 mm
+63-75 mm
+75-89 mm
+89-102 mm
+
+(1/2 in.)
+
+(1/2-1 in.)
+
+(I-11/2 in.)
+
+(IV2-2 in.)
+
+(2-2V2 in.)
+
+(2V2-3 in.)
+
+(3-3t/2 in.)
+
+(31/2-4 in.)
+
+Oil quenched and tempered
+
+620-860(a)
+
+90-125(b) . . . . . . . . . . .
+
+23-30
+
+241-285
+
+1330H
+5132H
+4130H
+8630H
+
+94B30H
+
+860-1030(c)
+
+125-150 . . . . . . . . . . . .
+
+30-36(d)
+
+285-341
+
+1335H
+5135H
+
+4135H
+8640H
+94B30H
+8740H
+
+4137H
+
+4142H
+
+9840H
+
+1030-1170(e)
+
+150-170 . . . . . . . . . . . .
+
+36-41(0
+
+331-375
+
+1340H
+5140H
+4135H
+8637H
+94B30H
+3140H
+
+50B40H
+4137H
+8642H
+8645H
+8742H
+
+4140H
+94B40H
+
+4145H
+9840H
+
+86B45H
+4337H
+
+1170-1275(g)
+
+170-185 . . . . . . . . . . . .
+
+41-46(h)
+
+375-429
+
+50B46H
+5145H
+50B40H
+4140H
+8640H
+8642H
+8645H
+8740H
+8742H
+
+5155H
+50B44H
+5147H
+94B40H
+6150H
+
+81B45H
+4142H
+4145H
+8650H
+8655H
+4337H
+
+86B45H
+9840H
+
+4147H
+4340H
+
+4150H
+
+>1275(i)
+
+>185 . . . . . . . . . . . . . .
+
+46 min(j)
+
+429 min
+
+5150H
+5155H
+50B44H
+5147H
+9260H
+81B45H
+8650H
+86B45H
+6150H
+
+5160H
+50B50H
+9262H
+4147H
+8655H
+
+50B60H
+51B60H
+8660H
+
+4150H
+
+4337H
+4340H
+
+4340H
+
+9805H
+E4340H
+
+9850H
+
+Water quenched and tempered(k)
+
+620-860(a)
+
+90-125 . . . . . . . . . . . . .
+
+23-30(b)
+
+241-285
+
+5130H
+5132H
+4130H
+8630H
+
+5135H
+
+4135H
+
+94B30H
+
+860-1030(c)
+
+125-150 . . . . . . . . . . . .
+
+30-36(d)
+
+285-341
+
+1330H
+5135H
+
+1335H
+
+4135H(I)
+8640H(1)
+8740H(I)
+3140H(I)
+
+1340H(m)
+8637H(m)
+
+50B40H
+8642H
+94B30H
+
+4137H
+4140H
+
+94B40H
+
+1030-1170(e)
+
+150-170 . . . . . . . . . . . .
+
+36-41(0
+
+331-375
+
+1330H
+1335H
+5130H
+5132H
+5135H
+4130H
+8630H
+
+4042H
+4047H
+
+1340H
+50B46H
+5140H
+4135H
+8637H
+94B30H
+3140H
+
+50B40H(I)
+4137H(1)
+8642H(1)
+8745H(I)
+
+8640H(m)
+8740H(m)
+
+50B44H
+5147H
+4140H
+8645H
+8742H
+
+94B40H
+
+81B45H
+4142H
+4337H
+
+1170-1275(g)
+
+170-185 . . . . . . . . . . . .
+
+41-46(h)
+
+375-429
+
+5140H
+4037H
+4042H
+4137H
+8637H
+
+1340H
+50B46H
+3140H
+
+5145H
+50B40H
+8640H
+8642H
+8740H
+
+50B44H(I)
+5147H(1)
+81B45H(I)
+94B40H(I)
+
+4140H(m)
+8645H(m)
+8742H(m)
+
+4142H
+
+81B45H
+4337H
+
+4145H
+4147H
+86B45H
+9840H
+4340H
+E4340H
+
+>1275(i)
+
+>185 . . . . . . . . . . . . . .
+
+46 min(j)
+
+429 min
+
+5046H
+50B46H
+5145H
+4047H
+4142H
+8642H
+
+5147H
+4145H
+8645H
+86B45H
+
+50B44H
+
+81B45H(m)
+
+4147H
+
+(a) Tensile strength, 790 to 940 MPa (115 to 138 ksi). b) As-quenched hardness, 42 HRC or 388 HB. (c) Tensile strength, 940 to 1100 MPa (136 to 160 ksi). (d) As-quenched hardness, 44 HRC, or 415 HB.
+(e) Tensile strength, 1100 to 1300 MPa (160 to lg8 ksi). (f) As-quenched hardness, 48 HRC, or 461 HB. (g) Tensile strength, 1300 to 1530 MPa (188 to 222 ks ). (h) As-quenched hardness, 5 HRC, or 495
+HB. (i) Tensile strength, over 1530 MPa (222 ksi). (j) As-quenched hardness, 55 HRC, or 555 HB. (k) Through steels with 0.47% C nominal. (I) May be substituted for steels listed under the 50 to 63 mm
+(2 to 21/2 in.) column at same strength level or less. (m) Not recommended for applications requiring 80% martensite at midradius in sections 38 to 50 mm (11/2 to 2 in.) in diameter because of insufficient
+hardenability. Source: Ref 3
+
+Hardenable Carbon and Low-Alloy Steels / 461
+Table 4 Alloy steel selection guide for moderately stressed parts
+Unless otherwise indicated in the footnotes, any steel in this table may be considered for a lower strength level or a smaller section, or both.
+
+~-Required yield strength ~
+MPa
+ksi
+
+As-tempered hardness
+
+- [-mAt
+'-<13 mm
+
+Steels to give 50% martensite, minimum, for indicated location in a round section of indicated diameter - center ~
+I ~
+At midradius ~
+[
+At 3/4 radius
+13-25 mm'
+'25-38 mm
+38-50 mm"
+50-63 mm
+63-75 mm
+75-89 mm
+89-102 mm ]
+
+HRC
+
+HB
+
+(V2 in.)
+
+(V2---Iin.)
+
+(1-1V2 in.)
+
+(IV2---2in.)
+
+4140H
+94B40H
+
+(2-21/2 in.)
+
+(21/~--3 i n . )
+
+(3-3V2in.)
+
+(3V~4 in.)
+
+4337H
+4340H
+
+Oil quenched and tempered
+
+620-860(a)
+
+90-125 . . . . . . . . . .
+
+23-30(b)
+
+241-285
+
+1330H
+5132H
+4130H
+8630H
+
+8737H
+
+50B40H
+8642H
+94B30H
+8740H
+3140H
+
+860-1030(c)
+
+125-150 . . . . . . . . .
+
+30-36(d)
+
+285-341
+
+1335H
+4042H
+4047H
+5135H
+
+4135H
+8640H
+94B30H
+8740H
+3140H
+
+50B44H
+5147H
+4137H
+8645H
+8742H
+
+1030-1170(e)
+
+150-170 . . . . . . . . . . .
+
+36--41(0
+
+331-375
+
+1340H
+5140H
+4135H
+8637H
+94B30H
+3140H
+
+5150H
+50B40H
+4137H
+8642H
+8645 H
+8742H
+
+5160H
+50B50H
+4140H
+94B40H
+6150H
+
+1170-1275(g)
+
+170-185 . . . . . . . . . . .
+
+41-46(h)
+
+375-429
+
+5145H
+50B40H
+50B46H
+4063H
+4140H
+8640H
+8642H
+8745H
+8740H
+8742H
+
+5155H
+50B44H
+5147H
+94B40H
+6150H
+
+>1275(i)
+
+>185 . . . . . . . . . . . . .
+
+46 minfj)
+
+429 min
+
+5150H
+5155H
+50B44H
+5147H
+9260H
+81B45H
+8650H
+86B45H
+6150H
+
+4142H
+
+4142H
+
+4145H
+
+4147H
+86B45H
+9840H
+
+51B60H
+8655H
+
+4145H
+9840H
+
+4147H
+86B45H
+4337H
+
+4150H
+4340H
+
+81B45H
+4142H
+4145H
+8650H
+8655H
+4337H
+
+86B45H
+9840H
+
+4147H
+8660H
+4340H
+
+4150H
+
+5160H
+50B50H
+9262H
+4147H
+8655H
+
+50B60H
+51B60H
+8660H
+
+4150H
+
+9850H
+E4340H
+
+9850H
+
+W a t e r quenched and tempered(k'~
+
+620-860(a)
+
+90-125 . . . . . . .
+
+J . . . . 23-30(b)
+
+241-285
+
+4037H
+5130H
+5132H
+4130H
+8630H
+
+5135H
+
+8637H(1)
+
+5140H(m)
+
+4135H
+
+50B40H
+8642H
+94B30H
+3140H
+
+4137H
+
+860-1030(c)
+
+125-150 . . . . . i . . . . . 30-36(d)
+
+285-341
+
+1330H
+5135H
+
+1335H
+
+4135H(1)
+
+1340H(m)
+8637H(m)
+
+50B40H
+8640H
+8642H
+94B30H
+8740H
+3140H
+
+50B44H
+5147H
+4137H
+8645H
+8742H
+
+4140H
+94B40H
+
+1030-1170(e)
+
+150-170 . . . . . . . . . . .
+
+36-41(0
+
+331-375
+
+1330H
+1335H
+5130H
+5132H
+5135H
+4130H
+8620H
+
+4042H
+4047H
+
+1340H
+50B46H
+5140H
+4135H
+8637H
+94B30H
+3140H
+
+50B40H(I)
+4137H(1)
+8642H(1)
+
+5145H(m)
+8640H(m)
+8740H(m)
+
+50B44H
+5147H
+4140H
+8645H
+8742H
+
+94B40H
+
+8|B45H
+4142H
+4337H
+
+1170-1275(g)
+
+170-185 . . . . . . . . . . .
+
+41-46(h)
+
+375-429
+
+5140H
+4037H
+4042H
+4137H
+8637H
+
+1340H
+50B46H
+3140H
+
+5145H
+50B40H
+8640H
+8642H
+8740H
+
+50B44H(I)
+5147H(1)
+94B40H(I)
+
+4140H(m)
+8645H(m)
+8742H(m)
+
+4142H
+
+81B45H
+4337H
+
+4145H
+4147H
+86B45H
+9840H
+4340H
+E4340H
+
+>12750)
+
+>185 . . . . . . . . . . . . .
+
+46 rain(j)
+
+429 min
+
+5046H
+50B46H
+5145 H
+4047H
+4142H
+8742H
+
+5147H
+4145H
+8645 H
+86B45H
+
+50B44H
+
+81B45H(m)
+
+4147H
+
+(a) Tensile strength, 790 to 940 MPa (115 to 136 ksi). (b) As-quenched hardness, 42 HRC, or 388 HB. (c) Tensile strength, 940 to 1100 MPa (136 to 160 ksi). (d) As-quenched hardness, 44 HRC, or 415 HB.
+(e) Tensile strength, ]100 to 1300 MPa (160 to 188 ksi). (f) As-quenched hardness, 48 HRC, or 461 HB. (g) Tensile strength, 1300 to 1530 MPa (188 to 222 ksi). (h) As-quenched hardness, 51 HRC, or 495
+HB. (i) Tensile strength, over 1530 MPa (222 ksi). (j) As-quenched hardness, 55 HRC, or 555 HB. (k) Through steels with 0.47% C nominal (1) May be substituted for steels listed under the 50 to 63 ram
+(2 to 2V2 in.} column at same strength level or less. (m) Not recommended for applications requiring 50% martensite at midradius in sections 38 to 50 mm (ll/z to 2 in.) in diameter because of insufficient
+hardenability. Source: Ref 3
+
+LIVE GRAPH
+Click here to view
+
+462 / Hardenability
+
+of Carbon
+
+and Low-Alloy
+
+Steels
+
+Tempering temperature,°F
+700 800 900 1000 1100 1200
+I
+I I t I I I
+I I ~ 254
+
+600
+
+175o ~
+
+1500 e ' ~
+
+o
+
+• Tensile strength
+
+LIVE GRAPH
+Click here to view
+
+600
+600 I
+
+218
+
+500
+
+1 8 0 ~
+
+400
+
+Tempering temperature, °F
+700 800 900 1000 1100 1200
+I
+I
+I
+I
+I
+
+Tempering temperature, °F
+200 400
+600 800 1000 1200
+I
+I
+I-6o
+6506001 ~ ~'~I11~ " ~ ' ~I
+[ I
+550I
+55
+
+,~l'~=. . , , ~A & Yield Istrength
+
+~" 1250 ~
+:E
+
+.~
+
+45° i
+
+-,-
+
+lOOO
+
+lO4 --
+
+750
+
+.., ~ . ~ ~
+
+109
+
+200
+
+5OO
+
+300 350 400 450 500 550 600
+Tempering temperature, °C
+
+E
+E
+o30
+
+600
+4O I
+
+100
+300 350 400 450 500 550 600 650
+Tempering temperature,°C
+
+650
+
+Tempering temperature, ° F
+700 800 900 1000 1100 1200
+I
+I
+I
+I
+I
+I
+
+600
+80 I
+
+Tempering temperatum,°F
+700 800 900 1000 1100 1200
+I
+
+I
+
+,~ 0o
+
+_-..._:-
+
+g .E"20
+
+~
+
+~
+
+~
+
+.,,,~- ~
+......
+
+=~'
+
+LLI
+
+.E
+
+~, 40
+
+-~
+
+l
+
+I
+
+~
+
+I
+
+I
+
+0
+
+3OO
+
+350 400 450 500 550 600 650
+Tempering temperature,°C
+
+Click here to view
+Tempering temperature, °F
+32 200 400 600 800 10001200 1400
+
+400
+
+450 500
+
+LIVE GRAPH
+
+in H e a t
+
+[
+
+~ 6O
+
+Hardness ~
+- - ~
+.E_ 20
+
+Click here to view
+
+Distortion
+
+i~ I ~
+Toughness
+
+550 000 650
+
+Effect of composition and tempering temperature on mechanical properties of 1050 steel. Properties are
+Fig. 1 0 summarized for two heats of 1050 steel that was forged to 38 mm (1.50 in.) in diameter, then water
+quenched and tempered at various temperatures. Open symbols are for heats containing 0.52 C and 0.93 Mn; closed
+symbols, for those containing 0.48 C and 0.57 Mn.
+
+nomenon is manifested as a loss of toughness, observed after slow cooling from tempering temperatures of 575 °C (1070 °F) or
+higher or after tempering in the temperature
+range between approximately 375 and 575
+°C (700 and 1070 °F). Thus, a steel that is
+susceptible to temper embrittlement may
+lose much of its plasticity, as indicated by a
+notched-bar impact test, during slow cooling from a high tempering temperature, although the same steel will be very tough if it
+is quenched from the same tempering temperature. This expedient of quenching from
+the tempering temperature is often overlooked as a practical means for avoiding
+severe temper embrittlement in susceptible
+steels tempered at 575 °C (1070 °F) or higher. In steels susceptible to temper brittleness, embrittlement will also be observed
+after tempering at 375 to 575 °C (700 to 1070
+°F), particularly if the tempering times are
+protracted. Under such circumstances,
+quenching from the tempering temperature
+will never restore the toughness.
+High manganese, phosphorus, and chromium concentrations appear to accentuate
+the embrittling reaction; molybdenum has a
+definite retarding effect. Here again, the
+carbon and alloying elements may be chosen so that the susceptibility to temper
+embrittlement is minimized or the desired
+strength level is obtained by tempering either below 375 °C (700 °F) or above 575 °C
+(1070 °F) and then quenching. Temper brittleness is discussed in greater detail in the
+article "Embrittlement of Steels" in this
+Volume.
+
+I
+
+100
+Tempering temperature, °C
+
+Click here to view
+
+700
+
+LIVE GRAPH
+
+t,
+
+300 350
+
+LIVE GRAPH
+
+200 300 400 500 600
+Tempering temperature, °C
+
+""-" ::::~
+
+2o
+
+0
+
+100
+
+Tempering characteristics of four 0.45% car"E," 1 1 bon and alloy steels tempered for 1 h
+
+Q~
+
+0
+
+4o
+
+Treatment
+
+Distortion during heat treatment may occur with almost any hardenable carbon or
+alloy steel, although distortion is usually
+more severe for carbon grades than for alloy
+grades of equivalent carbon content. Carbon steels distort more than alloy steels
+mainly because carbon steels require a water or brine quench to develop full hardness
+(at least in sections thicker than about 9.5
+mm, or 3/8 in.). This often eliminates carbon steels from consideration for critical
+parts.
+This distortion may be observed as a
+change in dimensions (size distortion) or a
+change in configuration or contour (shape
+distortion or warpage), or both. A more
+complete discussion of these types of distortion and the factors that influence them
+may be found in Ref 4 to 6.
+Several factors contribute to the total
+distortion that occurs during heat treatment. These include residual stresses that
+may be present as a result of machining or
+other cold-working operations, the method
+of placing in the furnace, the rate of heating,
+nonuniform heating, and the normal volumetric changes that occur with phase transformations. However, the most important,
+single factor is uneven cooling during
+quenching, caused mainly by the configuration and by changes in cross-sectional area.
+Symmetrical parts with little or no variation
+in section may have almost no distortion,
+whereas complex parts with wide variations
+in section may distort so much that they
+
+-
+
+0
+
+T
+40 ~"
+~/
+
+/11
+
+~
+0
+
+-r
+
+0 100 200 300 400 500 600 700 800
+Tempering temperature, °C
+Hardness and notch toughness of 4140 steel
+
+Fig. 12 tempered for 1 h at various temperatures
+
+cannot be used (or at least so much that
+they require excessive finishing operations
+to make them suitable for use).
+Other factors being equal, the distortion
+in carbon steels will increase as the carbon
+content increases because of the gradual
+lowering of the martensite start (M~) temperature with increasing carbon. There is
+also a significant variation in the magnitude
+of distortion and direction of dimensional
+change among different heats of the same
+grade of steel, even though other variables
+are minimal. This happens because of several factors, including minor variations in
+composition and grain size, but mainly because of the history of the steel with regard
+to hot working, cold working, and heat
+treatment.
+Because of the different variables that
+contribute to total distortion, the prediction
+of distortion in actual parts is seldom reliable if it is based on the behavior of small
+test pieces. The most practical approach is
+to make studies on pilot lots of actual pieces
+that have been heat treated under production conditions. This procedure eliminates
+the shape variable so that the direction and
+magnitude of distortion can be plotted as
+ranges that incorporate most of the other
+variables. After a quantity of such data has
+
+Hardenable Carbon and Low-Alloy Steels / 463
+been secured, a series of guideposts is established, and it becomes possible to predict distortion for similar parts made from
+the same steel grade with reasonable accuracy. However, it must be emphasized that
+any such study is accurate only when many
+parts made from different heats supplied by
+several mills are included.
+
+Induction and Flame Hardening
+The relatively low hardenability of carbon steels is often a primary reason for
+choosing them in preference to alloy steels
+for parts that are to be locally heat treated
+by flame or induction hardening. One of the
+oldest rules for selecting steels for heat
+treating is to choose grades that are no
+higher in carbon or alloy content than is
+essential to develop required properties.
+This rule remains valid in the selection of
+steels to be heat treated by induction or
+flame processes.
+When the peripheries of steel parts are
+heated rapidly and quenched, the tendency
+to crack depends mainly on a combination
+of four factors:
+• Final surface hardness
+• Temperature to which the surface has
+been heated
+• Uniformity of heating
+
+• Depth of hardened zone
+The optimum heat pattern for either induction or flame heating depends on the
+type of steel and on the mass and shape of
+the part. The ideal heat pattern for any
+specific part will provide a hardened shell to
+a depth that will strengthen the part by
+establishing a favorable stress pattern.
+However, if the hardened zone is too deep
+for the specific section thickness, high tensile stresses are established in the surface
+layers, and these may either cause cracking
+or adversely affect service life.
+Excessive depth of the hardened zone
+can be caused by improper processing
+(overheating, for instance) or by the choice
+of a steel with excessive hardenability.
+However, excessive carbon can aggravate
+other contributing factors and become the
+basic cause for cracking. The M~ temperature decreases as the carbon content increases. It is lowered further by higher
+austenitizing temperatures. In general, as
+the M S temperature is lowered, the probability of surface cracking increases.
+
+Fabrication of Parts
+and Assemblies
+Fabrication processes are usually performed on hardenable carbon and alloy
+
+steels in the unhardened condition, that is,
+prior to heat treating. This is done primarily
+to avoid the high cost and difficulty of
+fabrication that are characteristic of highstrength materials. However, even in the
+unhardened condition, there are differences
+among the various grades in respect to
+formability, weldability, machinability, and
+forgeability properties. In many instances,
+difficulties arising during the fabrication of a
+given hardenable steel are directly related
+to the maximum hardness that can be developed and to hardenability.
+
+REFERENCES
+1. 1989 SAE Handbook, Vol l, Materials,
+
+Society of Automotive Engineers, 1989
+2. S.L. Semiatin and D.E. Stutz, Induction
+Heat Treatment of Steel, American Society for Metals, 1986, p 24
+3. Republic Alloy Steels, Republic Steel
+Corporation, 1961
+4. B.S. Lement, Distortion in Tool Steels,
+American Society for Metals, 1959
+
+5. Properties and Selection of Tool Materials, American Society for Metals, 1975
+
+6. J.A. Ferrante, Controlling Part Dimensions During Fabrication and Heat
+Treatment, Met. Prog., Vol 87 (No. 1),
+Jan 1965, p 87-90; reprinted in Source
+Book on Heat Treating, Vol I, American
+Society for Metals, 1975
+
+

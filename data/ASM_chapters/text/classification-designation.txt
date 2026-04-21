@@ -1,0 +1,3210 @@
+ASM Handbook, Volume 1: Properties and Selection: Irons, Steels, and High-Performance Alloys
+ASM Handbook Committee, p 140-194
+DOI: 10.1361/asmhba0001009
+
+Copyright © 1990 ASM International®
+All rights reserved.
+www.asminternational.org
+
+Classification and Designation of
+Carbon and Low-Alloy Steels
+STEELS constitute the most widely used
+category of metallic material, primarily because they can be manufactured relatively
+inexpensively in large quantities to very
+precise specifications. They also provide a
+wide range of mechanical properties, from
+moderate yield strength levels (200 to 300
+MPa, or 30 to 40 ksi) with excellent ductility
+to yield strengths exceeding 1400 MPa (200
+ksi) with fracture toughness levels as high
+as 110 MPa~/-m (100 k s i ~ . ) .
+This article will review the various systems used to classify carbon and low-alloy
+steels*, describe the effects of alloying elements on the properties and/or characteristics of steels, and provide extensive tabular
+data pertaining to designations of steels
+(both domestic and international). More detailed information on the steel types and
+product forms discussed in this article can
+be found in the articles that follow in this
+Section.
+
+I Ferrousalloys I
+
+I
+
+I i
+
+commercial name ~,
+or application /
+
+t Classification
+by structure
+I
+Alloys without
+eutectic
+(<2% Con Fe-C
+diagram)
+
+Plain carbon
+steel
+
+Low-carbon I •
+steel
+1-~
+steel
+
+~
+
+(0.2-0.5% C) I
+
+I
+
+High-carbon]._
+steel
+
+(>0.5% c)
+
+••
+•
+"
+
+1 Ferritic-pearli
+
+1
+
+[
+
+•
+
+Pearlitic
+
+Classification of Steels
+Steels can be classified by a variety of
+different systems depending on:
+• The composition, such as carbon, lowalloy, or stainless steels
+• The manufacturing methods, such as
+open hearth, basic oxygen process, or
+electric furnace methods
+• The finishing method, such as hot rolling
+or cold rolling
+• The product f o r m , such as bar, plate,
+sheet, strip, tubing, or structural shape
+• The deoxidation practice, such as killed,
+semikilled, capped, or rimmed steel
+• The microstructure, such as ferritic,
+pearlitic, and martensitic (Fig. 1)
+• The required strength level, as specified
+in ASTM standards
+• The heat treatment, such as annealing,
+quenching and tempering, and thermomechanical processing
+• Quality descriptors, such as forging quality and commercial quality
+
+Low-alloy
+I
+steel
+___8%alloying
+elements
+
+[
+
+! Bainitic J
+
+High-alloy
+I
+steel
+> 8% alloying
+elements
+
+~
+
+Corrosion
+resistant
+
+[ Martensitic
+
+_J
+
+I
+
+Heat
+resistant
+
+I resistant
+Wear t
+
+Austenitic }
+Precipitation i
+hardened
+Austenitic- I
+ferritic
+Duplex I
+I structure
+
+Fig. 1 Classificationof steels. Source: D.M. Stefanescu,Universityof Alabama,Tuscaloosa
+
+*The term low-alloy steel rather than the more general term alloy steel is being used to differentiate the steels covered in this article from high-alloy steels. High-alloy steels
+include steels with a high degree of fracture toughness (Fe-9Ni-4Co), which are described in the article "Ultrahigh-Strength Steels" in this Section of the Handbook. They also
+include maraging steels (Fe-18Ni-4Mo-8Co), austenitic manganese steels (Fe-lC-12Mn), tool steels, and stainless steels, which are described in separate articles in the Section
+"Specialty Steels and Heat-Resistant Alloys" in this Volume.
+
+Classification and Designation of Carbon and Low-Alloy Steels / 141
+Table 1 Carbon steel cast or heat
+chemical limits and ranges
+Applicable only to semifinished products for
+forging, hot-rolled and cold-finished bars, wire
+rods, and seamless tubing
+Element
+
+Carbon(a) . . . . . . . . . . . .
+
+Manganese ...........
+Phosphorus ...........
+Sulfur . . . . . . . . . . . . . . . .
+
+Silicon (for bars)(b)(c)
+
+Copper ...............
+Lead(d) . . . . . . . . . . . . . .
+
+Maximum of
+specified element, %
+
+Table 2 Carbon steel cast or heat
+chemical limits and ranges
+Applicable only to structural shapes, plates,
+strip, sheets, and welded tubing
+Element
+
+Range, %
+
+-<0.12
+. - > 0 . 1 2 - 0 . 2 5 incl
+0.05
+> 0 . 2 5 - 0 . 4 0 incl
+0.06
+>0.41)4).55 incl
+0.07
+> 0 . 5 5 - 0 . 8 0 in¢l
+0.10
+>0.80
+0.13
+-<0.40
+0.15
+> 0 . 4 0 4 ) . 5 0 incl
+0.20
+> 0 . 5 0 - 1 . 6 5 incl
+0.30
+> 0 . 0 4 0 - 0 . 0 8 incl
+0.03
+> 0 . 0 8 - 0 . 1 3 incl
+0.05
+> 0 . 0 5 0 4 ) . 0 9 incl
+0.03
+> 0 . 0 9 - 0 . 1 5 incl
+0.05
+> 0 . 1 5 - 0 . 2 3 incl
+0.07
+> 0 . 2 3 - 0 . 3 5 incl
+0.09
+-<0.15
+0.08
+> 0 . 1 5 - 0 . 2 0 incl
+0.10
+>0.21)4).30 incl
+0.15
+> 0 . 3 0 - 0 . 6 0 incl
+0.20
+W h e n c o p p e r is required,
+0.20% m i n i m u m is
+commonly used
+W h e n lead is required, a r a n g e
+o f 0.15-0.35 is generally
+used
+
+Note: Boron-treated fine-grain steels are produced to a range of
+0.0005-0.003% B. lncl, inclusive. (a) The carbon ranges shown
+customarily apply when the specified maximum limit for manganese does not exceed 1.10%. When the maximum manganese limit
+exceeds 1.10%, it is customary to add 0.01 to the carbon range
+shown. (b) It is not common practice to produce a rephospborized
+and resnlfurized carbon steel to specified limits for silicon because
+of its adverse effect on machinability. (c) When silicon is required
+for rods the following ranges and limits are commonly used: 0.10
+max; 0.074).15, 0.104).20, 0.154).35, 0.2~0.40, or 0.31)4).60. (d)
+Lead is reported only as a range of 0.154).35% because it is
+usually added to the mold or ladle stream as the steel is poured.
+Source: Ref 1
+
+Of the aforementioned classification systems, chemical composition is the most
+widely used internationally and will be emphasized in this article. Classification systems based on deoxidation practice and
+quality descriptors will also be reviewed.
+Information pertaining to the microstructural characteristics of steels can be found
+in the article "Microstructures, Processing,
+and Properties of Steels" in this Volume and
+in Volume 9, Metallography and Microstructures, of the 9th Edition of Metals Handbook.
+
+C h e m i c a l Analysis
+Chemical composition is often used as the
+basis for classifying steels or assigning standard designations to steels. Such designations are often incorporated into specifications for steel products. Users and
+specifiers of steel products should be familiar with methods of sampling and analysis.
+Chemical analyses of steels are usually
+performed by wet chemical analysis methods or spectrochemical methods. Wet analysis is most often used to determine the
+composition of small numbers of specimens
+or of specimens composed of machine tool
+chips. Spectrochemical analysis is wellsuited to the routine determination of the
+chemical composition of a large number of
+
+Carbon(a)(b) . . . .
+
+Manganese ......
+Phosphorus .....
+Sulfur . . . . . . . . . .
+
+Silicon . . . . . . . . . .
+Copper .........
+
+Maximum of
+specified element, %
+
+Range, %
+
+-<0.15
+0.05
+> 0 . 1 5 - 0 . 3 0 incl
+0.06
+> 0 . 3 0 - 0 . 4 0 incl
+0.07
+> 0 . 4 0 - 0 . 6 0 incl
+0.08
+> 0 . 6 0 - 0 . 8 0 incl
+0.11
+>0.80-1.35 incl
+0.14
+-<0.50
+0.20
+> 0 . 0 5 0 - 1 . 1 5 incl
+0.30
+> 1.15-1.65 incl
+0.35
+-<0.08
+0.03
+>0.0841.15 incl
+0.05
+-<0.08
+0.03
+> 0 . 0 8 - 0 . 1 5 incl
+0.05
+> 0 . 1 5 - 0 . 2 3 incl
+0.07
+> 0 . 2 3 - 0 . 3 3 incl
+0.10
+-<0.15
+0.08
+> 0 . 1 5 - 0 . 3 0 incl
+0.15
+> 0 . 3 0 - 0 . 6 0 incl
+0.30
+W h e n c o p p e r is required, 0.20%
+m i n i m u m is c o m m o n l y specified
+
+lncl, inclusive. (a) The carbon ranges shown in the range column
+apply when the specified maximum limit for manganese does not
+exceed 1.00%. When the maximum manganese limit exceeds 1.00%,
+add 0.01 to the carbon ranges shown in the table. (b) Maximum of
+0.12% C for structural shapes and plates. Source: Ref I
+
+specimens, as may be necessary in a steel
+mill environment. Both classical wet chemical and spectrochemical methods for analyzing steel samples are described in detail
+in Volume 10, Materials Characterization,
+of the 9th Edition of Metals Handbook.
+Heat and Product Analysis. During the
+steelmaking process, a small sample of molten metal is removed from the ladle or
+steelmaking furnace, allowed to solidify,
+and then analyzed for alloy content. In most
+steel mills, these heat analyses are performed using spectrochemical methods; as
+many as 14 different elements can be determined simultaneously. The heat analysis
+furnished to the customer, however, may
+include only those elements for which a
+range or a maximum or minimum limit
+exists in the appropriate designation or
+specification.
+A heat analysis is generally considered to
+be an accurate representation of the composition of the entire heat of metal. Producers of steel have found that heat analyses
+for carbon and alloy steels can be consistently held within ranges that depend on the
+amount of the particular alloying element
+desired for the steel, the product form, and
+the method of making the steel. These ranges have been published as commercial practice, then incorporated into standard specifications. Standard ranges and limits of heat
+analyses of carbon and alloy steels are given
+in Tables 1 through 4.
+Because segregation of some alloying elements is inherent in the solidification of an
+ingot, different portions will have local
+chemical compositions that differ slightly
+from the average composition. Many
+
+lengths of bar stock can be made from a
+single ingot; therefore, some variation in
+composition between individual bars must
+be expected. The compositions of individual bars might not conform to the applicable
+specification, even though the heat analysis
+does. The chemical composition of an individual bar (or other product) taken from a
+large heat of steel is called the product
+analysis or check analysis. Ranges and limits for product analyses are generally broader and less restrictive than the corresponding ranges and limits for heat analyses. Such
+limits used in standard commercial practice
+are given in Tables 5, 6, and 7.
+Residual elements usually enter steel
+products from raw materials used to produce pig iron or from scrap steel used in
+steelmaking. Through careful steelmaking
+practices, the amounts of these residual
+elements are generally held to acceptable
+levels. Sulfur and phosphorus are usually
+considered deleterious to the mechanical
+properties of steels; therefore, restrictions
+are placed on the allowable amounts of
+these elements for most grades. The
+amounts of sulfur and phosphorus are invariably reported in the analyses of both
+carbon and alloy steels. Other residual alloying elements generally exert a lesser
+influence than sulfur and phosphorus on the
+properties of steel. For many grades of
+steel, limitations on the amounts of these
+residual elements are either optional or
+omitted entirely. Amounts of residual alloying elements are generally not reported in
+either heat or product analyses, except for
+special reasons.
+Silicon Content of Steels. The composition
+requirements for manY steels, particularly
+plain carbon steels, contain no specific restriction on silicon content. The lack of a
+silicon requirement is not an omission, but
+instead indicates recognition that the
+amount of silicon in a steel can often be
+traced directly to the deoxidation practice
+employed in making it (further information
+can be found in the section "Types of Steel
+Based on Deoxidation Practice" in this article).
+Rimmed and capped steels are not deoxidized; the only silicon present is the residual amount left from scrap or raw materials,
+typically less than 0.05% Si. Specifications
+and orders for these steels customarily indicate that the steel must be made rimmed
+or capped, as required by the purchaser;
+restrictions on silicon content are not usually given.
+The extent of rimming action during the
+solidification of semikilled steel ingots must
+be carefully controlled by matching the
+amount of deoxidizer with the oxygen content of the molten steel. The amount of
+silicon required for deoxidation may vary
+from heat to heat. Thus, the silicon content
+of the solid metal can also vary slightly from
+heat to heat. A maximum silicon content of
+
+142 / Carbon and Low-Alloy Steels
+Table 3 Alloy steel heat composition ranges and limits for bars, blooms, billets, and slabs
+[
+
+Element
+
+specified element, %
+
+Maximum of
+
+Open hearth or
+basic oxygen steels
+
+Carbon . . . . . . . . . . . . . . . . . . . . . . . .
+
+-<0.55
+>0.55--0.70 incl
+>0.70--0.80 incl
+>0.804).95 incl
+>0.95-1.35 incl
+-<0.60
+>0.60--0.90 incl
+>0.90-1.05 incl
+> 1.05-1.90 incl
+> 1.90-2.10 incl
+<-0.050
+>0.050-0.07 incl
+>0.07-0.10 incl
+>0.10-0.14 incl
+-<0.15
+>0.15-0.20 incl
+>0.20-0.40 incl
+>0.40-0.60 incl
+>0.60-1.00 incl
+>1.00-2.20 incl
+-<0.40
+>0.40-0.90 incl
+>0.90-1.05 incl
+> 1.05-1.60 incl
+>1.60-1.75 incl
+> 1.75-2.10 incl
+>2.1 0-3.99 incl
+<-0.50
+>0.50-1.50 incl
+> 1.50-2.00 incl
+>2.00-3.00 incl
+>3.00-5.30 incl
+>5.30-10.00 incl
+-<0.10
+>0.10-0.20 incl
+>0.20-0.50 incl
+>0.50--0.80 incl
+>0.80-1.15 incl
+-<0.50
+>0.50-1.00 incl
+> 1.00-2.00 incl
+>2.00--4.00 incl
+-<0.60
+>0.60-1.50 incl
+> 1.50-2.00 incl
+-<0.25
+>0.25-0.50 incl
+-<0.10
+>0.104).20 incl
+> 0 . 2 0 ~ . 3 0 incl
+>0.30--0.80 incl
+>0.80-1.30 incl
+>1.30-1.80 incl
+
+0.05
+0.08
+0.10
+0.12
+0.13
+0.20
+0.20
+0.25
+0.30
+0.40
+0.015
+0.02
+0.04
+0.05
+0.08
+0.10
+0.15
+0.20
+0.30
+0.40
+0.15
+0.20
+0.25
+0.30
+(b)
+(b)
+(b)
+0.20
+0.30
+0.35
+0.40
+0.50
+1.00
+0.05
+0.07
+0.10
+0.15
+0.20
+0.20
+0.30
+0.50
+0.60
+0.20
+0.30
+0.35
+0.05
+0.10
+0.05
+0.10
+0.15
+0.25
+0.35
+0.45
+
+Manganese . . . . . . . . . . . . . . . . . . . . .
+
+Sulfur(a) . . . . . . . . . . . . . . . . . . . . . . .
+
+Silicon . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Chromium . . . . . . . . . . . . . . . . . . . . . .
+
+Nickel . . . . . . . . . . . . . . . . . . . . . . . . .
+
+Molybdenum . . . . . . . . . . . . . . . . . . .
+
+Tungsten . . . . . . . . . . . . . . . . . . . . . . .
+
+Copper . . . . . . . . . . . . . . . . . . . . . . . .
+Vanadium . . . . . . . . . . . . . . . . . . . . . .
+Aluminum . . . . . . . . . . . . . . . . . . . . . .
+
+Element
+
+Phosphorus . . . . . . . . . . . . . . . . . .
+
+Sulfur . . . . . . . . . . . . . . . . . . . . . . .
+
+Range, %
+
+I
+Electric
+furnace steels
+
+0.05
+0.07
+0.09
+0.11
+0.12
+0.15
+0.20
+0.25
+0.30
+0.35
+0.015
+0.02
+0.04
+0.05
+0.08
+0.10
+0.15
+0.20
+0.30
+0.35
+0.15
+0.20
+0.25
+0.30
+0.35
+0.40
+0.50
+0.20
+0.30
+0.35
+0.40
+0.50
+1.00
+0.05
+0.07
+0.10
+0.15
+0.20
+0.20
+0.30
+0.50
+0.60
+0.20
+0.30
+0.35
+0.05
+0.10
+0.05
+0.10
+0.15
+0.25
+0.35
+0.45
+
+Steelmaking process
+
+Lowest maximum, %(c)
+
+Basic open hearth, basic oxygen, or basic electric
+furnace steels
+Basic electric furnace E steels
+Acid open hearth or electric furnace steel
+Basic open hearth, basic oxygen, or basic electric
+furnace steels
+Basic electric furnace E steels
+Acid open hearth or electric furnace steel
+
+0.035(d)
+0.025
+0.050
+0.040(d)
+0.025
+0.050
+
+Incl, inclusive. (a) A range of sulfur content normally indicates a resulfurized steel. (b) Not normally produced by open hearth process.
+(c) Not applicable to rephosphorized or resulfurized steels. (d) Lower maximum limits on phosphorus and sulfur are required by certain
+quality descriptors. Source: Ref 2
+
+0.10% is sometimes specified for semikilled
+steel, but this requirement is not very restrictive; for certain heats, a silicon addition
+sufficient to leave a residue of 0.10% may
+be enough of an addition to kill the steel.
+Killed steels are fully deoxidized during
+their manufacture; deoxidation can be accomplished by additions of silicon, aluminum, or both, or by vacuum treatment of
+
+the molten steel. Because it is the least
+costly of these methods, silicon deoxidation
+is frequently used. F o r silicon-killed steels,
+a range of 0.15 to 0.30% Si is often specified, providing the manufacturer with adequate flexibility to compensate for variations in the steelmaking process and
+ensuring a steel acceptable for most applications. Aluminum-killed or vacuum-deox-
+
+idized steels require no silicon; a requirement for minimum silicon content in such
+steel is unnecessary. A maximum permissible silicon content is appropriate for all
+killed plain carbon steels; a minimum silicon content implies a restriction that the
+steel must be silicon killed. Silicon is intentionally added to some alloy steels, for
+which it serves as both a deoxidizer and an
+alloying element to modify the properties of
+the steel. An acceptable range of silicon
+content would be appropriate for these
+steels.
+Users and specifiers of steel mill products
+must realize that the silicon content of these
+items cannot be established independently
+of deoxidation practice. In ordering mill
+products, it is often desirable to cite a
+standard specification (such as an ASTM
+specification) where the various ramifications of restrictions on silicon content have
+already been considered in preparing the
+specification. In some instances, such as
+the forming of low-carbon steel sheet, the
+choice of deoxidation practice can significantly affect the performance of the steel; in
+such cases, it is appropriate to specify the
+desired practice.
+
+Types of Steel Based on
+Deoxidation Practice (Ref 3)
+Steels, when cast into ingots, can be
+classified into four types based on the deoxidation practice employed or, alternatively,
+by the amount of gas evolved during solidification. These types are killed, semikilled,
+rimmed, or capped steels (Fig. 2).
+Killed steel is a type of steel from which
+there is only a slight evolution of gases
+during solidification of the metal after pouring. Killed steels are characterized by more
+uniform chemical composition and properties as compared to the other types. Alloy
+steels, forging steels, and steels for carburizing are generally killed.
+Killed steel is produced by various steelmelting practices involving the use of certain deoxidizing elements which act with
+varying intensities. The most common of
+these are silicon and aluminum; however,
+vanadium, titanium, and zirconium are
+sometimes used. Deoxidation practices in
+the manufacture of killed steels are normally left to the discretion of the producer.
+Semikilled steel is a type of steel wherein
+there is a greater degree of gas evolution
+than in killed steel but less than in capped or
+rimmed steel. The amount of deoxidizer
+used (customarily silicon or aluminum) will
+determine the amount of gas evolved. Semikilled steels generally have a carbon content
+within the range of 0.15 to 0.30%; they are
+used for a wide range of structural shape
+applications.
+Semikilled steels are characterized by
+variable degrees of uniformity in composition, which are intermediate between those
+of killed and rimmed steels. Semikilled steel
+
+Classification and Designation of Carbon and Low-Alloy Steels / 143
+Table 4 Alloy steel heat composition ranges and limits for plates
+Maximum of
+Element
+
+Carbon .......................
+
+Manganese ....................
+
+Sulfur . . . . . . . . . . . . . . . . . . . . . . . .
+Silicon . . . . . . . . . . . . . . . . . . . . . . . .
+
+Copper .......................
+Nickel ........................
+
+Chromium ....................
+
+Molybdenum ..................
+
+Vanadium .....................
+
+specified element, %
+
+-<0.25
+> 0 . 2 5 - 0 . 4 0 incl
+> 0 . 4 0 - 0 . 5 5 incl
+> 0 . 5 5 - 0 . 7 0 incl
+>0.70
+-<0.45
+> 0 . 4 5 - 0 . 8 0 incl
+> 0 . 8 0 - 1 . 1 5 incl
+> 1 . 1 5 - 1 . 7 0 incl
+> 1.70-2.10 incl
+-<0.060
+> 0 . 0 6 0 - 0 . 1 0 0 incl
+> 0 . 1 0 0 - 0 . 1 4 0 incl
+-<0.15
+> 0 . 1 5 - 0 . 2 0 incl
+>0.20-0.40 incl
+> 0 . 4 0 - 0 . 6 0 incl
+> 0 . 6 0 - 1 . 0 0 incl
+> 1.00-2.20 incl
+-<0.60
+> 0 . 6 0 - 1 . 5 0 incl
+> 1 . 5 0 - 2 . 0 0 incl
+-<0.50
+> 0 . 5 0 - 1 . 5 0 incl
+> 1.50-2.00 incl
+> 2 . 0 0 - 3 . 0 0 incl
+> 3 . 0 0 - 5 . 3 0 incl
+> 5 . 3 0 - 1 0 . 0 0 incl
+-<0.40
+>0.40--0.80 incl
+> 0 . 8 0 - 1 . 0 5 incl
+> 1 . 0 5 - 1 . 2 5 incl
+> 1 . 2 5 - 1 . 7 5 incl
+> 1.75-3.99 incl
+-<0.10
+> 0 . 1 0 ~ . 2 0 incl
+> 0 . 2 0 - 0 . 5 0 incl
+> 0 . 5 0 - 0 . 8 0 incl
+> 0 . 8 0 - 1 . 1 5 incl
+-<0.25
+> 0 . 2 5 - 0 . 5 0 incl
+
+lOpen hearth or basic Range' %
+oxygen steels
+
+0.06
+0.07
+0.08
+0.11
+0.14
+0.20
+0.25
+0.30
+0.35
+0.40
+0.02
+0.04
+0.05
+0.08
+0.10
+O. 15
+
+0.20
+0.30
+0.40
+0.20
+0.30
+0.35
+0.20
+0.30
+0.35
+0.40
+0.50
+1,00
+0.20
+0.25
+0.30
+0.35
+0.50
+0.60
+0.05
+0.07
+0.10
+0.15
+0.20
+0.05
+0.10
+
+Electric
+furnace steels
+
+0.05
+0.06
+0.07
+0.10
+0.13
+0.15
+0.20
+0.25
+0.30
+0.35
+0.02
+0.04
+0.05
+0.08
+0.10
+0.15
+0.20
+0.30
+0.35
+0.20
+0.30
+0.35
+0.20
+0.30
+0.35
+0.40
+0.50
+1.00
+0.15
+0.20
+0.25
+0.30
+0.40
+0.50
+0.05
+0.07
+0.10
+0.15
+0.20
+0.05
+0.10
+
+Note: Boron steels can be expected to contain a minimum of 0.0005% B. Alloy steels can be produced with a lead range of 0.15-0.35%.
+A heat analysis for lead is not determinable because lead is added to the ladle stream while each ingot is poured, lncl, inclusive. Source:
+Ref 3
+
+has a pronounced tendency for positive
+chemical segregation at the top-center of
+the ingot (Fig. 2).
+Rimmed Steels. In the production of
+rimmed steels, no deoxidizing agents are
+added in the furnace. These steels are characterized by marked differences in chemical
+composition across the section and from the
+top to the bottom of the ingot (Fig. 2). They
+have an outer rim that is lower in carbon,
+phosphorus, and sulfur than the average
+composition of the whole ingot, and an
+inner portion, or core, that has higher levels
+than the average of those elements. The
+typical structure of the rimmed steel ingot
+results from a marked gas evolution during
+solidification of the outer rim.
+During the solidification of the rim, the
+concentration of certain elements increases
+in the liquid portion of the ingot. During
+solidification of the core, some increase in
+segregation occurs in the upper and central
+portions of the ingot. The structural pattern
+of the ingot persists through the rolling
+process to the final product (rimmed ingots
+are best suited for steel sheets).
+
+The technology of manufacturing rimmed
+steels limits the maximum content of carbon
+and manganese, and those maximums vary
+among producers. Rimmed steels do not
+retain any significant percentages of highly
+oxidizable elements such as aluminum, silicon, or titanium.
+Capped steels have characteristics similar
+to those of rimmed steels but to a degree
+intermediate between those of rimmed and
+semikilled steels. A deoxidizer may be added to effect a controlled rimming action
+when the ingot is cast. The gas entrapped
+during solidification is in excess of that
+needed to counteract normal shrinkage, resulting in a tendency for the steel to rise in
+the mold. The capping operation limits the
+time of gas evolution and prevents the formation of an excessive number of gas voids
+within the ingot.
+Mechanically capped steel is cast in bottle-top molds using a heavy metal cap.
+Chemically capped steel is cast in opentop molds. The capping is accomplished by
+adding aluminum or ferrosilicon to the top
+of the ingot,, causing the steel at the top
+
+surface to solidify rapidly. The top portion
+of the ingot is discarded.
+The capped ingot practice is usually applied to steel with carbon contents greater
+than 0.15% that is used for sheet, strip,
+wire, and bars.
+
+Quality Descriptors
+The need for communication among producers and between producers and users has
+resulted in the development of a group of
+terms known as fundamental quality descriptors. These are names applied to various steel
+products to imply that the particular products
+possess certain characteristics that make
+them especially well suited for specific applications or fabrication processes. The fundamental quality descriptors in common use are
+listed in Table 8.
+Some of the quality descriptors listed in
+Table 8 such as forging quality or cold
+extrusion quality are self-explanatory. The
+meaning of others is less obvious: for example, merchant quality hot-rolled carbon
+steel bars are made for noncritical applications requiring modest strength and mild
+bending or forming, but not requiring forging or heat treating. The descriptor for one
+particular steel commodity is not necessarily carried over to subsequent products
+made from that commodity--for example,
+standard quality cold-finished bars are
+made from special quality hot-rolled bars.
+The various mechanical and physical attributes implied by a quality descriptor arise
+from the combined effects of several factors, including:
+• The degree of internal soundess
+• The relative uniformity of chemical composition
+• The relative freedom from surface imperfections
+• The size of the discard cropped from the
+ingot
+• Extensive testing during manufacture
+• The number, size, and distribution of
+nonmetallic inclusions
+• Hardenability requirements
+Control of these factors during manufacture
+is necessary to achieve mill products having
+the desired characteristics. The extent of
+the control over these and other related
+factors is another piece of information conveyed by the quality descriptor.
+Some, but not all, of the fundamental
+descriptors may be modified by one or more
+additional requirements, as may be appropriate: special discard, macroetch test, restricted chemical composition, maximum
+incidental (residual) alloy, special hardenability or austenitic grain size. These restrictions could be applied to forging quality
+alloy steel bars, but not to merchant quality
+bars.
+Understanding the various quality descriptors is complicated by the fact that
+most of the requirements that qualify a steel
+
+144 / Carbon and Low-Alloy Steels
+Table 5 Product analysis tolerances for carbon and alloy steel plates, sheet, piling, and
+bars for structural applications
+[
+Element
+
+Carbon ..........................
+Manganese(a) . . . . . . . . . . . . . . . . . . . .
+
+Phosphorus ......................
+Sulfur . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Silicon . . . . . . . . . . . . . . . . . . . . . . . . . .
+Nickel ...........................
+Chromium .......................
+Molybdenum .....................
+
+Copper ..........................
+Titanium ........................
+Vanadium .......................
+
+Boron ...........................
+Niobium .........................
+Zirconium .......................
+Nitrogen .........................
+
+Tolerance, %
+
+U p p e r limit o r m a x i m u m
+specified value, %
+
+Under
+m i n i m u m limit
+
+Over
+m a x i m u m limit
+
+-<0.15
+> 0 . 1 5 - 0 . 4 0 incl
+-<0.60
+> 0 . 6 0 4 ) . 9 0 incl
+> 0 . 9 0 - 1 . 2 0 incl
+> 1.20-1.35 incl
+> 1 . 3 5 - 1 . 6 5 incl
+> 1 . 6 5 - 1 . 9 5 incl
+>1.95
+-<0.04
+> 0 . 0 4 - 0 . 1 5 incl
+-<0.05
+-<0.30
+> 0 . 3 0 - 0 . 4 0 incl
+> 0 . 4 0 - 2 . 2 0 incl
+-<1.00
+> 1.00-2.00 incl
+-<0.90
+> 0 . 9 0 - 2 . 1 0 incl
+-<0.20
+> 0 . 2 0 - 0 . 4 0 incl
+> 0 . 4 0 - 1 . 1 5 incl
+0.20 m i n i m u m only
+-<1.00
+> 1.00-2.00 incl
+-<0.10
+-<0.10
+> 0 . 1 0 - 0 . 2 5 incl
+M i n i m u m only specified
+Any
+-<0.10
+-<0.15
+-<0.030
+
+0.02
+0.03
+0.05
+0.06
+0.08
+0.09
+0.09
+0.11
+0.12
+
+0.03
+0.04
+0.06
+0.08
+0.10
+0.11
+0.12
+0.14
+0.16
+0.010
+
+"• •
+
+• ..
+
+(b)
+
+0.010
+0.03
+0.05
+0.06
+0.03
+0.05
+0.04
+0.06
+0.01
+0.03
+0.04
+• ••
+0.03
+0.05
+0.01(c)
+0.01(c)
+0.02
+
+• • •
+
+0.02
+0.05
+0.06
+0.03
+0.05
+0.04
+0.06
+0.01
+0.03
+0.04
+0.02
+0.03
+0.05
+0.01(c)
+0.01(c)
+0.02
+0.01
+(b)
+O.Ol(c)
+0.03
+0.005
+
+• • •
+
+(b)
+O.Ol(c)
+0.03
+0.005
+
+Incl, inclusive. (a) Manganese product analyses tolerances for bars and bar size shapes: <_0.90, -+0.03; >0.90-2.20 incl, -+0.06. (b)
+Product analysis not applicable. (c) If the minimum of t h e r a n g e is 0.01%, the under tolerance is 0.005%. Source: Ref 4
+
+for a particular descriptor are subjective.
+Only nonmetallic inclusion count, restrictions on chemical composition ranges and
+incidental alloying elements, austenitic
+grain size, and special hardenability are
+quantified. The subjective evaluation of the
+other characteristics depends on the skill
+and experience of those who make the
+evaluation. Although the use of these subjective quality descriptors might seem imprecise and unworkable, steel products
+made to meet the requirements of a particular quality descriptor can be relied upon to
+
+have those characteristics necessary for
+that product to be used in the indicated
+application or fabrication operation.
+
+Effects of Alloying Elements
+(Ref 6)
+Steels form one of the most complex
+group of alloys in common use. The synergistic effect of alloying elements and heat
+treatment produce a tremendous variety of
+microstructures and properties (characteristics). Given the limited scope of this article,
+
+Table 6 Product analysis tolerances for carbon and high-strength low-alloy steel bars,
+blooms, billets, and slabs
+T o l e r a n c e over the m a x i m u m limit o r u n d e r the m i n i m u m limit, %
+
+Element
+
+Carbon ..........
+
+Manganese .......
+Phosphorus(a) . . . .
+Sulfur(a) . . . . . . . . .
+Silicon . . . . . . . . . . .
+Copper ..........
+Lead(b) . . . . . . . . . .
+
+Limit or maximum
+o f specified r a n g e , %
+
+-<0.25
+> 0 . 2 5 - 0 . 5 5 incl
+>0.55
+-<0.90
+> 0 . 9 0 - 1 . 6 5 incl
+Over m a x i m u m only, -<0.40
+O v e r m a x i m u m only, -<0.050
+-<0.35
+> 0 . 3 5 - 0 . 6 0 incl
+U n d e r m i n i m u m only
+0.15-0.35 incl
+
+>0.065-0.129 m 2
+
+>0.129-0.258 m 2
+
+>0.258-0.516 m 2
+
+<0.065 m 2
+(100 in. 2)
+
+( 1 0 0 - 2 0 0 in. 2)
+incl
+
+( 2 0 0 - 4 0 0 in. 2)
+incl
+
+( 4 0 0 - 8 0 0 in. 2)
+incl
+
+0.02
+0.03
+0.04
+0.03
+0.06
+0.008
+0.008
+0.02
+0.05
+0.02
+0.03
+
+0.03
+0.04
+0.05
+0.04
+0.06
+0.008
+0.010
+0.02
+.
+.
+0.03
+0.03
+
+0.04
+0.05
+0.06
+0.06
+0.07
+0.010
+0.010
+0.03
+.
+.
+.
+. . .
+. . .
+
+0.05
+0.06
+0.07
+0.07
+0.08
+0.015
+0.015
+0.04
+
+.
+
+.
+
+.
+.
+.
+
+.
+.
+
+.
+
+.
+.
+
+Note: Rimmed or capped steels and boron are not subject to product analysis tolerances. Product analysis tolerances for alloy e l e m e n t s
+in high-strength low-alloy steels are given in Table 7. Incl, inclusive. (a) Because of the degree to which phosphorus and sulfur segregate,
+product analysis tolerances for those elements are not applicable for rephosphorized and resulfurized steels. (b) Product analysis
+tolerance for lead applies, both over and under the specified range. Source: Ref 2
+
+it would be impossible to include a detailed
+survey of the effects of alloying elements on
+the iron-carbon equilibrium diagram. This
+complicated subject, which is briefly reviewed in the article "Microstructures,
+Processing, and Properties of Steels" in this
+Volume, lies in the domain of ferrous physical metallurgy and has also been reviewed
+extensively in the literature (Ref 7-11). In
+this section, the effects of various elements
+on steelmaking (deoxidation) practices and
+steel characteristics will be briefly outlined.
+It should be noted that the effects of a single
+alloying element are modified by the influence of other elements. These interrelations
+must be considered when evaluating a
+change in the composition of a steel. For the
+sake of simplicity, however, the various
+alloying elements listed below are discussed
+separately.
+Carbon. The amount of carbon required in
+the finished steel limits the type of steel that
+can be made. As the carbon content of
+rimmed steels increases, surface quality becomes impaired. Killed steels in approximately the 0.15 to 0.30% C content level
+may have poorer surface quality and require
+special processing to attain surface quality
+comparable to steels with higher or lower
+carbon contents. Carbon has a moderate
+tendency to segregate, and carbon segregation is often more significant than the segregation of other elements. Carbon, which
+has a major effect on steel properties, is the
+principal hardening element in all steel.
+Tensile strength in the as-rolled condition
+increases as carbon content increases (up to
+about 0.85% C). Ductility and weldability
+decrease with increasing carbon.
+Manganese has less of a tendency toward
+macrosegregation than any of the common
+elements. Steels above 0.60% Mn cannot be
+readily rimmed. Manganese is beneficial to
+surface quality in all carbon ranges (with the
+exception of extremely low carbon rimmed
+steels) and is particularly beneficial in resulfurized steels. It contributes to strength
+and hardness, but to a lesser degree than
+does carbon; the amount of increase is
+dependent upon the carbon content. Increasing the manganese content decreases
+ductility and weldability, but to a lesser
+extent than does carbon. Manganese has a
+strong effect on increasing the hardenability
+of a steel.
+Phosphorus segregates, but to a lesser degree than carbon and sulfur. Increasing phosphorus increases strength and hardness and
+decreases ductility and notch impact toughness in the as-rolled condition. The decreases
+in ductility and toughness are greater in
+quenched and tempered higher-carbon steels.
+Higher phosphorus is often specified in lowcarbon free-machining steels to improve machinability (see the article "Machinability of
+Steels" in this Volume).
+Sulfur. Increased sulfur content lowers
+transverse ductility and notch impact tough-
+
+Classification and Designation of Carbon and Low-Alloy Steels / 145
+Table 7 Product analysis tolerances for alloy steel bars, blooms, billets, and slabs
+]
+Limit or maximum of
+specified range, %
+
+Element
+
+Carbon . . . . . . . . . . .
+
+Manganese . . . . . . . .
+Phosphorus . . . . . . .
+Sulfur . . . . . . . . . . . .
+Silicon . . . . . . . . . . . .
+Nickel . . . . . . . . . . . .
+
+Chromium ........
+Molybdenum ......
+Vanadium .........
+
+Tungsten ..........
+Aluminum(c) . . . . . .
+
+Lead(c) . . . . . . . . . . .
+Copper(c) . . . . . . . . .
+Titanium(c) . . . . . . . .
+Niobium(c) . . . . . . . .
+Zirconium(c) . . . . . .
+Nitrogen(c) . . . . . . . .
+
+-
+
+Tolerance over the maximum limit
+or under the minimum limit for size ranges shown, %
+>0.065-0.129 m2
+>0.129-0.258 m2
+>0.258-0.516 m~
+(100-200 in. 2)
+(200-400 in. 2)
+(400-800 in. 2)
+incl
+incl
+incl
+
+-
+
+-<0.065 m 2
+(100 in. 2)
+
+-<0.30
+>0.30-4).75 incl
+>0.75
+-<0.90
+> 0 . 9 0 - 2 . 1 0 incl
+O v e r m a x only
+O v e r m a x only(a)
+-<0.40
+> 0 . 4 0 - 2 . 2 0 incl
+-<1.00
+> 1 . 0 0 - 2 . 0 0 incl
+> 2 . 0 0 - 5 . 3 0 incl
+> 5 . 3 0 - 1 0 . 0 0 incl
+-<0.90
+> 0 . 9 0 - 2 . 1 0 incl
+> 2 . 1 0 - 3 . 9 9 incl
+-<0.20
+> 0 . 2 0 - 0 . 4 0 incl
+> 0 . 4 0 - 1 . 1 5 incl
+-<0.10
+> 0 . 1 0 - 0 . 2 5 incl
+> 0 . 2 5 - 0 . 5 0 incl
+M i n v a l u e specified,
+check u n d e r min
+limit(b)
+-<1.00
+> 1 . 0 0 - 4 . 0 0 incl
+-<0.10
+> 0 . 1 0 4 ) . 2 0 incl
+>0.20--0.30 incl
+> 0 . 3 0 - 0 . 8 0 incl
+> 0 . 8 0 - 1 . 8 0 incl
+0.15-0.35 incl
+-<1.00
+> 1.00-2.00 incl
+-<0.10
+-<0.10
+-<0.15
+-<0.030
+
+0.01
+0.02
+0.03
+0.03
+0.04
+0.005
+0.005
+0.02
+0.05
+0.03
+0.05
+0.07
+
+0.10
+0.03
+0.05
+0.10
+0.01
+0.02
+0.03
+0.01
+0.02
+0.03
+
+0.01
+0.04
+0.08
+0.03
+0.04
+0.05
+0.07
+0.10
+0.03(d)
+0.03
+0.05
+0.01(b)
+0.01(b)
+0.03
+0.005
+
+0.02
+0.03
+0.04
+0.04
+0.05
+0.010
+0.010
+0.02
+0.06
+0.03
+0.05
+0.07
+0.10
+0.04
+0.06
+0.10
+0.01
+0.03
+0.04
+0.01
+0.02
+0.03
+
+0.03
+0.04
+0.05
+0.05
+0.06
+0.010
+0.010
+0.03
+0.06
+0.03
+0.05
+0.07
+0.10
+0.04
+0.06
+0.12
+0.02
+0.03
+0.05
+0.01
+0.02
+0.03
+
+0.04
+0.05
+0.06
+0.06
+0.07
+0.010
+0.010
+0.04
+0.07
+0.03
+0.05
+0.07
+0.10
+0.05
+0.07
+0.14
+0.03
+0.04
+0.06
+0.01
+0.02
+0.03
+
+0.01
+0.05
+0.09
+
+0.01
+0.05
+0.10
+
+0.01
+0.06
+0.12
+
+Note: Boron is not subject to product analysis tolerances, lncl, inclusive. (a) Resulfurized steels are not subject to product analysis limits
+for sulfur. (b) If the minimum of the range is 0.01%, the under tolerance is 0.005%. (c) Tolerances shown apply only to 0.065 m z (100
+in.a) or less. (d) Tolerance is over and under. Source: Ref 2
+
+ness but has only a slight effect on longitudinal mechanical properties. Weldability
+decreases with increasing sulfur content.
+This element is v e r y detrimental to surface
+quality, particularly in the lower-carbon
+and lower-manganese steels. F o r these
+reasons, only a maximum limit is specified
+for most steels. The only exception is the
+
+group of free-machining steels, where sulfur is a d d e d to improve machinability; in
+this case a range is specified (see the
+article " M a c h i n a b i l i t y of S t e e l s " in this
+Volume). Sulfur has a greater segregation
+tendency than any o f the other c o m m o n
+elements. Sulfur occurs in steel principally
+in the form of sulfide inclusions. Obvious-
+
+r - - - ,
+
+- - ~
+
+~
+
+.
+
+:"-'::
+"
+
+.
+
+.
+
+" ":.' -"
+
+i
+
+.
+
+.
+
+.
+
+.
+
+! :"~.
+
+.
+
+--"
+"'"
+"
+.-"
+=
+
+1
+
+Killed
+
+2
+
+Semikilled
+
+3
+
+-"
+
+4
+
+.
+
+i.
+
+.
+
+.
+
+.
+
+-~-
+
+:
+
+:i
+:
+
+::.
+:.
+:.
+
+i
+~
+
+:i'
+
+~
+
+.
+
+•
+
+.
+
+.
+
+.
+
+i:"-!'.'. ~i
+.:
+
+....
+
+5
+
+.
+
+.
+
+.
+
+.
+
+.
+
+"" P"
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+'":.'..," :•
+
+i.',
+
+.
+
+~
+
+:
+
+'; ' :
+
+:
+
+.i...:
+
+.i.,
+:
+
+,•
+•
+
+.:
+,
+
+.:
+.
+
+'i:~
+
+i • 6 ;~
+
+..~
+
+.._ .....
+
+Capped
+
+".
+
+.
+
+•
+
+:
+
+;::; 7 ;;~:.
+
+:, 8 1
+
+~ -.......
+
+......
+
+Rimmed
+
+Eight typical conditions of commercial steel ingots, cast in identical bottle-top molds, in relation to the
+Fig. 2 degree of suppression of gas evolution. The dotted line indicates the height to which the steel originally
+was poured in each ingot mold. Depending on the carbon and, more importantly, the oxygen content of the
+steel, the ingot structures range from that of a fully killed ingot (No. 1) to that of a violently rimmed ingot (No.
+8). Source: Ref 5
+
+ly, a greater frequency of such inclusions
+can be e x p e c t e d in the resulfurized grades.
+Silicon is one of the principal deoxidizers
+used in steelmaking; therefore, the amount
+of silicon present is related to the type of
+steel. Rimmed and capped steels contain no
+significant amounts of silicon. Semikilled
+steels may contain moderate amounts of
+silicon, although there is a definite maximum amount that can be tolerated in such
+steels. Killed carbon steels may contain any
+amount of silicon up to 0.60% maximum.
+Silicon is somewhat less effective than
+manganese in increasing as-rolled strength
+and hardness. Silicon has only a slight tendency to segregate. In low-carbon steels,
+silicon is usually detrimental to surface
+quality, and this condition is more pronounced in low-carbon resulfurized grades.
+Copper
+has a moderate tendency to segregate. Copper in appreciable amounts is
+detrimental to hot-working operations.
+Copper adversely affects forge welding, but
+it does not seriously affect arc or oxyacetylene welding. Copper is detrimental to
+surface quality and exaggerates the surface
+defects inherent in resulfurized steels. Copper is, however, beneficial to atmospheric
+corrosion resistance when present in
+amounts exceeding 0.20%. Steels containing these levels of copper are referred to as
+weathering steels and are described in the
+article "High-Strength Structural and HighStrength Low-Alloy Steels" in this Volume;
+they are also included in the descriptions of
+high-strength low-alloy steels given later in
+this article.
+Lead
+is sometimes added to carbon and
+alloy steels through mechanical dispersion
+during teeming for the purpose of improving
+the machining characteristics of the steels.
+These additions are generally in the range of
+0.15 to 0.35% (see the article "Machinability of Steels" in this Volume for details).
+Boron
+is added to fully killed steel to
+improve hardenability. Boron-treated steels
+are produced to a range of 0.0005 to 0.003%.
+Whenever boron is substituted in part for
+other alloys, it should be done only with
+hardenability in mind because the lowered
+alloy content may be harmful for some
+applications. Boron is most effective in lower carbon steels. Boron steels are discussed
+in the Section " H a r d e n a b i l i t y of Carbon
+and Low-Alloy Steels" in this Volume.
+Chromium
+is generally added to steel to
+increase resistance to corrosion and oxidation, to increase hardenability, to improve
+high-temperature strength, or to improve
+abrasion resistance in high-carbon compositions. Chromium is a strong carbide former. Complex chromium-iron carbides go
+into solution in austenite slowly; therefore,
+a sufficient heating time before quenching is
+necessary.
+Chromium can be used as a hardening
+element, and is frequently used with a
+toughening element such as nickel to pro-
+
+146/Carbon and Low-Alloy Steels
+Table 8 Quality descriptions of carbon and alloy steels
+I
+
+Carbon steels
+Semifinished for forging
+
+Forging quality
+Special hardenability
+Special internal soundness
+Nonmetallic inclusion
+requirement
+Special surface
+Carbon steel structural sections
+
+Structural quality
+
+Hot-rolled sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Structural quality
+
+Cold-rolled sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Structural quality
+
+Carbon steel plates
+
+Regular quality
+Structural quality
+Cold-drawing quality
+Cold-pressing quality
+Cold-flanging quality
+Forging quality
+Pressure vessel quality
+
+Hot-rollod carbon steel bars
+
+Merchant quality
+Special quality
+Special hardenability
+Special internal soundness
+Nonmetallic inclusion
+requirement
+Special surface
+Scrapless nut quality
+Axle shaft quality
+Cold extrusion quality
+Cold-heading and cold-forging
+quality
+
+Specific quality descriptions are not
+applicable to tin mill products
+
+Carbon steel wire
+
+Industrial quality wire
+Cold extrusion wires
+Heading, forging, and roll-threading
+wires
+Mechanical spring wires
+Upholstery spring construction wires
+Welding wire
+
+Porcelain enameling sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+
+Long terne sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Structural quality
+
+Carbon steel flat wire
+
+Stitching wire
+Stapling wire
+
+Alloy steels
+
+Alloy steel plates
+
+Drawing quality
+Pressure vessel quality
+Structural quality
+Aircraft physical quality
+
+Hot-rolled alloy steel bars
+
+Regular quality
+Aircraft quality or steel subject to
+magnetic particle inspection
+Axle shaft quality
+Bearing quality
+Cold-heading quality
+Special cold-heading quality
+Rifle barrel quality, gun quality, shell
+or A.P. shot quality
+
+Alloy steel wire
+
+Carbon steel pipe
+
+Aircraft quality
+Bearing quality
+Special surface quality
+
+Structural tubing
+Line pipe
+
+Cold-finished alloy steel bars
+Galvanized sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Lock-forming quality
+
+Oil country tubular goods
+Steel specialty tubular products
+
+Pressure tubing
+Mechanical tubing
+Aircraft tubing
+
+Electrolytic zinc coated sheets
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Structural quality
+
+Cold-finished carbon steel bars
+
+Standard quality
+Special hardenability
+Special internal soundness
+Nonmetallic inclusion
+requirement
+Special surface
+Cold-heading and cold-forging
+quality
+Cold extrusion quality
+
+Tin mill products
+
+[
+
+Hot-rolled strip
+
+Commercial quality
+Drawing quality
+Drawing quality special killed
+Structural quality
+
+Hot-rolled carbon steel wire rods
+
+Industrial quality
+Rods for manufacture of wire intended
+for electric welded chain
+Rods for heading, forging, and
+roll-threading wire
+Rods for lock washer wire
+Rods for scrapless nut wire
+Rods for upholstery spring wire
+Rods for welding wire
+
+Cold-rolled strip
+
+Specific quality descriptions are not
+provided in cold-rolled strip
+because this product is largely
+produced for specific end use
+
+Regular quality
+Aircraft quality or steel subject to
+magnetic particle inspection
+Axle shaft quality
+Bearing shaft quality
+Cold-heading quality
+Special cold-heading quality
+Rifle barrel quality, gun quality, shell
+or A.P. shot quality
+
+Line pipe
+Oil country tubular goods
+Steel specialty tubular goods
+
+Pressure tubing
+Mechanical tubing
+Stainless and head-resisting pipe,
+pressure tubing, and mechanical
+tubing
+Aircraft tubing
+Pipe
+
+Source: Ref 6
+
+duce superior mechanical properties. At
+higher temperatures, chromium contributes
+increased strength; it is ordinarily used for
+applications of this nature in conjunction
+with molybdenum.
+Nickel, when used as an alloying element
+in constructional steels, is a ferrite strengthener. Because nickel does not form any
+carbide compounds in steel, it remains in
+solution in the ferrite, thus strengthening
+and toughening the ferrite phase. Nickel
+steels are easily heat treated because nickel
+lowers the critical cooling rate. In combination with chromium, nickel produces alloy
+steels with greater hardenability, higher impact strength, and greater fatigue resistance
+than can be achieved in carbon steels.
+Molybdenum is added to constructional
+steels in the normal amounts of 0.10 to
+1.00%. When molybdenum is in solid solution in austenite prior to quenching, the
+reaction rates for transformation become
+considerably slower as compared with carbon steel. Molybdenum can induce sec-
+
+ondary hardening during the tempering of
+quenched steels and enhances the creep
+strength of low-alloy steels at elevated
+temperatures. Alloy steels that contain
+0.15 to 0.30% Mo display a minimized
+susceptibility to temper embrittlement (see
+the article "Embrittlement of Steels" in
+this Volume for a discussion of temper
+embrittlement and other forms of thermal
+embrittlement).
+Niobium. Small additions of niobium increase the yield strength and, to a lesser
+degree, the tensile strength of carbon steel.
+The addition of 0.02% Nb can increase the
+yield strength of medium-carbon steel by 70
+to 100 MPa (10 to 15 ksi). This increased
+strength may be accompanied by considerably impaired notch toughness unless special measures are used to refine grain size
+during hot rolling. Grain refinement during
+hot rolling involves special thermomechanical processing techniques such as controlled rolling practices, low finishing temperatures for final reduction passes, and
+
+accelerated cooling after rolling is completed (further discussion of controlled rolling
+can be found in the article "High-Strength
+Structural and High-Strength Low-Alloy
+Steels" in this Volume).
+Aluminum is widely used as a deoxidizer
+and for control of grain size. When added to
+steel in specified amounts, it controls austenite grain growth in reheated steels. Of all
+the alloying elements, aluminum is the most
+effective in controlling grain growth prior to
+quenching. Titanium, zirconium, and vanadium are also effective grain growth inhibitots; however, for structural grades that are
+heat treated (quenched and tempered),
+these three elements may have adverse effects on hardenability because their carbides are quite stable and difficult to dissolve in austenite prior to quenching.
+Titanium and Zirconium. The effects of
+titanium are similar to those of vanadium
+and niobium, but it is only useful in fully
+killed (aluminum-deoxidized) steels because of its strong deoxidizing effects.
+
+Classification and Designation of Carbon and Low-Alloy Steels / 147
+Table 9 Raw steel production by type of furnace, grade, and cast
+I
+Year
+
+C~-arbon Total all grades, net tons × 103
+Alloy
+Stainless
+
+Total
+
+1988 . . . . .
+1987 . . . . .
+1986 . . . . .
+1985 . . . . .
+1984 . . . . .
+
+86 823
+77 976
+71 413
+76 699
+79 918
+
+99 924
+89 151
+81 606
+88 259
+92 528
+
+10902
+9 147
+8 505
+9 877
+10 838
+
+2199
+2028
+1689
+1683
+1772
+
+Total production
+I
+By type of furnace, %
+Open
+Basic
+
+Carb[~on By grade, %
+Alloy
+~
+86.9
+87.5
+87.5
+86.9
+86.4
+
+10.9
+10.2
+10.4
+11.2
+11.7
+
+I
+I
+
+Production by type of cast, net tons × 103
+
+hearth
+
+oxygen process
+
+Electric
+
+Ingots
+
+Continuous
+castings
+
+Steel
+castings
+
+5.1
+3.0
+4.1
+7.3
+9.0
+
+58.0
+58.9
+58.7
+58.8
+57.1
+
+36.9
+38.1
+37.2
+33.9
+33.9
+
+38 615
+35 802
+36 487
+49 035
+55 787
+
+61 232
+53 284
+45 064
+39 161
+36 669
+
+77
+65
+55
+63
+74
+
+2.2
+2.3
+2.1
+1.9
+1.9
+
+Source: R e f l 2
+
+Table 10
+
+Net shipments of United States steel mill products, all grades
+1988
+
+~
+
+Steel products
+
+× 103
+
+%
+
+[
+
+C a r b o n Steels
+
+~031987
+
+%[
+0.5
+1.6
+
+tons
+
+385
+1 542
+(a)
+4 048
+4 860
+349
+5 044
+2 284
+
+0.5
+1.8
+• • •
+4.8
+5.8
+0.4
+6.0
+2.7
+
+381
+1 212
+22
+3 840
+4 839
+280
+4048
+
+460
+37
+118
+(a)
+(a)
+
+0.5
+0.0
+0.1
+•• •
+. • •
+
+351
+15
+62
+58
+29
+
+0.5
+
+6 460
+1 373
+5 091
+1 499
+64
+
+7.7
+1.6
+6.1
+1.8
+0.1
+
+6048
+1 190
+4 918
+1 361
+58
+
+7.9
+1.6
+
+1 238
+1 130
+808
+901
+59
+178
+74
+55
+
+1.5
+1.3
+1.0
+1.1
+0.1
+0.2
+0.1
+0.1
+
+969
+919
+620
+767
+72
+180
+(c)
+42
+
+1 073
+(a)
+(a)
+(a)
+(a)
+283
+2 806
+899
+81
+
+1.3
+• • •
+. • .
+. • •
+. • •
+0.3
+3.3
+1.1
+0• 1
+
+800
+218
+49
+13
+25
+205
+2 765
+939
+79
+
+12 589
+13 871
+
+15.0
+16.5
+
+13048
+13 859
+
+17.0
+
+8 115
+2 134
+1 262
+524
+
+9.7
+2.5
+1.5
+0.6
+
+7 660
+1 432
+1 228
+465
+
+10.0
+1.9
+1.6
+0.6
+
+1 203
+941
+
+1.4
+1.1
+
+657
+929
+
+Total steel mill products . . . . . . . . . . . . . . . . . . . . . . . . .
+
+83 840
+
+100.0
+
+76 654
+
+0.9
+1.2
+100.0
+
+Carbon ........................................
+Stainless and h e a t resisting . . . . . . . . . . . . . . . . . . . . . .
+Alloy (other t h a n stainless) . . . . . . . . . . . . . . . . . . . . . .
+
+77 702
+1 586
+4 552
+
+92.7
+1.9
+5.4
+
+68 116
+1 418
+7 120
+
+88.9
+1.8
+9.3
+
+Ingots and steel for castings . . . . . . . . . . . . . . . . . . . . .
+B l o o m s , slabs, a n d billets . . . . . . . . . . . . . . . . . . . . . . . .
+Skelp . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wire rods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Structural s h a p e s (->75 m m , o r 3 in.) . . . . . . . . . . . . . .
+Steel piling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Plates cut in lengths . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Plates in coils . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Rails
+s t a n d a r d ( > 2 7 kg, o r 60 lb) . . . . . . . . . . . . . . . . . . . .
+all o t h e r . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Railroad a c c e s s o r i e s . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+W h e e l s (rolled a n d forged) . . . . . . . . . . . . . . . . . . . . . . .
+Axles ..........................................
+Bars
+hot rolled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+bar-size light s h a p e s . . . . . . . . . . . . . . . . . . . . . . . . . .
+reinforcing . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+cold finished . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tool steel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pipe a n d tubing
+standard . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+oil c o u n t r y g o o d s . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+line . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+mechanical ...................................
+pressure .....................................
+structural . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+pipe for piling . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+stainless . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Wire
+drawn .......................................
+nails and staples . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+b a r b e d and t w i s t e d
+woven wire fence .............................
+bale ties and baling w i r e . . . . . . . . . . . . . . . . . . . . . . .
+B l a c k plate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tin plate . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tin free steel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Tin c o a t e d sheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Sheets
+hot rolled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+cold roiled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Sheets and strip
+galvanized, hot dipped . . . . . . . . . . . . . . . . . . . . . . . .
+galvanized, electrolytic . . . . . . . . . . . . . . . . . . . . . . . .
+all o t h e r metallic c o a t e d . . . . . . . . . . . . . . . . . . . . . . .
+electrical . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Strip
+hot rolled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+cold rolled . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+.
+
+(b)
+
+5.0
+6.3
+0.4
+5.3
+
+0.1
+0.1
+
+6.4
+1.8
+0.1
+1.3
+1.2
+0.8
+1.0
+0.1
+0.2
+-••
+0.1
+1.0
+0.3
+0.1
+• ""
+0.3
+3.6
+1.2
+0.1
+18.1
+
+(a) Effective 1 January 1988, these products are no longer classified as steel mill products by AISI. Consequently, comparable shipment
+tonnage is now included in applicable semifinished forms or drawn wire. (b) Prior to 1988 included in sheets hot rolled. (c) Prior to 1988
+included in structural pipe and tubing. Source: Ref 12
+
+Zirconium can also be added to killed
+high-strength low-alloy steels to obtain improvements in inclusion characteristics,
+
+particularly sulfide inclusions where
+changes in inclusion shape improve ductility in transverse bending•
+
+The American Iron and Steel Institute
+defines carbon steel as follows (Ref 2, 3):
+S t e e l is c o n s i d e r e d t o b e c a r b o n s t e e l w h e n
+no minimum
+content
+is specified or required for chromium,
+cobalt, columbium
+[niobium], molybdenum,
+nickel, titanium,
+tungsten, vanadium
+or zirconium,
+or any
+other element
+to be added to obtain a
+desired alloying effect; when the specified
+minimum for copper does not exceed 0.40
+per cent; or when the maximum
+content
+specified for any of the following elements
+does not exceed
+the percentages
+noted:
+manganese
+1.65, silicon 0.60, copper 0.60.
+
+Carbon steel can be classified, according
+to various deoxidation practices, as
+rimmed, capped, semikilled, or killed steel•
+Deoxidation practice and the steelmaking
+process will have an effect on the characteristics and properties of the steel (see the
+article " S t e e l Processing Technology" in
+this Volume)• H o w e v e r , variations in carbon have the greatest effect on mechanical
+properties, with increasing carbon content
+leading to increased hardness and strength
+(see the article "Microstructures, Processing, and Properties of Steels" in this Volume). As such, carbon steels are generally
+categorized according to their carbon content. Generally speaking, carbon steels contain up to 2% total alloying elements and
+can be subdivided into low-carbon steels,
+medium-carbon steels, high-carbon steels,
+and ultrahigh-carbon steels; each of these
+designations is discussed below.
+As a group, carbon steels are by far the
+most frequently used steel• Tables 9 and 10
+indicate that more than 85% of the steel
+produced and shipped in the United States
+is carbon steel. Chemical compositions for
+carbon steels are provided in the tables
+referenced in the section " S A E - A I S I Designations" in this article (see Tables 11 to
+22).
+L o w - c a r b o n s t e e l s contain up to 0.30% C.
+
+The largest category of this class of steel is
+fiat-rolled products (sheet or strip) usually
+in the cold-rolled and annealed condition.
+The carbon content for these high-formability steels is very low, less than 0.10% C,
+with up to 0.4% Mn. Typical uses are in
+automobile b o d y panels, tin plate, and wire
+products•
+
+148 / Carbon and Low-Alloy Steels
+Table 11
+
+SAE-AISI system of designations
+
+Numerals
+and digits
+
+Type of steel and
+nominal alloy content, %
+
+Numerals
+and digits
+
+Carbon steels
+
+10xx(a). . . . . . . . . . . . .
+1 lxx . . . . . . . . . . . . . . .
+
+12xx . . . . . . . . . . . . . . .
+15xx . . . . . . . . . . . . . . .
+
+Plain carbon (Mn 1.00 max)
+Resulfurized
+Resulfurized and
+rephosphorized
+Plain carbon (max Mn range:
+1.00-1.65)
+
+Manganese steels
+13xx . . . . . . . . . . . . . . .
+
+Mn 1.75
+
+Nickel steels
+23xx . . . . . . . . . . . . . . .
+25xx . . . . . . . . . . . . . . .
+
+Ni 3.50
+Ni 5.00
+
+Nickel-chromium steels
+31xx . . . . . . . . . . . . . . .
+
+32xx . . . . . . . . . . . . . . .
+
+33xx . . . . . . . . . . . . . . .
+34xx . . . . . . . . . . . . . . .
+
+Mo 0.20 and 0.25
+Mo 0.40 and 0.52
+
+Numerals
+and digits
+
+Type of steel and
+nominal alloy content, %
+
+Nickel-chromium-molybdenum steels
+
+Chromium (bearing) steels
+
+43xx ..................... Ni 1.82; Cr 0.50 and 0.80;
+Mo 0.25
+43BVxx.................. Ni 1.82; Cr 0.50; Mo 0.12
+and 0.25; V 0.03 min
+47xx . . . . . . . . . . . . . . . . . . . . .
+Ni 1.05; Cr 0.45; Mo 0.20
+and 0.35
+81xx . . . . . . . . . . . . . . . . . . . . .
+Ni 0.30; Cr 0.40; Mo 0.12
+86xx ..................... Ni 0.55; Cr 0.50; Mo 0.20
+87xx . . . . . . . . . . . . . . . . . . . . .
+Ni 0.55; Cr 0.50; Mo 0.25
+88xx ..................... Ni 0.55; Cr 0.50; Mo 0.35
+93xx . . . . . . . . . . . . . . . . . . . . .
+Ni 3.25; Cr 1.20; Mo 0.12
+94xx . . . . . . . . . . . . . . . . . . . . .
+Ni 0.45; Cr 0.40; Mo 0.12
+97xx . . . . . . . . . . . . . . . . . . . . .
+Ni 0.55; Cr 0.20; Mo 0.20
+98xx ..................... Ni 1.00; Cr 0.80; Mo 0.25
+
+50xxx . . . . . . . . . . . . . . . . .
+51xxx
+52xxx
+
+Nickel-molybdenum steels
+
+Ni 1.25; Cr 0.65 and 0.80
+Ni 1.75; Cr 1.07
+Ni 3.50; Cr 1.50 and 1.57
+Ni 3.00; Cr 0.77
+
+Molybdenum steels
+40xx . . . . . . . . . . . . . . .
+44xx . . . . . . . . . . . . . . .
+
+Type of steel and
+nominal alloy content, %
+
+Chromium-vanadium steels
+61xx . . . . . . . . . . . . . . . . . .
+
+72xx .................. W 1.75; Cr 0.75
+Silicon-manganese steels
+
+92xx .................. Si 1.40 and ZOO;Mn 0.65,
+0.82, and 0.85; Cr 0 and
+0.65
+High-strength low-alloy steels
+9xx . . . . . . . . . . . . . . . . . . .
+
+Chromium steels
+
+x x B x x ................
+
+Chromium-molybdenum steels
+
+Cr 0.27, 0.40, 0.50, and 0.65
+Cr 0.80, 0.87, 0.92, 0.95,
+1.00, and 1.05
+
+Cr 0.60, 0.80, and 0.95; V
+0.10 and 0.15 min
+
+Tungsten-chromium steel
+
+46xx ..................... Ni 0.85 and 1.82; Mo 0.20
+and 0.25
+48xx . . . . . . . . . . . . . . . . . . . . .
+Ni 3.50; Mo 0.25
+50xx . . . . . . . . . . . . . . . . . . . . .
+51xx . . . . . . . . . . . . . . . . . . . . .
+
+Cr 0.50"]
+Cr 1.02 ~" C 1.00 min
+Cr 1.45J
+
+Various SAE grades
+
+Boronsteels
+B denotes boron steel
+
+Leaded steels
+a x L x x ................
+
+L denotes leaded steel
+
+41xx . . . . . . . . . . . . . . .
+
+Cr 0.50, 0.80, and 0.95; Mo
+0.12, 0.20, 0.25, and 0.30
+(a) The xx in the last two digitsof these designationsindicatesthat the carbon content(in hundredths of a percent)is to be inser/ed.
+
+F o r rolled steel structural plates and sections, the carbon c o n t e n t may be increased
+to a p p r o x i m a t e l y 0.30%, with higher manganese up to 1.5%. T h e s e latter materials
+may be used for stampings, forgings, seamless tubes, and boiler plate.
+Medium-carbon
+s t e e l s are similar to lowcarbon steels except that the carbon ranges
+from 0.30 to 0.60% and the manganese from
+0.60 to 1.65%. Increasing the carbon content
+to approximately 0.5% with an accompanying
+increase in manganese allows medium-carbon
+steels to be used in the quenched and tempered condition. The uses of medium carbonmanganese steels include shafts, couplings,
+crankshafts, axles, gears, and forgings. Steels
+in the 0.40 to 0.60% C range are also used for
+rails, railway wheels, and rail axles.
+High-carbon
+steels contain from 0.60 to
+1.00% C with m a n g a n e s e contents ranging
+from 0.30 to 0.90%. High-carbon steels are
+used for spring materials and high-strength
+wires.
+Ultrahigh-carbon
+s t e e l s are experimental
+alloys containing a p p r o x i m a t e l y 1.25 to
+2.0% C. T h e s e steels are t h e r m o m e c h a n i cally p r o c e s s e d to p r o d u c e microstructures
+that consist of ultrafine, equiaxed grains of
+ferrite and a uniform distribution of fine,
+spherical, discontinuous proeutectoid carbide particles ( R e f 13). Such microstructures in these steels h a v e led to superplastic
+b e h a v i o r ( R e f 14). Properties of these experimental steels are described in V o l u m e
+14 o f the 9th Edition o f M e t a l s H a n d b o o k
+(see the A p p e n d i x to the article " S u p e r p l a s tic S h e e t F o r m i n g , " entitled " S u p e r p l a s t i c ity in I r o n - B a s e A l l o y s " ) .
+
+High-Strength Low-Alloy Steels
+High-strength low-alloy ( H S L A ) steels,
+or microalloyed steels, are designed to provide better mechanical properties and/or
+greater resistance to atmospheric corrosion
+than conventional carbon steels. They are
+not considered to be alloy steels in the
+normal sense because they are designed to
+meet specific mechanical properties rather
+than a chemical composition ( H S L A steels
+have yield strengths of more than 275 MPa,
+or 40 ksi). The chemical composition o f a
+specific H S L A steel may vary for different
+product thicknesses to meet mechanical
+property requirements. The H S L A steels
+have low carbon contents (0.05 to - 0 . 2 5 %
+C) in order to produce adequate formability
+and weldability, and they have manganese
+contents up to 2.0%. Small quantities of chromium, nickel, molybdenum, copper, nitrogen, vanadium, niobium, titanium, and zirconium are used in various combinations.
+The H S L A steels are c o m m o n l y furnished in the as-rolled condition. They may
+also be supplied in a controlled-rolled, normalized, or precipitation-hardened condition to m e e t specific property requirements.
+Primary applications for H S L A steels include oil and gas line pipe, ships, offshore
+structures, automobiles, off-highway equipment, and pressure vessels.
+H S L A C l a s s i f i c a t i o n . The types of H S L A
+steels c o m m o n l y used include (Ref 15):
+•
+
+•
+
+Weathering
+
+superior
+tance
+
+steels,
+designed to exhibit
+atmospheric corrosion resis-
+
+Control-rolled
+
+steels,
+
+hot rolled according
+
+to a predetermined rolling schedule designed to develop a highly deformed austenite structure that will transform to a very
+fine equiaxed ferrite structure on cooling
+• Pearlite-reduced
+s t e e l s , strengthened by
+very fine-grain ferrite and precipitation
+hardening but with low carbon content
+and therefore little or no pearlite in the
+microstructure
+• Microalloyed
+s t e e l s , with very small additions (generally < 0 . 1 0 % each) of such
+elements as niobium, vanadium, a n d / o r
+titanium for refinement o f grain size and/
+or precipitation hardening
+• Acicular
+ferrite
+steel,
+v e r y low carbon
+steels with sufficient hardenability to
+transform on cooling to a very fine highstrength acicular ferrite (low-carbon bainite) structure rather than the usual polygonal ferrite structure
+• Dual-phase
+s t e e l s , processed to a microstructure of ferrite containing small uniformly distributed regions of high-carbon
+martensite, resulting in a product with
+low yield strength and a high rate of w o r k
+hardening, thus providing a high-strength
+steel of superior formability
+T h e various t y p e s o f H S L A steels m a y
+also h a v e small additions of c a l c i u m , rareearth e l e m e n t s , o r z i r c o n i u m for sulfide
+inclusion shape c o n t r o l . C o m p o s i t i o n s ,
+properties, and a p p l i c a t i o n s of these steels
+can be found in the articles " H i g h S t r e n g t h S t r u c t u r a l and H i g h - S t r e n g t h
+Low-Alloy Steels," "Dual-Phase Steels,"
+and " H i g h - S t r e n g t h
+L o w - A l l o y Steel
+F o r g i n g s " in this V o l u m e .
+
+Next Page
+
+Classification and Designation of Carbon and Low-Alloy Steels / 149
+Table 12 Carbon steel compositions
+Applicable to semifinished products for forging, hot-rolled and cold-finished bars, wire rods, and
+seamless tubing
+UNS
+number
+G10050
+G10060
+G10080
+G10100
+G10120
+G10130
+G10150
+G10160
+G10170
+G10180
+G10190
+G10200
+G10210
+G10220
+G10230
+G10250
+G10260
+G10290
+GI0300
+G10350
+G10370
+G10380
+G10390
+GI0400
+G10420
+G10430
+G10440
+G10450
+G10460
+G10490
+G10500
+G10530
+G10550
+G10590
+G10600
+G10640
+G10650
+G10690
+G10700
+G10740
+G10750
+G10780
+G10800
+G10840
+G10850
+G10860
+G10900
+G10950
+
+SAE-AISI
+number
+1005 . . . . . . . . . . . . . . . . .
+1006 . . . . . . . . . . . . . . . . .
+1008 . . . . . . . . . . . . . . . . .
+1010 . . . . . . . . . . . . . . . . .
+1012 . . . . . . . . . . . . . . . . .
+1013 . . . . . . . . . . . . . . . . .
+1015 . . . . . . . . . . . . . . . . .
+1016 . . . . . . . . . . . . . . . . .
+1017 . . . . . . . . . . . . . . . . .
+1018 . . . . . . . . . . . . . . . . .
+1019 . . . . . . . . . . . . . . . . .
+1020 . . . . . . . . . . . . . . . . .
+1021 . . . . . . . . . . . . . . . . .
+1022 . . . . . . . . . . . . . . . . .
+1023 . . . . . . . . . . . . . . . . .
+1025 . . . . . . . . . . . . . . . . .
+1026 . . . . . . . . . . . . . . . . .
+1029 . . . . . . . . . . . . . . . . .
+1030 . . . . . . . . . . . . . . . . .
+1035 . . . . . . . . . . . . . . . . .
+1037 . . . . . . . . . . . . . . . . .
+1038 . . . . . . . . . . . . . . . . .
+1039 . . . . . . . . . . . . . . . . .
+1040 . . . . . . . . . . . . . . . . .
+1042 . . . . . . . . . . . . . . . . .
+1043 . . . . . . . . . . . . . . . . .
+1044 . . . . . . . . . . . . . . . . .
+1045 . . . . . . . . . . . . . . . . .
+1046 . . . . . . . . . . . . . . . . .
+1049 . . . . . . . . . . . . . . . . .
+1050 . . . . . . . . . . . . . . . . .
+1053 . . . . . . . . . . . . . . . . .
+1055 . . . . . . . . . . . . . . . . .
+1059 . . . . . . . . . . . . . . . . .
+1060 . . . . . . . . . . . . . . . . .
+1064 . . . . . . . . . . . . . . . . .
+1065 . . . . . . . . . . . . . . . . .
+1069 . . . . . . . . . . . . . . . . .
+1070 . . . . . . . . . . . . . . . . .
+1074 . . . . . . . . . . . . . . . . .
+1075 . . . . . . . . . . . . . . . . .
+1078 . . . . . . . . . . . . . . . . .
+1080 . . . . . . . . . . . . . . . . .
+1084 . . . . . . . . . . . . . . . . .
+1085 . . . . . . . . . . . . . . . . .
+1086 . . . . . . . . . . . . . . . . .
+1090 . . . . . . . . . . . . . . . . .
+1095 . . . . . . . . . . . . . . . . .
+
+[
+C
+0.06 max
+0.08 m a x
+0.10 max
+0.08-0.13
+0.10-0.15
+0.11-0.16
+0.13-0.18
+0.13-0.18
+0.15-0.20
+0.15-0.20
+0.15-0.20
+0.18-0.23
+0.18-0.23
+0.18-0.23
+0.20-0.25
+0.22-0.28
+0.22-0.28
+0.25-0.31
+0.28-0.34
+0.32-0.38
+0.32-0.38
+0.35-0.42
+0.37-0.44
+0.37-0.44
+0.40-0.47
+0.40-0.47
+0.43-0.50
+0.43-0.50
+0.43-0.50
+0.46-0.53
+0.48-0.55
+0.48-0.55
+0.50-0.60
+0.55-0.65
+0.55-0.65
+0.60-0.70
+0.60-0.70
+0.65-0.75
+0.65-0.75
+0.70-0.80
+0.70-0.80
+0.72-0.85
+0.75-0.88
+0.80-0.93
+0.80-0.93
+0.80-0.93
+0.85-0.98
+0.90-1.03
+
+Cast or heat chemical ranges and limits, %(a)
+Mn
+P max
+0.35 m a x
+0.25-0.40
+0.30-0.50
+0.30--0.60
+0.30-0.60
+0.50-0.80
+0.30-0.60
+0.60-0.90
+0.30-0.60
+0.60-0.90
+0.70-1.00
+0.30-0.60
+0.60-0.90
+0.70-1.00
+0.30-0.60
+0.30-0.60
+0.60-0.90
+0.60-0.90
+0.60-0.90
+0.60-0.90
+0.70-1.00
+0.60-0.90
+0.70-1.00
+0.60-0.90
+0.60-0.90
+0.70-1.00
+0.30-0.60
+0.60-0.90
+0.70-1.00
+0.60-0.90
+0.60~.90
+0.70-1.00
+0.60--0.90
+0.50-0.80
+0.60--0.90
+0.50-0.80
+0.60-0.90
+0.40-0.70
+0.60-0.90
+0.50-0.80
+0.40-0.70
+0.30-0.60
+0.60--0.90
+0.60-0.90
+0.70-1.00
+0,30-0.50
+0,60-0.90
+0,30-0.50
+
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+0.040
+
+s maxI
+0.050
+0.050
+
+0.050
+0.050
+0.050
+0.050
+
+condition, some overlap exists among the
+alloy steel classifications. In this article, four
+major groups of aUoy steels are addressed: (1)
+low-carbon quenched and tempered (QT)
+steels, (2) medium-carbon ultrahigh-strength
+steels, (3) bearing steels, and (4) heat-resistant
+chromium-molybdenum steels.
+
+Low-carbon quenched and tempered
+steelscombine high yield strength (from 350
+
+to 1035 MPa, or 50 to 150 ksi) and high
+tensile strength with good notch toughness,
+ductility, c o r r o s i o n resistance, or weldability. The various steels have different combinations of these characteristics based on
+their intended applications. The chemical
+compositions of typical QT low-carbon
+0.050
+steels are given in Table 23. Many of the
+0.050
+0.050 steels are covered by ASTM specifications.
+0.050 However, a few steels, such as HY-80 and
+0.050 HY-100, are covered by military specifica0.050 tions. The steels listed are used primarily as
+0.050
+0.050 plate. S o m e of these steels, as well as other
+0.050 similar steels, are produced as forgings or
+0.050 castings. More detailed information on 10w0.050 carbon QT steels can be found in the articles
+0.050
+0.050 "Hardenable Carbon and Low-Alloy Steels"
+0.050 and "High-Strength Structural and High0.050 Strength Low-Alloy Steels" in this Volume.
+0.050
+Medium-carbon ultrahigh-strength steels
+0.050
+0.050 are structural steels with yield strengths that
+0.050 can exceed 1380 MPa (200 ksi). Table 23 lists
+0.050 typical compositions. Many of these steels
+0.050 are covered by SAE-AISI designations or are
+0.050
+0.050 proprietary compositions. Product forms in0.050 clude billet, bar, rod, forgings, sheet, tubing,
+0.050 and welding wire. A review of the heat treat0.050 ments and resulting properties of these steels
+0.050
+0.050 can be found in the article "Ultrahigh0.050 Strength Steels" in this Volume.
+0.050
+Bearing steels used for ball and roller
+0.050 bearing applications are comprised of 10w0.050
+0.050 carbon (0.10 to 0.20% C) case-hardened
+0.050 steels and high carbon ( - 1 . 0 % C) through0.050 hardened steels (Table 23). Many of these
+steels are covered by SAE-AISI designa(a) When silicon ranges or limits are required for bar and semifinished products, the values in Table 1 apply. For rods, the following
+ranges are commonly used: 0.10 max; 0.07-0.15%; 0.10-0.20%; 0.15-0.35%; 0.2(~0.40%; and 0.30-0.60%. Steels listed in this table can
+tions. Selection and properties of these mabe produced with additions of lead or boron. Leaded steels typically contain 0.15-0.35% Pb and are identified by inserting the letter L
+in the designation (10L45); boron steels can be expected to contain 0.0005-0.003% B and are identified by inserting the letter B in the
+terials are discussed in the article "Bearing
+designation (10B46). Source: Ref 1
+Steels" in this Volume.
+Chromium-molybdenum
+heat-resistant
+steels contain 0.5 to 9% Cr and 0.5 to 1.0%
+Mo. The carbon content is usually below
+As with steels in general, low-alloy steels
+Low-Alloy Steels
+0.20%. The chromium provides improved
+can be classified according to:
+Low-alloy steels constitute a category of
+oxidation and corrosion resistance, and the
+ferrous materials that exhibit mechanical
+molybdenum increases strength at elevated
+• C h e m i c a l c o m p o s i t i o n , such as nickel
+properties superior to plain carbon steels as
+temperatures. They are generally supplied
+steels, nickel-chromium steels, molybdethe result of additions of such alloying elein the normalized and tempered, quenched
+num
+steels,
+chromium-molybdenum
+ments as nickel, chromium, and molybdeand tempered, or annealed condition. Chrosteels, and so on, as described in the
+num. Total alloy content can range from
+section "SAE-AISI Designations" in this mium-molybdenum steels are widely used
+2.07% up to levels just below that of stainin the oil and gas industries and in fossil fuel
+article and as shown in Table I 1
+less steels, which contain a minimum of • H e a t treatment, such as quenched and
+and nuclear power plants. Various product
+10% Cr. For many low-alloy steels, the
+tempered, normalized and tempered, an- forms and corresponding ASTM specificaprimary function of the alloying elements is
+tions for these steels are given in Table 24.
+nealed, and so on
+to increase hardenability in order to opti- • Weldability, as described in the article Nominal chemical compositions are providmize mechanical properties and toughness
+ed in Table 25. High-temperature property
+"Weldability of Steels" in this Volume
+after heat treatment. In some cases, howevdata for chromium-molybdenum steels are
+er, alloy additions are used to reduce enviBecause of the wide variety of chemical reviewed extensively in the article "Elevatronmental degradation under certain specicompositions possible and the fact that some ed-Temperature Properties of Ferritic
+fied service conditions.
+steels are used in more than one heat-treated Steels" in this Volume.
+
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+0.050
+
+
