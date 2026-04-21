@@ -48,6 +48,8 @@ Source-specific parser → SteelIngestBundle (Pydantic) → ingest_bundles() →
 
 **`parsers/mondal.py`** — Parser for four appendix tables from S.K. Mandal's *Steel Metallurgy* textbook. Produces 97 composition-only records (nominal range midpoints for SAE carbon, alloy, and free-cutting grades) and 39 property records with coarse processing info. Composition ranges stored as midpoints — not individual heat measurements. Schema S limit raised to 0.4 wt% to accommodate free-cutting steels (SAE 11xx/12xx).
 
+**`parsers/asm_vol1.py`** — Parser for 5 Knovel table exports from ASM Handbook Vol.1 (1990). Produces 385 records total: Table 9 (101 carbon steel bar property records with processing type — as_rolled/anneal/normalize), Table 7 (46 ASTM structural plate minimum-spec records, no processing), Tables 12 and 13 (48+43 carbon steel composition records for bars/rods and plate/sheet respectively), Table 27 (147 AMS alloy steel compositions). IDs are deterministic (MD5-based) so re-ingestion is safe. Files live in `data/ASM/`; `TableData9.csv` and `TableData10.csv` are cast iron — excluded.
+
 **`parsers/nims.py`** — Parser for NIMS MatNavi MSDB exports (.xlsx/.csv). Column names vary across NIMS export versions — always run `NIMSParser.inspect(path)` on a new download before parsing to verify header names match `COLUMN_MAP`.
 
 **`parsers/steelbench.py`** — Parser for SteelBench v1.0 (Zenodo, CC-BY 4.0, 1,360 records). Downloads directly from Zenodo if no local path is given. Three data tiers with different reliability: `nims_measured` (5), `emk_spec_verified` (4), `kaggle_measured` (2). Critical data quality notes:

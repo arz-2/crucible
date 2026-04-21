@@ -54,6 +54,35 @@ Processing methods mapped to route types: Hot Rolled/Cold Drawn → `as_rolled`,
 
 ---
 
+### ASM Handbook Vol.1 (Knovel Table Exports)
+- **Location:** `data/ASM/`
+- **Source:** ASM Handbook, Volume 1: Properties and Selection: Irons, Steels, and High-Performance Alloys. ASM International, 1990. Accessed via Knovel (CMU institutional license).
+- **Parser:** `data/parsers/asm_vol1.py` — `parse_asm_vol1()`
+- **Reliability:** 4 (handbook specification values — typical or minimum, not individual heat measurements)
+- **Status:** Parser complete. Not yet ingested.
+
+Total: **385 records** across 5 tables.
+
+| Table | File(s) | Records | Contents | Bundle Type |
+|-------|---------|---------|----------|-------------|
+| Table 9 | `TableData9_1/2/3.csv` | 101 | Carbon steel bar properties by processing type | Steel + Processing + Properties |
+| Table 7 | `TableData7.csv` | 46 | ASTM structural plate min properties (carbon, low-alloy, HSLA) | Steel + Properties (no processing) |
+| Table 12 | `TableData12.csv` | 48 | Carbon steel compositions — bars/rods/tubing | Steel + Composition |
+| Table 13 | `TableData13.csv` | 43 | Carbon steel compositions — plate/sheet/strip | Steel + Composition |
+| Table 27 | `TableData27_1/2/3.csv` | 147 | AMS alloy steel nominal compositions | Steel + Composition |
+
+**Table 9 processing types:** Hot Rolled → `as_rolled`, Cold Drawn → `as_rolled`, ACD (annealed cold drawn) → `anneal`, SACD (spheroidize annealed cold drawn) → `anneal`, NCD (normalized cold drawn) → `normalize`. No temperature data — austenitize/temper temps are null.
+
+**Table 7 notes:** Properties are ASTM minimum specification values — treat as lower bounds, not typical. `processing_id` is always null (no heat treatment info given; as-rolled implied for structural plate).
+
+**Tables 12/13 overlap:** Both cover carbon steel grades; Table 12 (bars/rods) and Table 13 (plate/sheet) represent product-form-specific composition limits for the same SAE grades. IDs are deterministic by (SAE grade + product form) so both ingest without collision.
+
+**Table 27 notes:** AMS designations map to nearest AISI-SAE grade via the `nearest grade` column. Many AMS grades are product-form variants of the same base composition. `other` column parsed for Si, V, Mn, Nb via regex.
+
+**Discarded files:** `TableData9.csv` and `TableData10.csv` are cast iron tables — not steel, excluded from ingestion.
+
+---
+
 ### NIMS MatNavi MSDB
 - **Location:** `data/AISI_steel_code_tables/` *(to be downloaded separately)*
 - **Parser:** `data/parsers/nims.py` — `NIMSParser` / `parse_nims_file()`
