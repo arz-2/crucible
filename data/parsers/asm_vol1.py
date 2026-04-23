@@ -9,13 +9,18 @@ Accessed via Knovel (CMU institutional license).
 
 FILES AND TABLES
 ----------------
-  TableData9_1/2/3.csv  — Table 9:  Estimated mechanical properties of
+  vol1_estimated_mechanical_properties_nonresulfurized_carbon_steel_bars_part1/2/3.csv
+                         — Table 9:  Estimated mechanical properties of
                            nonresulfurized carbon steel bars (101 records)
-  TableData7.csv        — Table 7:  ASTM structural plate specs, min properties
+  vol1_astm_specifications_mechanical_properties_structural_plate.csv
+                         — Table 7:  ASTM structural plate specs, min properties
                            (49 records; carbon, low-alloy, HSLA)
-  TableData12.csv       — Table 12: Carbon steel compositions, bars/rods (48 grades)
-  TableData13.csv       — Table 13: Carbon steel compositions, plate/sheet (43 grades)
-  TableData27_1/2/3.csv — Table 27: AMS alloy steel nominal compositions (149 grades)
+  vol1_carbon_steel_compositions_bars_rods_tubing.csv
+                         — Table 12: Carbon steel compositions, bars/rods (48 grades)
+  vol1_carbon_steel_compositions_structural_shapes_plate_sheet.csv
+                         — Table 13: Carbon steel compositions, plate/sheet (43 grades)
+  vol1_ams_alloy_steel_nominal_compositions_part1/2/3.csv
+                         — Table 27: AMS alloy steel nominal compositions (149 grades)
 
 DATA QUALITY NOTES
 ------------------
@@ -446,20 +451,28 @@ def parse_asm_vol1(
     records: List[Dict] = []
 
     if include_table9:
-        paths = [d / f"TableData9_{i}.csv" for i in (1, 2, 3) if (d / f"TableData9_{i}.csv").exists()]
+        paths = [
+            d / f"vol1_estimated_mechanical_properties_nonresulfurized_carbon_steel_bars_part{i}.csv"
+            for i in (1, 2, 3)
+            if (d / f"vol1_estimated_mechanical_properties_nonresulfurized_carbon_steel_bars_part{i}.csv").exists()
+        ]
         records += _parse_table9(paths)
 
     if include_table7:
-        records += _parse_table7(d / "TableData7.csv")
+        records += _parse_table7(d / "vol1_astm_specifications_mechanical_properties_structural_plate.csv")
 
     if include_table12:
-        records += _parse_comp_table(d / "TableData12.csv", "bars_rods_tubing")
+        records += _parse_comp_table(d / "vol1_carbon_steel_compositions_bars_rods_tubing.csv", "bars_rods_tubing")
 
     if include_table13:
-        records += _parse_comp_table(d / "TableData13.csv", "plate_sheet_strip")
+        records += _parse_comp_table(d / "vol1_carbon_steel_compositions_structural_shapes_plate_sheet.csv", "plate_sheet_strip")
 
     if include_table27:
-        paths = [d / f"TableData27_{i}.csv" for i in (1, 2, 3) if (d / f"TableData27_{i}.csv").exists()]
+        paths = [
+            d / f"vol1_ams_alloy_steel_nominal_compositions_part{i}.csv"
+            for i in (1, 2, 3)
+            if (d / f"vol1_ams_alloy_steel_nominal_compositions_part{i}.csv").exists()
+        ]
         records += _parse_table27(paths)
 
     logger.info(f"ASM Vol.1 parse complete: {len(records)} total records")
