@@ -1,0 +1,75 @@
+{
+  "page_type": "data",
+  "table_number": 25,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ASTM A216 WCC Grade",
+  "steel_category": "Steel",
+  "data_rows": [
+    {
+      "form": "Casting 20 x 20 x 48 in (508 x 508 x 219 mm)",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": null,
+      "temp_K": 228,
+      "yield_MPa": 379,
+      "kic_MPa_sqrt_m": 99,
+      "specimen_type": "WOL",
+      "reference": 103
+    },
+    {
+      "form": "Casting 20 x 20 x 48 in (508 x 508 x 219 mm)",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": null,
+      "temp_K": 200,
+      "yield_MPa": 421,
+      "kic_MPa_sqrt_m": 54,
+      "specimen_type": "WOL",
+      "reference": 103
+    },
+    {
+      "form": "Casting 20 x 20 x 48 in (508 x 508 x 219 mm)",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": null,
+      "temp_K": 172,
+      "yield_MPa": 462,
+      "kic_MPa_sqrt_m": 53,
+      "specimen_type": "WOL",
+      "reference": 103
+    },
+    {
+      "form": "Casting 20 x 20 x 48 in (508 x 508 x 219 mm)",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": null,
+      "temp_K": 144,
+      "yield_MPa": 531,
+      "kic_MPa_sqrt_m": 36,
+      "specimen_type": "WOL",
+      "reference": 103
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.24,
+      "Mn": 1.15,
+      "Si": 0.44,
+      "P": 0.008,
+      "S": 0.011,
+      "Ni": 0.37,
+      "Cr": 0.09,
+      "Mo": 0.02,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.06,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1650F (1172K), 8 Hr, Furnace Cool 600F (589K); 1125F (881K), Furnace Cool 600F (589K); 1750F (1228K), 8 Hr, Furnace Cool to 1650F (1172K), Equalize; Accelerated Cooling to 200F (367K), Temper 1200F (922K), 8 Hr, Air Cool"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "page_type": "data",
+  "table_number": 5,
+  "sheet": 1,
+  "sheet_of": 2,
+  "steel_grade": "AISI 4340",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [
+    {
+      "form": "Plate: 0.125 in (3.2 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 367,
+      "yield_MPa": 1517,
+      "kic_MPa_sqrt_m": 44,
+      "specimen_type": "CC",
+      "reference": 8
+    },
+    {
+      "form": "Plate: 0.125 in (3.2 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1517,
+      "kic_MPa_sqrt_m": 44,
+      "specimen_type": "CC",
+      "reference": 8
+    },
+    {
+      "form": "Plate: 0.375 in (9.5 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 367,
+      "yield_MPa": 1433,
+      "kic_MPa_sqrt_m": 66,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.375 in (9.5 mm) Thick",
+      "comp_code": "E",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 1517,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.375 in (9.5 mm) Thick",
+      "comp_code": "F",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 297,
+      "yield_MPa": 1538,
+      "kic_MPa_sqrt_m": 58,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.375 in (9.5 mm) Thick",
+      "comp_code": "E",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 228,
+      "yield_MPa": 1620,
+      "kic_MPa_sqrt_m": 44,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.375 in (9.5 mm) Thick",
+      "comp_code": "E",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1655,
+      "kic_MPa_sqrt_m": 35,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.500 in (12.6 mm) Thick",
+      "comp_code": "H",
+      "ht_code": "10",
+      "test_orientation": "T-L",
+      "temp_K": 297,
+      "yield_MPa": 1593,
+      "kic_MPa_sqrt_m": 75,
+      "specimen_type": "Bend",
+      "reference": 80
+    },
+    {
+      "form": "Plate: 0.625 in (15.9 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "4",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 1504,
+      "kic_MPa_sqrt_m": 86,
+      "specimen_type": "SEN",
+      "reference": 12
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "5",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1255,
+      "kic_MPa_sqrt_m": 116,
+      "specimen_type": "Bend",
+      "reference": 6
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1469,
+      "kic_MPa_sqrt_m": 75,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "7",
+      "test_orientation": "L-T",
+      "temp_K": 228,
+      "yield_MPa": 1380,
+      "kic_MPa_sqrt_m": 71,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "7",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1400,
+      "kic_MPa_sqrt_m": 55,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "8",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1586,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": 9
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "7",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 1400,
+      "kic_MPa_sqrt_m": 88,
+      "specimen_type": "Bend",
+      "reference": 44
+    },
+    {
+      "form": "Billet: 4x4.5 in (102x114 mm) Vac. Arc Remelted",
+      "comp_code": "G",
+      "ht_code": "9",
+      "test_orientation": "L-T",
+      "temp_K": 296,
+      "yield_MPa": 1662,
+      "kic_MPa_sqrt_m": 58,
+      "specimen_type": "Bend",
+      "reference": 79
+    },
+    {
+      "form": "Billet: 4x4.5 in (102x114 mm) Vac. Arc Remelted",
+      "comp_code": "G",
+      "ht_code": "9",
+      "test_orientation": "T-L",
+      "temp_K": 296,
+      "yield_MPa": 1655,
+      "kic_MPa_sqrt_m": 59,
+      "specimen_type": "Bend",
+      "reference": 79
+    },
+    {
+      "form": "Billet: 4x4.5 in (102x114 mm) Vac. Arc Remelted",
+      "comp_code": "G",
+      "ht_code": "9",
+      "test_orientation": "T-S",
+      "temp_K": 296,
+      "yield_MPa": 1655,
+      "kic_MPa_sqrt_m": 62,
+      "specimen_type": "Bend",
+      "reference": 79
+    },
+    {
+      "form": "Forged Bar: 5 in (127 mm) Thick",
+      "comp_code": "I",
+      "ht_code": "11",
+      "test_orientation": "T-S",
+      "temp_K": 294,
+      "yield_MPa": 1317,
+      "kic_MPa_sqrt_m": 88,
+      "specimen_type": null,
+      "reference": 69
+    },
+    {
+      "form": "Forged Bar: 5 in (127 mm) Thick",
+      "comp_code": "I",
+      "ht_code": "12",
+      "test_orientation": "T-S",
+      "temp_K": 294,
+      "yield_MPa": 1586,
+      "kic_MPa_sqrt_m": 53,
+      "specimen_type": null,
+      "reference": 69
+    }
+  ],
+  "composition_legend": {},
+  "heat_treatment_legend": {}
+}

@@ -1,0 +1,81 @@
+{
+  "page_type": "data",
+  "table_number": 29,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "AISI 1144 and HY 80",
+  "steel_category": "Steel, Intermediate Strength",
+  "data_rows": [
+    {
+      "form": "Forging: 4 in (102 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 538,
+      "kic_MPa_sqrt_m": 67,
+      "specimen_type": "WOL",
+      "reference": 45
+    },
+    {
+      "form": "Forging: 4 in (102 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 256,
+      "yield_MPa": 538,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "WOL",
+      "reference": 45
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 986,
+      "kic_MPa_sqrt_m": 66,
+      "specimen_type": "Bend",
+      "reference": 10
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.52,
+      "Mn": 1.46,
+      "Si": 0.2,
+      "P": 0.016,
+      "S": 0.025,
+      "Ni": null,
+      "Cr": null,
+      "Mo": null,
+      "V": 0.005,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": 0.005,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.16,
+      "Mn": 0.28,
+      "Si": 0.22,
+      "P": 0.011,
+      "S": 0.016,
+      "Ni": 2.26,
+      "Cr": 1.46,
+      "Mo": 0.3,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.016,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1550F (1117K), 6 Hr, Oil Quench; 900F (756K), 6 Hr, Furnace Cool.",
+    "2": "1660F (1178K), 92 minutes, Water Quench; 1300F (978K), 87 minutes, Water Quench."
+  }
+}

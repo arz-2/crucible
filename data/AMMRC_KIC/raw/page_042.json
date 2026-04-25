@@ -1,0 +1,15 @@
+{
+  "page_type": "data",
+  "table_number": 22,
+  "sheet": 2,
+  "sheet_of": 2,
+  "steel_grade": "AM355",
+  "steel_category": "Stainless Steel",
+  "data_rows": [],
+  "composition_legend": {},
+  "heat_treatment_legend": {
+    "5": "200\u00b0F (1367K), 1 Hr, Oil Quench; -100F (200K), 0.5 Hr; Temper 500F (533K), 2 Hr; Temper 500F (533K), 2 Hr, 10% Cold Reduction by Rolling; Temper 700F (644K), 2 Hr + 2 Hr, Air Cool",
+    "6": "Cold Rolled from 1.12 in (28.5 mm) Plate to 0.56 in (14.2 mm) in 5 stages with Intermediate Anneal, 1400F (1033K) 1800-1875F (1255-1297K), 1 Hr, Oil Quench; -100F (200K), 0.5 Hr, Temper 500F (533K), 2 Hr + 2 Hr",
+    "7": "2200F (1478K), 1 Hr; 1900F (1311K), 1 Hr, Oil Quench; -320F (78K), 1 Hr, 1000F (811K), 2 Hr + 2 Hr"
+  }
+}

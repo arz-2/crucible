@@ -1,6 +1,6 @@
 # Literature Review: Steel Processing Recommendation Agent
 
-**Last Updated:** 2026-04-20
+**Last Updated:** 2026-04-22
 **Purpose:** Establish prior art, identify gaps, and position the contributions of this project.
 
 ---
@@ -33,15 +33,21 @@ Forward property prediction for steels from composition and processing parameter
 ---
 
 ### 2. SteelBERT — Steel Design with LLM
-**Reference:** "Steel design based on a large language model," *Acta Materialia*, 2024.
+**Reference:** "Steel design based on a large language model," *Acta Materialia*, 2025.
+**PDF:** `tian_2025_steelbert_llm_steel_design.pdf`
 **URL:** https://www.sciencedirect.com/science/article/abs/pii/S1359645424010115
+**Code + data:** https://github.com/mgedata/SteelScientist | Model: https://huggingface.co/MGE-LLMs/SteelBERT
 
-**What it does:** Pretrains a BERT model on 4.2M materials science abstracts + 55K full-text steel articles. Uses it to predict YS/UTS/elongation from natural language descriptions of composition and fabrication process. Gestures toward fabrication sequence suggestion.
+**What it does:** Pretrains a DeBERTa-based model (SteelBERT) on 4.2M materials science abstracts + 55K full-text steel articles. Encodes composition and fabrication process as natural language, predicts YS/UTS/elongation. Fine-tunes on 64 experimental 15Cr austenitic stainless samples to demonstrate adaptation.
 
-**Inputs:** Natural language description of steel composition and fabrication process.
-**Outputs:** YS, UTS, elongation. One fabrication sequence suggestion per case.
+**Performance:** R² = 0.78–0.83 (general literature model), 0.87–0.90 (fine-tuned on 15Cr stainless).
+
+**Inputs:** Natural language description of composition and fabrication process sequence.
+**Outputs:** YS, UTS, elongation. One optimized fabrication sequence suggestion for the 15Cr case study.
 
 **Why it matters:** The closest paper to our LLM-based approach. Demonstrates that NLP over steel literature can encode processing knowledge.
+
+**Published training dataset:** `datasets/data.csv` in the GitHub repo — 677 rows NLP-extracted from 157 DOIs. **Not worth ingesting:** material names are generic ("Steel 1", "Sample A"), Fe stored as balance (not in composition columns), processing in free-text paragraphs only, reliability ~2. The dataset encodes composition + processing text + YS/UTS/elongation.
 
 **Key gaps:**
 - Fabrication sequence "recommendation" is rudimentary: suggests "cold rolling + tempering" for one austenitic stainless case with no quantitative parameters (no temperatures, no hold times, no quench specification).
@@ -52,7 +58,8 @@ Forward property prediction for steels from composition and processing parameter
 ---
 
 ### 3. Physics-Informed ML for Steel CCT Diagrams
-**Reference:** "Physics-Informed Machine Learning for Steel Development: A Computational Framework and CCT Diagram Modelling," arXiv:2512.03050, November 2025.
+**Reference:** "Physics-Informed Machine Learning for Steel Development: A Computational Framework and CCT Diagram Modelling," arXiv:2512.03050, 2025 preprint.
+**PDF:** `hedstrom_2025_physics_ml_cct_steel.pdf`
 **URL:** https://arxiv.org/abs/2512.03050
 
 **What it does:** ML model trained on 4,100 CCT diagrams to predict phase transformation temperatures and microstructure from composition and austenitizing conditions. Generates complete CCT diagrams (100 cooling curves) in under 5 seconds.
@@ -113,7 +120,30 @@ Forward property prediction for steels from composition and processing parameter
 
 ---
 
-### 7. ML Approaches for Steel Mechanical Properties (NIMS Dataset Baseline)
+### 7. NIMS Fatigue Strength Prediction — Agrawal et al. 2014
+**Reference:** "Exploration of data science techniques to predict fatigue strength of steel from composition and processing parameters," *Integrating Materials and Manufacturing Innovation* 3:8 (2014).
+**PDF:** `agrawal_2014_fatigue_strength_prediction_nims.pdf`
+**URL:** https://immi.springeropen.com/articles/10.1186/2193-9772-3-8
+**Data (Additional file 1):** `40192_2013_16_MOESM1_ESM.xlsx` — 437 rows, CC-BY 2.0
+
+**What it does:** Benchmarks random forest, neural nets, and statistical models on 437 NIMS fatigue measurements. Explores feature importance for rotating-bending fatigue strength prediction from composition + heat treatment parameters (Q&T, carburizing, normalizing).
+
+**Inputs:** Composition (C, Si, Mn, P, S, Ni, Cr, Cu, Mo) + full heat treatment parameters (austenitize temp/time, quench medium, carburize temp/time/diffusion, temper temp/time).
+**Outputs:** Fatigue strength at 10⁷ cycles (MPa) — rotating bending, R=−1.
+
+**Why it matters:** The Agrawal preprocessed extract is the **primary source of `fatigue_limit_MPa`** in this project (437 rows, NIMS reliability=5). The encoding conventions (30°C sentinel for "not used", THQCr for quench medium, QmT for carburize quench temperature) are documented here and are essential for correctly interpreting the dataset. Also establishes carbon/low-alloy steel fatigue as a solvable ML prediction task.
+
+**Dataset status:** ✅ Ingested as `src_nims_fatigue`. Parser at `data/parsers/nims_fatigue.py`.
+
+**Key gaps:**
+- Only carbon and low-alloy SAE grades (10xx, 13xx, 4xxx, 8xxx) — no stainless, maraging, tool steels.
+- 9 composition elements only — V, Nb, Ti, Al, W not measured.
+- Fatigue scope only — no yield, UTS, hardness, or toughness in this dataset.
+- No processing route recommendation or inverse design capability.
+
+---
+
+### 8. ML Approaches for Steel Mechanical Properties (NIMS Dataset Baseline)
 **Reference:** "Machine Learning Approaches to Predicting and Understanding the Mechanical Properties of Steels," arXiv:2003.01943, 2020.
 **URL:** https://arxiv.org/abs/2003.01943
 
@@ -127,7 +157,7 @@ Forward property prediction for steels from composition and processing parameter
 
 ---
 
-### 8. Multitask Steel Property Prediction — TabPFN on TSDR
+### 9. Multitask Steel Property Prediction — TabPFN on TSDR
 **Reference:** "Multitask-Informed Prior for In-Context Learning on Tabular Data: Application to Steel Property Prediction," arXiv:2603.22738, March 2026.
 **URL:** https://arxiv.org/abs/2603.22738
 
@@ -139,7 +169,7 @@ Forward property prediction for steels from composition and processing parameter
 
 ---
 
-### 9. Inverse Design of Inorganic Compounds with Generative AI (Review)
+### 10. Inverse Design of Inorganic Compounds with Generative AI (Review)
 **Reference:** "Inverse Design of Inorganic Compounds with Generative AI," arXiv:2604.11827, April 2026.
 **URL:** https://arxiv.org/abs/2604.11827
 
@@ -151,15 +181,18 @@ Forward property prediction for steels from composition and processing parameter
 
 ## Datasets Found in Literature
 
-| Dataset | Records | Properties | Processing | Source | Access |
+| Dataset | Records | Properties | Processing | Source | Status |
 |---|---|---|---|---|---|
-| SteelBench v1.0 | 1,360 | YS, UTS, elongation, Charpy, hardness | austenitize T, quench medium, temper T | NIMS + EMK + Kaggle | Open — Zenodo 10.5281/zenodo.18530558 |
-| NIMS MSDB (cited in arXiv 2003.01943) | 360 | Fatigue, tensile, fracture, hardness | Temper T | NIMS | Restricted — registration + bulk download prohibition |
-| TSDR industrial dataset (arXiv 2603.22738) | Undisclosed | YS, UTS, elongation | Hot-rolling parameters | Proprietary industrial | Not accessible |
-| CCT diagram dataset (arXiv 2512.03050) | 4,100 diagrams | Phase fractions, transformation temperatures | Austenitizing conditions + cooling rates | KTH / literature | Contact authors — likely sourced from steeldata.info |
-| All-in-One Steel Data v1.0 — CCT/TTT | 9,843 diagrams | Transformation temps (Ac1, Ac3, Ms, Bs), phase fractions | Austenitizing temp, grain size, cooling rates | steeldata.info | $800 single-user license; free 200-diagram demo available |
-| All-in-One Steel Data v1.0 — Tempering | 2,877 diagrams | Hardness vs. temper temperature curves | Temper temperature | steeldata.info | Same license as above |
-| All-in-One Steel Data v1.0 — Hardenability | 2,026 diagrams | Jominy hardness profiles | Austenitizing conditions | steeldata.info | Same license as above |
+| SteelBench v1.0 | 1,360 | YS, UTS, elongation, Charpy, hardness | austenitize T, quench medium, temper T | NIMS + EMK + Kaggle | ✅ Ingested (`src_steelbench_*`) |
+| NIMS MatNavi Fatigue DB (Agrawal 2014 extract) | 437 | fatigue_limit_MPa (rotating bending, 10⁷ cycles) | Full Q&T params + carburizing params | NIMS | ✅ Ingested (`src_nims_fatigue`) |
+| Cheng et al. 2024 Fe–C–Mn–Al | 580 | UTS, elongation | Multi-step TMCP + anneal | Literature (PCCP 2024) | ✅ Ingested (`src_cheng_2024`) |
+| SteelBERT training data (github.com/mgedata/SteelScientist) | 677 | YS, UTS, elongation | Free-text only | NLP-extracted from 157 DOIs | ❌ Not worth ingesting — generic names, no grade IDs, processing unstructured |
+| NETL 9% Cr microstructure dataset (Rozman 2022) | ~33 alloys | YS, UTS, elongation, RA | Normalized + tempered (no temps) | NETL ORNL | ❌ Skip — CC-BY-NC-ND, specialty non-standard alloys, no processing params |
+| TSDR industrial hot-rolling dataset (arXiv 2603.22738) | Undisclosed | YS, UTS, elongation | Hot-rolling parameters | Proprietary industrial | ❌ Not accessible |
+| CCT diagram dataset (arXiv 2512.03050) | 4,100 diagrams | Phase fractions, transformation temps | Austenitizing conditions + cooling rates | KTH / literature | ⏳ Not released — contact Hedström group (pheds@kth.se) |
+| All-in-One Steel Data v1.0 — CCT/TTT | 9,843 diagrams | Transformation temps (Ac1, Ac3, Ms, Bs), phase fractions | Austenitizing temp, grain size, cooling rates | steeldata.info | ⏳ $800 single-user license; free 200-diagram demo at steeldata.info |
+| All-in-One Steel Data v1.0 — Tempering | 2,877 diagrams | Hardness vs. temper temperature curves | Temper temperature | steeldata.info | ⏳ Same license |
+| All-in-One Steel Data v1.0 — Hardenability | 2,026 diagrams | Jominy hardness profiles | Austenitizing conditions | steeldata.info | ⏳ Same license |
 
 ---
 
@@ -182,7 +215,7 @@ Forward property prediction for steels from composition and processing parameter
 
 1. arXiv:2003.01943 — baseline, establishes what the NIMS data can do with simple models
 2. Nature Sci. Rep. 2021 (TMCP) — closest prior work, understand its scope and limitations
-3. Acta Materialia 2024 (SteelBERT) — closest to our LLM approach, read critically
+3. Acta Materialia 2025 (SteelBERT) — closest to our LLM approach, read critically
 4. arXiv:2512.03050 (CCT ML) — directly applicable to Phase 4, contact authors for data
 5. MRS Bulletin 2025 (multi-agent GNN + LLM) — architecture reference
 6. arXiv:2604.11827 (generative AI review) — methodological context for Phase 3
@@ -191,10 +224,24 @@ Forward property prediction for steels from composition and processing parameter
 
 ## Action Items from Literature Search
 
+### Completed
+- [x] **Ingest NIMS fatigue DB** (Agrawal 2014 extract, Additional file 1) — 437 rows, `src_nims_fatigue`, parser at `data/parsers/nims_fatigue.py` *(done 2026-04-22)*
+- [x] **Scavenge SteelBERT training dataset** — rejected; generic material names, Fe stored as balance, processing unstructured. Not worth ingesting.
+- [x] **Rename PDF files** in `literature_review/` to reflect actual paper titles *(done 2026-04-22)*
+
+### Data Acquisition (Pending)
+- [ ] **Copy NIMS fatigue file to correct path:** `data/NIMS_fatigue/nims_fatigue_agrawal.xlsx` — file is `40192_2013_16_MOESM1_ESM.xlsx` from https://immi.springeropen.com/articles/10.1186/2193-9772-3-8 (Additional file 1)
 - [ ] **Download steeldata.info demo** (free, 200 CCT + 100 tempering diagrams) — inspect whether data fields are structured HTML or image-based before buying. URL: https://www.steeldata.info/all_in_one/html/demo.html
-- [ ] **If structured HTML: buy $800 license** — 9,843 CCT diagrams + 2,877 tempering diagrams would replace the CALPHAD pipeline for Phase 4 entirely
-- [ ] **If image-based: email Hedström group (KTH)** for their extracted dataset — arXiv:2512.03050 corresponding author. They likely digitized steeldata.info already.
-- [ ] Email NIMS research data provision request — dice-ml@nims.go.jp
-- [ ] Read TMCP paper (Sci. Rep. 2021) in full — understand their inverse design implementation before Phase 3
-- [ ] Read SteelBERT (Acta Mat. 2024) in full — understand their fabrication sequence method
+  - If structured HTML: buy $800 license — 9,843 CCT + 2,877 tempering diagrams would replace CALPHAD for Phase 4 entirely
+  - If image-based: email Hedström group (KTH) at pheds@kth.se — they likely digitized steeldata.info already (arXiv:2512.03050)
+- [ ] **Download Knovel ASM Vol.4 tables** (CMU institutional license — priority order):
+  1. "Typical Hardnesses of Various Carbon and Alloy Steels after Tempering" → fills `hardness_HRC` gap (Critical)
+  2. "Hardening and Tempering of Tool Steels" → fills tool steel HRC + processing gap (Critical)
+  3. "Typical Mechanical Properties of Standard 18 Nickel Maraging Steels in Age-Hardened Condition" → fills maraging processing gap (Medium)
+  4. "Typical Mechanical Properties of Normalized Alloy Steel Sheet" — more normalized data
+  5. "Typical Mechanical Properties of 300M / H11 Mod / H13 / D-6A" — fracture toughness + KIC
+
+### Reading (Pending)
+- [ ] Read TMCP paper (Sci. Rep. 2021) in full — understand their GA-based inverse design implementation before Phase 3
+- [ ] Read SteelBERT (Acta Mat. 2025) in full — understand their fabrication sequence method
 - [ ] Cite arXiv:2003.01943 as the forward model baseline to beat in Phase 2 evaluation

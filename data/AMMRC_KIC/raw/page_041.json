@@ -1,0 +1,192 @@
+{
+  "page_type": "data",
+  "table_number": 22,
+  "sheet": 1,
+  "sheet_of": 2,
+  "steel_grade": "AM355",
+  "steel_category": "Stainless Steel",
+  "data_rows": [
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 228,
+      "yield_MPa": 1227,
+      "kic_MPa_sqrt_m": 88,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1241,
+      "kic_MPa_sqrt_m": 59,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 0.625 in (15.9 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1386,
+      "kic_MPa_sqrt_m": 81,
+      "specimen_type": "Bend",
+      "reference": 50
+    },
+    {
+      "form": "Forging: 9x9 in (230 x 230 mm)",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1151,
+      "kic_MPa_sqrt_m": 69,
+      "specimen_type": "CC",
+      "reference": null
+    },
+    {
+      "form": "Forging: 9x9 in (230 x 230 mm)",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 193,
+      "yield_MPa": 1400,
+      "kic_MPa_sqrt_m": 70,
+      "specimen_type": "CC",
+      "reference": null
+    },
+    {
+      "form": "Bar: 3 in (76.2 mm) Dia Air Melted",
+      "comp_code": "C",
+      "ht_code": "4",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1531,
+      "kic_MPa_sqrt_m": 81,
+      "specimen_type": "Bend",
+      "reference": 90
+    },
+    {
+      "form": "Bar: 3 in (76.2 mm) Dia Air Melted",
+      "comp_code": "C",
+      "ht_code": "4",
+      "test_orientation": "R-L",
+      "temp_K": 294,
+      "yield_MPa": 1448,
+      "kic_MPa_sqrt_m": 76,
+      "specimen_type": "Bend",
+      "reference": 90
+    },
+    {
+      "form": "Bar: 3 in (76.2 mm) Dia Air Melted",
+      "comp_code": "C",
+      "ht_code": "5",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1910,
+      "kic_MPa_sqrt_m": 117,
+      "specimen_type": "Bend",
+      "reference": 90
+    },
+    {
+      "form": "Plate: 0.56 in (14.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "6",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1379,
+      "kic_MPa_sqrt_m": 121,
+      "specimen_type": "Bend",
+      "reference": 77
+    },
+    {
+      "form": "Plate: 0.55 in (14 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "7",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 1420,
+      "kic_MPa_sqrt_m": 99,
+      "specimen_type": "Bend",
+      "reference": 114
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.113,
+      "Mn": 1.08,
+      "Si": 0.32,
+      "P": 0.012,
+      "S": 0.006,
+      "Ni": 4.06,
+      "Cr": 15.08,
+      "Mo": 2.82,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.12,
+      "Mn": 1.21,
+      "Si": 0.44,
+      "P": 0.015,
+      "S": 0.009,
+      "Ni": 4.49,
+      "Cr": 15.02,
+      "Mo": 2.76,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.16,
+      "Mn": 0.18,
+      "Si": 0.13,
+      "P": 0.015,
+      "S": 0.021,
+      "Ni": 0.21,
+      "Cr": 14.0,
+      "Mo": 5.02,
+      "V": 0.23,
+      "Co": 13.41,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "D": {
+      "C": 0.07,
+      "Mn": 0.34,
+      "Si": 0.3,
+      "P": 0.015,
+      "S": 0.012,
+      "Ni": 1.94,
+      "Cr": 15.4,
+      "Mo": 4.3,
+      "V": null,
+      "Co": 13.0,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1710F (1206K), Water Quench; -100F (200K), 3 Hr; Age 1000F (811K), 3 Hr",
+    "2": "1710F (1206K), 10 min; Temper 925F (770K), 3 Hr",
+    "3": "1925F (1325K), 0.5 Hr; Oil Quench; -100F (200K), 3 Hr; Temper 850F (728K), 2 Hr; Oil Quench; -100F (200K), 3 Hr, 850F (728K), 1 Hr, Air Cool",
+    "4": "1900F (1311K), 1 Hr, Oil Quench, -100F (200K), 0.5 Hr; Temper 800F (700K), 2 Hr + 2 Hr, Air Cool"
+  }
+}

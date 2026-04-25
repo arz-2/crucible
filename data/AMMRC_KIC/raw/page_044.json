@@ -1,0 +1,53 @@
+{
+  "page_type": "data",
+  "table_number": 24,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "AISI 1045",
+  "steel_category": "Steel, Low Strength",
+  "data_rows": [
+    {
+      "form": "Plate: 4 in (101.6 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 269,
+      "yield_MPa": 269,
+      "kic_MPa_sqrt_m": 50,
+      "specimen_type": "WOL",
+      "reference": 45
+    },
+    {
+      "form": "Plate: 4 in (101.6 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 256,
+      "yield_MPa": 276,
+      "kic_MPa_sqrt_m": 50,
+      "specimen_type": "WOL",
+      "reference": 45
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.52,
+      "Mn": 0.83,
+      "Si": 0.25,
+      "P": 0.006,
+      "S": 0.028,
+      "Ni": 0.12,
+      "Cr": 0.1,
+      "Mo": 0.03,
+      "V": 0.01,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": 0.01,
+      "Cu": 0.29
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "Normalized; Heated to 1700F (1200K), Air Cooled"
+  }
+}

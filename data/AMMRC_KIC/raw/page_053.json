@@ -1,0 +1,222 @@
+{
+  "page_type": "data",
+  "table_number": 32,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ASTM A471 and Ni-Cr-Mo-V",
+  "steel_category": "Steel, Intermediate Strength",
+  "data_rows": [
+    {
+      "form": "Forging: 60 in (1524 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 256,
+      "yield_MPa": 793,
+      "kic_MPa_sqrt_m": 170,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 60 in (1524 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 200,
+      "yield_MPa": 862,
+      "kic_MPa_sqrt_m": 110,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 60 in (1524 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 144,
+      "yield_MPa": 965,
+      "kic_MPa_sqrt_m": 66,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 60 in (1524 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 78,
+      "yield_MPa": 1241,
+      "kic_MPa_sqrt_m": 38,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 367,
+      "yield_MPa": 965,
+      "kic_MPa_sqrt_m": 164,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1069,
+      "kic_MPa_sqrt_m": 99,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 256,
+      "yield_MPa": 1138,
+      "kic_MPa_sqrt_m": 71,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 200,
+      "yield_MPa": 1172,
+      "kic_MPa_sqrt_m": 64,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 144,
+      "yield_MPa": 1241,
+      "kic_MPa_sqrt_m": 47,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 65 in (1651 mm) x 27 in Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 78,
+      "yield_MPa": 1413,
+      "kic_MPa_sqrt_m": 25,
+      "specimen_type": "CT",
+      "reference": 108
+    },
+    {
+      "form": "Ni-Cr-Mo-V Disc forging",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 752,
+      "kic_MPa_sqrt_m": 99,
+      "specimen_type": "Bend",
+      "reference": 109
+    },
+    {
+      "form": "Ni-Cr-Mo-V Disc forging",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "L-R",
+      "temp_K": 198,
+      "yield_MPa": 807,
+      "kic_MPa_sqrt_m": 64,
+      "specimen_type": "Bend",
+      "reference": 109
+    },
+    {
+      "form": "Ni-Cr-Mo-V Disc forging",
+      "comp_code": "D",
+      "ht_code": null,
+      "test_orientation": "L-R",
+      "temp_K": 213,
+      "yield_MPa": 807,
+      "kic_MPa_sqrt_m": 91,
+      "specimen_type": "Bend",
+      "reference": 109
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.21,
+      "Mn": 0.28,
+      "Si": 0.04,
+      "P": 0.005,
+      "S": 0.012,
+      "Ni": 3.51,
+      "Cr": 1.64,
+      "Mo": 0.39,
+      "V": 0.21,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.27,
+      "Mn": 0.33,
+      "Si": 0.04,
+      "P": 0.009,
+      "S": 0.009,
+      "Ni": 3.48,
+      "Cr": 1.47,
+      "Mo": 0.4,
+      "V": 0.13,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.28,
+      "Mn": null,
+      "Si": null,
+      "P": null,
+      "S": null,
+      "Ni": 2.4,
+      "Cr": 0.8,
+      "Mo": 0.5,
+      "V": 0.1,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "D": {
+      "C": 0.35,
+      "Mn": null,
+      "Si": null,
+      "P": null,
+      "S": null,
+      "Ni": 3.3,
+      "Cr": 1.6,
+      "Mo": 0.6,
+      "V": 0.15,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1550F (1117K), 1090F (862K), 40 Hr."
+  }
+}

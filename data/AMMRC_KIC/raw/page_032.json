@@ -1,0 +1,210 @@
+{
+  "page_type": "data",
+  "table_number": 15,
+  "sheet": 1,
+  "sheet_of": 3,
+  "steel_grade": "18 Ni Maraging (250 Grade)",
+  "steel_category": "Steel, Maraging",
+  "data_rows": [
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1786,
+      "kic_MPa_sqrt_m": 74,
+      "specimen_type": "Bend",
+      "reference": 14
+    },
+    {
+      "form": "Rolled to 2 in (50.8 mm) thickness from Press Forged Slab",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1565,
+      "kic_MPa_sqrt_m": 105,
+      "specimen_type": "Bend",
+      "reference": 15
+    },
+    {
+      "form": "Rolled to 2 in (50.8 mm) thickness from Press Forged Slab",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": null,
+      "yield_MPa": 1600,
+      "kic_MPa_sqrt_m": 93,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Rolled to 2 in (50.8 mm) thickness from Press Forged Slab",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": null,
+      "yield_MPa": 1786,
+      "kic_MPa_sqrt_m": 92,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Rolled to 2 in (50.8 mm) thickness from Press Forged Slab",
+      "comp_code": "B",
+      "ht_code": "4",
+      "test_orientation": "L-T",
+      "temp_K": null,
+      "yield_MPa": 1786,
+      "kic_MPa_sqrt_m": 87,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "5",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1675,
+      "kic_MPa_sqrt_m": 108,
+      "specimen_type": "Bend 4 pt",
+      "reference": 3
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "5",
+      "test_orientation": "T-L",
+      "temp_K": 219,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 98,
+      "specimen_type": "Bend 4 pt",
+      "reference": null
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1696,
+      "kic_MPa_sqrt_m": 114,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 255,
+      "yield_MPa": 1724,
+      "kic_MPa_sqrt_m": 78,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 200,
+      "yield_MPa": 2068,
+      "kic_MPa_sqrt_m": 82,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 144,
+      "yield_MPa": 1834,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 75,
+      "yield_MPa": 1586,
+      "kic_MPa_sqrt_m": 44,
+      "specimen_type": "Bend",
+      "reference": null
+    },
+    {
+      "form": "Forging: 4.5 x 4.5 in (114.3 x 114.3 mm) Vacuum Arc Remelt",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "L-T",
+      "temp_K": 194,
+      "yield_MPa": 1882,
+      "kic_MPa_sqrt_m": 94,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging: 4.5 x 4.5 in (114.3 x 114.3 mm) Vacuum Arc Remelt",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "T-L",
+      "temp_K": 194,
+      "yield_MPa": 1875,
+      "kic_MPa_sqrt_m": 87,
+      "specimen_type": "SEN",
+      "reference": null
+    },
+    {
+      "form": "Forging: 13 x 13 in (330.2 x 330.2 mm) Vacuum Arc Remelted",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "L-S",
+      "temp_K": 194,
+      "yield_MPa": 1786,
+      "kic_MPa_sqrt_m": 89,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging: 13 x 13 in (330.2 x 330.2 mm) Vacuum Arc Remelted",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "T-L",
+      "temp_K": null,
+      "yield_MPa": 1793,
+      "kic_MPa_sqrt_m": 87,
+      "specimen_type": "SEN",
+      "reference": null
+    },
+    {
+      "form": "Forging: 13 x 13 in (330.2 x 330.2 mm) Vacuum Arc Remelted",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "S-T",
+      "temp_K": 194,
+      "yield_MPa": 1806,
+      "kic_MPa_sqrt_m": 89,
+      "specimen_type": "SEN",
+      "reference": null
+    },
+    {
+      "form": "Forging: 13 x 13 in (330.2 x 330.2 mm) Vacuum Arc Remelted",
+      "comp_code": "E",
+      "ht_code": "7",
+      "test_orientation": "ST4-ST4",
+      "temp_K": 194,
+      "yield_MPa": 1806,
+      "kic_MPa_sqrt_m": 78,
+      "specimen_type": "SEN",
+      "reference": null
+    }
+  ],
+  "composition_legend": {},
+  "heat_treatment_legend": {}
+}

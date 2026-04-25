@@ -1,0 +1,179 @@
+{
+  "page_type": "data",
+  "table_number": 2,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "35NCD16",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1317,
+      "kic_MPa_sqrt_m": 79,
+      "specimen_type": null,
+      "reference": 67
+    },
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "A",
+      "ht_code": "2",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1393,
+      "kic_MPa_sqrt_m": 79,
+      "specimen_type": null,
+      "reference": 67
+    },
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "A",
+      "ht_code": "3",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1455,
+      "kic_MPa_sqrt_m": 74,
+      "specimen_type": null,
+      "reference": 67
+    },
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "T-S",
+      "temp_K": 294,
+      "yield_MPa": 1434,
+      "kic_MPa_sqrt_m": 81,
+      "specimen_type": "Bend",
+      "reference": 60
+    },
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "T-S",
+      "temp_K": 294,
+      "yield_MPa": 1489,
+      "kic_MPa_sqrt_m": 79,
+      "specimen_type": "Bend",
+      "reference": 60
+    },
+    {
+      "form": "Bar, Vac. Arc. Remelt",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "T-S",
+      "temp_K": 294,
+      "yield_MPa": 1531,
+      "kic_MPa_sqrt_m": 78,
+      "specimen_type": "Bend",
+      "reference": 60
+    },
+    {
+      "form": "Bar 0.56 in (14.2 mm) sq.",
+      "comp_code": "B",
+      "ht_code": "4",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1503,
+      "kic_MPa_sqrt_m": 66,
+      "specimen_type": "Bend",
+      "reference": 5
+    },
+    {
+      "form": "Bar 0.56 in (14.2 mm) sq.",
+      "comp_code": "B",
+      "ht_code": "5",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1648,
+      "kic_MPa_sqrt_m": 65,
+      "specimen_type": "Bend",
+      "reference": 5
+    },
+    {
+      "form": "Bar 0.56 in (14.2 mm) sq.",
+      "comp_code": null,
+      "ht_code": "6",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1793,
+      "kic_MPa_sqrt_m": 61,
+      "specimen_type": "Bend",
+      "reference": 5
+    },
+    {
+      "form": "Bar 0.56 in (14.2 mm) sq.",
+      "comp_code": "B",
+      "ht_code": "7",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 2186,
+      "kic_MPa_sqrt_m": 48,
+      "specimen_type": "Bend",
+      "reference": 5
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.35,
+      "Mn": 0.33,
+      "Si": 0.27,
+      "P": 0.009,
+      "S": 0.009,
+      "Ni": 3.99,
+      "Cr": 1.69,
+      "Mo": 0.44,
+      "V": 0.05,
+      "Co": null,
+      "W": null,
+      "Al": 0.026,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.37,
+      "Mn": 0.54,
+      "Si": 0.26,
+      "P": 0.015,
+      "S": 0.013,
+      "Ni": 0.13,
+      "Cr": 2.98,
+      "Mo": 0.9,
+      "V": 0.23,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.35,
+      "Mn": 0.35,
+      "Si": 0.4,
+      "P": 0.03,
+      "S": 0.03,
+      "Ni": 4.0,
+      "Cr": 1.75,
+      "Mo": 0.45,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1705F (1203K), Air Cool; 1606F (1148K), Air Cool; -95F (203K); Temper 751F (673K), 2 Hr",
+    "2": "1705F (1203K), Air Cool; 1606F (1148K), Air Cool; -95F (203K); Temper 661F (623K), 2 Hr",
+    "3": "1705F (1203K), Air Cool; 1606F (1148K), Air Cool; -95F (203K); Temper 42\u00b0F (493K), 2 Hr",
+    "4": "1650F (1172K), Oil Quench; Temper 571F (573K), 1 Hr",
+    "5": "Heated at 54F (30K)/sec to Ac3 Temp, Immediate Quench to 70F (294K), Temper 571F (570K), 1 Hr",
+    "6": "1796F (1253K), 1 Hr, Quench in Lead Bath 1021F (823K); Ausformed 70% Reduction, Air Cooled; Temper 391F (473K), 1 Hr",
+    "7": "1796F (1253K), 1 Hr, Quench in Lead Bath 1021F (823K); Ausformed 70% Reduction, Air Cooled; Temper 571F (573K), 1 Hr"
+  }
+}

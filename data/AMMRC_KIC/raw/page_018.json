@@ -1,0 +1,153 @@
+{
+  "page_type": "data",
+  "table_number": 4,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "AISI 4140",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [
+    {
+      "form": "Bar: 1 in (25.4 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 367,
+      "yield_MPa": 1193,
+      "kic_MPa_sqrt_m": 72,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Bar: 1 in (25.4 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 1310,
+      "kic_MPa_sqrt_m": 79,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Bar: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 297,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 77,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Bar: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 228,
+      "yield_MPa": 1379,
+      "kic_MPa_sqrt_m": 72,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Bar: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1413,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": 7
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "2",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1220,
+      "kic_MPa_sqrt_m": 99,
+      "specimen_type": "SEN",
+      "reference": 21
+    },
+    {
+      "form": "Plate: 4 in (101.6 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 297,
+      "yield_MPa": 455,
+      "kic_MPa_sqrt_m": 60,
+      "specimen_type": "WOL",
+      "reference": 45
+    },
+    {
+      "form": "Plate: 4 in (101.6 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 226,
+      "yield_MPa": 565,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "WOL",
+      "reference": 45
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.37,
+      "Mn": 0.75,
+      "P": 0.01,
+      "S": 0.019,
+      "Si": 0.26,
+      "Cr": 0.85,
+      "Mo": 0.15,
+      "Ni": null,
+      "V": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.38,
+      "Mn": 0.81,
+      "P": 0.008,
+      "S": 0.025,
+      "Si": 0.27,
+      "Cr": 0.91,
+      "Mo": 0.17,
+      "Ni": null,
+      "V": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.43,
+      "Mn": 0.98,
+      "P": 0.013,
+      "S": 0.03,
+      "Si": 0.19,
+      "Cr": 1.04,
+      "Mo": 0.21,
+      "Ni": 0.01,
+      "V": 0.08,
+      "Cu": null
+    },
+    "D": {
+      "C": 0.42,
+      "Mn": 0.78,
+      "P": 0.007,
+      "S": 0.023,
+      "Si": 0.23,
+      "Cr": 0.89,
+      "Mo": 0.21,
+      "Ni": 0.22,
+      "V": 0.01,
+      "Cu": 0.25
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "Austenitize 1550F (1117K) in Salt, Oil Quench, Temper 800F (700K), 2 Hr",
+    "2": "Austenitize 1550F (1117K), 1 Hr, Oil Quench, Temper 900F (756K), 2 Hr + 2 Hr, Air Cool",
+    "3": "Austenitize 1550F (1117K), 6 Hr, Oil Quench; Temper 1200F (922K), 6 Hr, Furnace Cool"
+  }
+}

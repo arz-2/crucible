@@ -1,0 +1,17 @@
+{
+  "page_type": "data",
+  "table_number": 7,
+  "sheet": 2,
+  "sheet_of": 2,
+  "steel_grade": "D6AC",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [],
+  "composition_legend": {},
+  "heat_treatment_legend": {
+    "1": "1650F (1172K); 1550F (1117K), Oil Quenched 150F (339K); Temper 1 Hr + 1 Hr, 500F (533K)",
+    "2": "1550F (1117K) in Salt, 20 min, Oil Quench, Temper 1 Hr + 1 Hr, 500F (533K)",
+    "3": "1700F (1200K); Quench in Furnace to 975 \u00b1 25F (797 \u00b1 14K) at 6F (3.3K) per minute from 1350 to 1150F (1006 to 894K), Oil Quench 140F (334K); Temper 1000-1025F (811-823K), 1 Hr + 1 Hr",
+    "4": "1705F (1203K), Air Cool; 1615F (1153K), Oil Quench at 363F (457K), 1 Hr; Temper 841F (723K), 2 Hr",
+    "5": "1705 (1203K), Air Cool; 1615 F (1153K), Oil Quench at 363F (457K), 1 Hr; Temper 1021F (823K), 2 Hr"
+  }
+}

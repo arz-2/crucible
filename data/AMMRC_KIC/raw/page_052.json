@@ -1,0 +1,151 @@
+{
+  "page_type": "data",
+  "table_number": 31,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ASTM A470 and Cr-Mo-V",
+  "steel_category": "Steel, Intermediate Strength",
+  "data_rows": [
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 339,
+      "yield_MPa": 607,
+      "kic_MPa_sqrt_m": 92,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 297,
+      "yield_MPa": 641,
+      "kic_MPa_sqrt_m": 55,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 256,
+      "yield_MPa": 655,
+      "kic_MPa_sqrt_m": null,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 200,
+      "yield_MPa": 724,
+      "kic_MPa_sqrt_m": 33,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 144,
+      "yield_MPa": 827,
+      "kic_MPa_sqrt_m": 27,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Forging: 15 in (381 mm) Dia.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-R",
+      "temp_K": 78,
+      "yield_MPa": 1103,
+      "kic_MPa_sqrt_m": 25,
+      "specimen_type": "WOL",
+      "reference": 108
+    },
+    {
+      "form": "Rotor Forging",
+      "comp_code": "B",
+      "ht_code": null,
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 573,
+      "kic_MPa_sqrt_m": 76,
+      "specimen_type": "Bend",
+      "reference": 109
+    },
+    {
+      "form": "Rotor Forging",
+      "comp_code": "C",
+      "ht_code": null,
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 552,
+      "kic_MPa_sqrt_m": 71,
+      "specimen_type": "Bend",
+      "reference": 109
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.31,
+      "Mn": 0.78,
+      "Si": 0.28,
+      "P": 0.009,
+      "S": 0.01,
+      "Ni": 0.07,
+      "Cr": 1.1,
+      "Mo": 1.15,
+      "V": 0.26,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.3,
+      "Mn": null,
+      "Si": null,
+      "P": null,
+      "S": null,
+      "Ni": 0.7,
+      "Cr": 1.0,
+      "Mo": 0.7,
+      "V": 0.32,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.3,
+      "Mn": null,
+      "Si": null,
+      "P": null,
+      "S": null,
+      "Ni": 0.6,
+      "Cr": 1.2,
+      "Mo": 1.1,
+      "V": 0.37,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1775F (1242K), 1240F (944K), 40 Hr."
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "page_type": "data",
+  "table_number": 8,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "EN24",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [
+    {
+      "form": "Ingot: 5 in (127 mm) Sq.",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-ST",
+      "temp_K": 294,
+      "yield_MPa": 1590,
+      "kic_MPa_sqrt_m": 70,
+      "specimen_type": "Bend",
+      "reference": 91
+    },
+    {
+      "form": "Ingot: 5 in (127 mm) Sq.",
+      "comp_code": "A",
+      "ht_code": "2",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1520,
+      "kic_MPa_sqrt_m": 41,
+      "specimen_type": "Bend",
+      "reference": 91
+    },
+    {
+      "form": "Ingot: 5 in (127 mm) Sq.",
+      "comp_code": "A",
+      "ht_code": "3",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1420,
+      "kic_MPa_sqrt_m": 83,
+      "specimen_type": "Bend",
+      "reference": 91
+    },
+    {
+      "form": "Ingot: 5 in (127 mm) Sq.",
+      "comp_code": "A",
+      "ht_code": "4",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1420,
+      "kic_MPa_sqrt_m": 45,
+      "specimen_type": "Bend",
+      "reference": 91
+    },
+    {
+      "form": "Ingot: 5 in (127 mm) Sq.",
+      "comp_code": "A",
+      "ht_code": "5",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1285,
+      "kic_MPa_sqrt_m": 78,
+      "specimen_type": "Bend",
+      "reference": 91
+    },
+    {
+      "form": "Bar 1.0 x 0.312 in (25.4 x 7.9 mm)",
+      "comp_code": "B",
+      "ht_code": "6",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1837,
+      "kic_MPa_sqrt_m": 48,
+      "specimen_type": "Bend",
+      "reference": 47
+    },
+    {
+      "form": "Bar 1.0 x 0.312 in (25.4 x 7.9 mm)",
+      "comp_code": "B",
+      "ht_code": "7",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1753,
+      "kic_MPa_sqrt_m": 53,
+      "specimen_type": null,
+      "reference": 47
+    },
+    {
+      "form": "Bar 1.0 x 0.312 in (25.4 x 7.9 mm)",
+      "comp_code": "B",
+      "ht_code": "8",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1683,
+      "kic_MPa_sqrt_m": 56,
+      "specimen_type": null,
+      "reference": 47
+    },
+    {
+      "form": "Bar 1.0 x 0.312 in (25.4 x 7.9 mm)",
+      "comp_code": "B",
+      "ht_code": "9",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1725,
+      "kic_MPa_sqrt_m": 73,
+      "specimen_type": null,
+      "reference": 47
+    },
+    {
+      "form": "Bar 1.0 x 0.312 in (25.4 x 7.9 mm)",
+      "comp_code": "C",
+      "ht_code": "10",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1648,
+      "kic_MPa_sqrt_m": 69,
+      "specimen_type": null,
+      "reference": 47
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.39,
+      "Mn": 0.57,
+      "Si": 0.28,
+      "P": 0.021,
+      "S": null,
+      "Ni": 1.76,
+      "Cr": 1.1,
+      "Mo": 0.24,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.02,
+      "Ti": null,
+      "Cu": 0.16
+    },
+    "B": {
+      "C": 0.45,
+      "Mn": 0.44,
+      "Si": 0.79,
+      "P": 0.005,
+      "S": null,
+      "Ni": 1.72,
+      "Cr": 1.51,
+      "Mo": 0.88,
+      "V": 0.23,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.39,
+      "Mn": 1.15,
+      "Si": 1.45,
+      "P": 0.008,
+      "S": null,
+      "Ni": 1.8,
+      "Cr": 0.09,
+      "Mo": 0.3,
+      "V": 0.24,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1545F (1113K), Hold 40 Sec, Oil Quench, 7 cycles; 1590F (1133K), Hold 1 min, Oil Quench, 2 cycles; 1561F (1123K), 1 Hr, Oil Quench; 181F (523K), 1 Hr",
+    "2": "1561F (1123K), Hold 1 min, Oil Quench, 1 cycles; 661F (623K), 4 Hr",
+    "3": "1561F (1123K), 1 Hr, Oil Quench; 661F (623K), 1 Hr",
+    "4": "1561F (1123K), 1 Hr, Oil Quench; 841F (723K), 1 Hr",
+    "5": "1690F (1193K), Oil Quench; refrigerated at -95F (203K); Tempered 481F (523K)",
+    "6": "1690F (1193K), Oil Quench; refrigerated at -95F (203K); Tempered 571F (573K)",
+    "7": "1690F (1193K), Oil Quench; refrigerated at -95F (203K); Tempered 661F (623K)",
+    "8": "1561F (1123K), Oil Quenched; Temper 706F (648K)",
+    "9": "1561F (1123K), Oil Quenched; Temper 481F (523K)"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "page_type": "data",
+  "table_number": 27,
+  "sheet": 2,
+  "sheet_of": 2,
+  "steel_grade": "ASTM A533",
+  "steel_category": "Steel, Low Strength",
+  "data_rows": [],
+  "composition_legend": {
+    "A": {
+      "C": 0.24,
+      "Mn": 1.42,
+      "Si": 0.22,
+      "P": 0.01,
+      "S": 0.017,
+      "Ni": 0.7,
+      "Cr": null,
+      "Mo": 0.5,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.18,
+      "Mn": 1.25,
+      "Si": 0.24,
+      "P": 0.024,
+      "S": 0.025,
+      "Ni": 0.52,
+      "Cr": 0.13,
+      "Mo": 0.51,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.025,
+      "Ti": null,
+      "Cu": 0.29
+    },
+    "C": {
+      "C": 0.23,
+      "Mn": 1.35,
+      "Si": 0.26,
+      "P": 0.012,
+      "S": 0.025,
+      "Ni": 0.5,
+      "Cr": null,
+      "Mo": 0.48,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "Normalize 1675 \u00b125F (1186 \u00b114K); Austenitize 1600 \u00b150F (1144 \u00b128K), 4 Hr, Water Quench; Temper 1225 \u00b125F (936 \u00b114K), 4 Hr, Furnace Cool; Stress Relieve 1150 \u00b125F (894 \u00b114K), 40 Hr, Air Cool",
+    "2": "Austenitize 1650F (1172K), 1 Hr; Temper 1200F (922K), 8 Hr; Stress Relieve 1100F (894K), 24 Hr.",
+    "3": "Normalize 1675 \u00b125F (1186 \u00b114K); Austenitize 1600 \u00b150F (1144 \u00b128K), 4 Hr, Water Quench; Temper 1225 \u00b125F (936 \u00b114K), 4 Hr, Air Cool; Stress Relieve 1135 \u00b125F (886 \u00b114K), Hold 25 Hr, Furnace Cool to 600F (589K), Air Cool"
+  }
+}

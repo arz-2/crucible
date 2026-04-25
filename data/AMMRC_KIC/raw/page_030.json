@@ -1,0 +1,124 @@
+{
+  "page_type": "data",
+  "table_number": 13,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "Maraging 12 Nickel",
+  "steel_category": "Steel, Maraging",
+  "data_rows": [
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1179,
+      "kic_MPa_sqrt_m": 110,
+      "specimen_type": "SEN",
+      "reference": 21
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1276,
+      "kic_MPa_sqrt_m": 132,
+      "specimen_type": "SEN",
+      "reference": 21
+    },
+    {
+      "form": "Plate: 2 in (50.8 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1207,
+      "kic_MPa_sqrt_m": 138,
+      "specimen_type": "Bend 4 pt",
+      "reference": 85
+    },
+    {
+      "form": "Plate: 2 in (50.8 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "2",
+      "test_orientation": null,
+      "temp_K": 294,
+      "yield_MPa": 1282,
+      "kic_MPa_sqrt_m": 162,
+      "specimen_type": "Bend",
+      "reference": 85
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.033,
+      "Mn": 0.08,
+      "Si": 0.07,
+      "P": 0.007,
+      "S": 0.005,
+      "Ni": 12.5,
+      "Cr": 4.81,
+      "Mo": 3.55,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.16,
+      "Ti": 0.21,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.033,
+      "Mn": 0.08,
+      "Si": 0.07,
+      "P": 0.007,
+      "S": 0.005,
+      "Ni": 12.5,
+      "Cr": 4.71,
+      "Mo": 3.65,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.16,
+      "Ti": 0.21,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.23,
+      "Mn": 0.088,
+      "Si": 0.094,
+      "P": 0.004,
+      "S": 0.008,
+      "Ni": 12.1,
+      "Cr": 5.21,
+      "Mo": 2.86,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": 0.24,
+      "Cu": null
+    },
+    "D": {
+      "C": 0.24,
+      "Mn": 0.044,
+      "Si": 0.042,
+      "P": 0.007,
+      "S": 0.013,
+      "Ni": 11.72,
+      "Cr": 5.38,
+      "Mo": 3.18,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.47,
+      "Ti": 0.5,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1500F (1089K); Temper 900F (756K), 3 Hr",
+    "2": "1500F (1089K); Temper 900F (756K), 30 Hr"
+  }
+}

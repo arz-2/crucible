@@ -1,0 +1,164 @@
+{
+  "page_type": "data",
+  "table_number": 10,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "9Ni-4Co-.30C",
+  "steel_category": "Steel, Nickel",
+  "data_rows": [
+    {
+      "form": "Plate: 3 in (76.2 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 300,
+      "yield_MPa": 1482,
+      "kic_MPa_sqrt_m": 97,
+      "specimen_type": "CT",
+      "reference": 110
+    },
+    {
+      "form": "Forging: 4.5 x 4.5 in (114.3 x 114.3 mm)",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1535,
+      "kic_MPa_sqrt_m": 110,
+      "specimen_type": "DEC",
+      "reference": 16
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 1392,
+      "kic_MPa_sqrt_m": 69,
+      "specimen_type": "DEC",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 339,
+      "yield_MPa": 1368,
+      "kic_MPa_sqrt_m": 124,
+      "specimen_type": "WOL",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1220,
+      "kic_MPa_sqrt_m": 156,
+      "specimen_type": "WOL",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1220,
+      "kic_MPa_sqrt_m": 110,
+      "specimen_type": "WOL",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 255,
+      "yield_MPa": 1289,
+      "kic_MPa_sqrt_m": 114,
+      "specimen_type": "WOL",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 233,
+      "yield_MPa": 1296,
+      "kic_MPa_sqrt_m": 121,
+      "specimen_type": "WOL",
+      "reference": 11
+    },
+    {
+      "form": "Forging: 3 in (76.2 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 214,
+      "yield_MPa": 1296,
+      "kic_MPa_sqrt_m": 122,
+      "specimen_type": "WOL",
+      "reference": 11
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.21,
+      "Mn": 0.2,
+      "Si": 0.01,
+      "P": 0.009,
+      "S": 0.007,
+      "Ni": 8.9,
+      "Cr": 0.74,
+      "Mo": 0.92,
+      "V": 0.07,
+      "Co": 4.24,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.32,
+      "Mn": 0.26,
+      "Si": 0.01,
+      "P": 0.005,
+      "S": 0.007,
+      "Ni": 7.62,
+      "Cr": 1.03,
+      "Mo": 0.94,
+      "V": 0.08,
+      "Co": 4.25,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.26,
+      "Mn": 0.33,
+      "Si": 0.01,
+      "P": 0.008,
+      "S": 0.008,
+      "Ni": 8.41,
+      "Cr": 0.4,
+      "Mo": 0.48,
+      "V": 0.07,
+      "Co": 3.9,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1525F (1103K), Oil Quench; -100F (200K), 3 Hr; 1000F (811K), 5 Hr",
+    "2": "1125F (880F) 16 Hr, Air Cool; 1700F (1200K) 1 Hr, Air Cool; 1550F (1115K), 0.5 Hr, Salt Quench to 460F (512K); Hold 7 Hr; Temper 1000F (811K) 2 Hr, Air Cool",
+    "3": "1550F (1175K), 2 Hr; Double Temper, 2 Hr + 2 Hr, 1000F (811K)"
+  }
+}

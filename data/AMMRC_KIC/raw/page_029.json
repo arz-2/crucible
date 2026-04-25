@@ -1,0 +1,136 @@
+{
+  "page_type": "data",
+  "table_number": 12,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "10 Nickel",
+  "steel_category": "Steel",
+  "data_rows": [
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1772,
+      "kic_MPa_sqrt_m": 56,
+      "specimen_type": "Bend",
+      "reference": 80
+    },
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1765,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": 80
+    },
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1765,
+      "kic_MPa_sqrt_m": 96,
+      "specimen_type": "Bend",
+      "reference": 80
+    },
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "2",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1875,
+      "kic_MPa_sqrt_m": 80,
+      "specimen_type": "Bend",
+      "reference": 80
+    },
+    {
+      "form": "Plate: 0.5 in (12.7 mm) Thick",
+      "comp_code": "D",
+      "ht_code": "3",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1772,
+      "kic_MPa_sqrt_m": 85,
+      "specimen_type": "Bend",
+      "reference": 80
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.26,
+      "Mn": 0.15,
+      "Si": 0.12,
+      "P": 0.001,
+      "S": 0.003,
+      "Ni": 10.08,
+      "Cr": 2.0,
+      "Mo": 0.98,
+      "V": null,
+      "Co": 15.2,
+      "W": null,
+      "Al": 0.008,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.23,
+      "Mn": 0.13,
+      "Si": 0.13,
+      "P": 0.001,
+      "S": 0.002,
+      "Ni": 9.68,
+      "Cr": 1.94,
+      "Mo": 0.98,
+      "V": null,
+      "Co": 12.3,
+      "W": null,
+      "Al": 0.002,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.25,
+      "Mn": 0.14,
+      "Si": 0.11,
+      "P": 0.002,
+      "S": 0.003,
+      "Ni": 10.1,
+      "Cr": 1.99,
+      "Mo": 1.01,
+      "V": null,
+      "Co": 14.6,
+      "W": null,
+      "Al": 0.004,
+      "Ti": null,
+      "Cu": null
+    },
+    "D": {
+      "C": 0.25,
+      "Mn": 0.11,
+      "Si": 0.12,
+      "P": 0.001,
+      "S": 0.003,
+      "Ni": 10.0,
+      "Cr": 1.57,
+      "Mo": 0.79,
+      "V": null,
+      "Co": 12.6,
+      "W": null,
+      "Al": 0.004,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1650F (1172K), 1 Hr, Water Quenched; 1500F (1089K), 1 Hr., Water Quench; Temper 950F (783K), 1 Hr Water Quench",
+    "2": "Heat to 1050F (839K), Hold, Heat to 1550F (1117K), Hold, Water Quench, Repeat Cycle 4 Times, Temper 950F (783K), 5 Hr",
+    "3": "Heat to 1120F (879K), Hold 6 Sec, Heat to 1450F (1060K), Hold 8 Sec, Water Quench, Repeat Cycle 4 Times, Temper 400F (478K), 5 Hr"
+  }
+}

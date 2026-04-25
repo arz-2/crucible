@@ -1,0 +1,199 @@
+{
+  "page_type": "data",
+  "table_number": 6,
+  "sheet": 1,
+  "sheet_of": 2,
+  "steel_grade": "300M",
+  "steel_category": "Steel, Low Alloy",
+  "data_rows": [
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1703,
+      "kic_MPa_sqrt_m": 75,
+      "specimen_type": "Bend",
+      "reference": 19
+    },
+    {
+      "form": "Forging",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1675,
+      "kic_MPa_sqrt_m": 65,
+      "specimen_type": "Bend",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1655,
+      "kic_MPa_sqrt_m": 96,
+      "specimen_type": "CC",
+      "reference": 18
+    },
+    {
+      "form": "Forging",
+      "comp_code": "C",
+      "ht_code": "4",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1613,
+      "kic_MPa_sqrt_m": 81,
+      "specimen_type": "CC",
+      "reference": 18
+    },
+    {
+      "form": "Forging",
+      "comp_code": "C",
+      "ht_code": "5",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1413,
+      "kic_MPa_sqrt_m": 81,
+      "specimen_type": "CC",
+      "reference": 18
+    },
+    {
+      "form": "Forging",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1606,
+      "kic_MPa_sqrt_m": 87,
+      "specimen_type": "Bend",
+      "reference": 3
+    },
+    {
+      "form": "Forging",
+      "comp_code": "D",
+      "ht_code": "6",
+      "test_orientation": "T-L",
+      "temp_K": 219,
+      "yield_MPa": 1606,
+      "kic_MPa_sqrt_m": 58,
+      "specimen_type": "Bend",
+      "reference": 3
+    },
+    {
+      "form": "Forging",
+      "comp_code": "E",
+      "ht_code": "6",
+      "test_orientation": "T-L",
+      "temp_K": 294,
+      "yield_MPa": 1627,
+      "kic_MPa_sqrt_m": 74,
+      "specimen_type": "Bend",
+      "reference": 3
+    },
+    {
+      "form": "Forging",
+      "comp_code": "E",
+      "ht_code": "6",
+      "test_orientation": "T-L",
+      "temp_K": 219,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 49,
+      "specimen_type": "Bend",
+      "reference": 3
+    },
+    {
+      "form": "Billet",
+      "comp_code": "F",
+      "ht_code": "7",
+      "test_orientation": "L-TS",
+      "temp_K": 294,
+      "yield_MPa": 976,
+      "kic_MPa_sqrt_m": 122,
+      "specimen_type": "NR",
+      "reference": 37
+    },
+    {
+      "form": "Billet",
+      "comp_code": "F",
+      "ht_code": "8",
+      "test_orientation": "L-TS",
+      "temp_K": 294,
+      "yield_MPa": 1275,
+      "kic_MPa_sqrt_m": 122,
+      "specimen_type": "NR",
+      "reference": 37
+    },
+    {
+      "form": "Billet",
+      "comp_code": "F",
+      "ht_code": "9",
+      "test_orientation": "L-TS",
+      "temp_K": 294,
+      "yield_MPa": 1418,
+      "kic_MPa_sqrt_m": 86,
+      "specimen_type": "NR",
+      "reference": 37
+    },
+    {
+      "form": "Bar",
+      "comp_code": "F",
+      "ht_code": "10",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1643,
+      "kic_MPa_sqrt_m": 75,
+      "specimen_type": "NR",
+      "reference": 67
+    },
+    {
+      "form": "Forged Bar",
+      "comp_code": "G",
+      "ht_code": "11",
+      "test_orientation": "C-R",
+      "temp_K": 294,
+      "yield_MPa": 1755,
+      "kic_MPa_sqrt_m": 50,
+      "specimen_type": "NR",
+      "reference": 68
+    },
+    {
+      "form": "Billet",
+      "comp_code": "H",
+      "ht_code": "12",
+      "test_orientation": "L-T",
+      "temp_K": 296,
+      "yield_MPa": 1785,
+      "kic_MPa_sqrt_m": 57,
+      "specimen_type": "Bend",
+      "reference": 79
+    },
+    {
+      "form": "Billet",
+      "comp_code": "H",
+      "ht_code": "12",
+      "test_orientation": "T-L",
+      "temp_K": 296,
+      "yield_MPa": 1758,
+      "kic_MPa_sqrt_m": 62,
+      "specimen_type": "Bend",
+      "reference": 79
+    },
+    {
+      "form": "Billet",
+      "comp_code": "H",
+      "ht_code": "12",
+      "test_orientation": "T-L",
+      "temp_K": 296,
+      "yield_MPa": 1758,
+      "kic_MPa_sqrt_m": 64,
+      "specimen_type": "Bend",
+      "reference": 79
+    }
+  ],
+  "composition_legend": {},
+  "heat_treatment_legend": {}
+}

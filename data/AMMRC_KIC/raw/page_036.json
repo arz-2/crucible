@@ -1,0 +1,64 @@
+{
+  "page_type": "data",
+  "table_number": 17,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "18Ni Maraging 350 Grade",
+  "steel_category": "Steel, Maraging",
+  "data_rows": [
+    {
+      "form": "Billet: 4 in (102mm) Sq. Cons. Elec. Vac. Remelt",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "S-T",
+      "temp_K": 294,
+      "yield_MPa": 2330,
+      "kic_MPa_sqrt_m": 40,
+      "specimen_type": "Bend",
+      "reference": 17
+    },
+    {
+      "form": "Billet: 4 in (102mm) Sq. Cons. Elec. Vac. Remelt",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "S-L",
+      "temp_K": 294,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 40,
+      "specimen_type": "Bend",
+      "reference": 17
+    },
+    {
+      "form": "Billet: 4 in (102mm) Sq. Cons. Elec. Vac. Remelt",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-S",
+      "temp_K": 294,
+      "yield_MPa": 2302,
+      "kic_MPa_sqrt_m": 39,
+      "specimen_type": "Bend",
+      "reference": 17
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.005,
+      "Mn": 0.01,
+      "Si": 0.01,
+      "P": 0.002,
+      "S": 0.005,
+      "Ni": 18.61,
+      "Cr": null,
+      "Mo": 4.64,
+      "V": null,
+      "Co": 11.93,
+      "W": null,
+      "Al": 0.13,
+      "Ti": 1.36,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "Double Anneal, 1700F (1200K), 1 Hr; 1500F (1089K), 1 Hr; Aged 900F (750K), 8 Hr"
+  }
+}

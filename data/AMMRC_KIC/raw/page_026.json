@@ -1,0 +1,92 @@
+{
+  "page_type": "data",
+  "table_number": 9,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "9Ni-4Co-0.20C",
+  "steel_category": "Steel, Nickel",
+  "data_rows": [
+    {
+      "form": "Plate: 1.5 in (38.1 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-L",
+      "temp_K": 200,
+      "yield_MPa": 1365,
+      "kic_MPa_sqrt_m": 145,
+      "specimen_type": "Bend",
+      "reference": 4
+    },
+    {
+      "form": "Plate: 1.5 in (38.1 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-L",
+      "temp_K": 78,
+      "yield_MPa": 1655,
+      "kic_MPa_sqrt_m": 54,
+      "specimen_type": "Bend",
+      "reference": 4
+    },
+    {
+      "form": "Plate: 2.5 in (63.5 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 296,
+      "yield_MPa": 1310,
+      "kic_MPa_sqrt_m": 156,
+      "specimen_type": "CT",
+      "reference": 110
+    },
+    {
+      "form": "Plate: 4 in (101.6 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "S-L",
+      "temp_K": 302,
+      "yield_MPa": 1283,
+      "kic_MPa_sqrt_m": 136,
+      "specimen_type": "CT",
+      "reference": 110
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.21,
+      "Mn": 0.2,
+      "Si": 8.9,
+      "P": 0.007,
+      "S": 0.009,
+      "Ni": null,
+      "Cr": 0.74,
+      "Mo": 0.92,
+      "V": 0.07,
+      "Co": 4.24,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": 0.01
+    },
+    "B": {
+      "C": 0.19,
+      "Mn": 0.29,
+      "Si": 9.4,
+      "P": 0.005,
+      "S": 0.005,
+      "Ni": null,
+      "Cr": 0.85,
+      "Mo": 0.9,
+      "V": 0.17,
+      "Co": 1.52,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": 0.05
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "Normalize 1650F (1172K), 1.5 Hr, Air Cool; Austenitize 1500F (1089K), 1.5 Hr Water Quench; Temper 1025F (825K), 6 Hr.",
+    "2": "1525F (1103K), 0.1 Quench; -100F (200K), 1 Hr; 1025F (825K), 6 Hr"
+  }
+}

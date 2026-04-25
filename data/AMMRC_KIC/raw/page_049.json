@@ -1,0 +1,169 @@
+{
+  "page_type": "data",
+  "table_number": 28,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ASTM A542",
+  "steel_category": "Steel, Low Strength",
+  "data_rows": [
+    {
+      "form": "Plate: 6 in (152 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 144,
+      "yield_MPa": 814,
+      "kic_MPa_sqrt_m": 45,
+      "specimen_type": "WOL",
+      "reference": 107
+    },
+    {
+      "form": "Plate: 6 in (152 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 112,
+      "yield_MPa": 910,
+      "kic_MPa_sqrt_m": 38,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 6 in (152 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 1083,
+      "kic_MPa_sqrt_m": 32,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 144,
+      "yield_MPa": 779,
+      "kic_MPa_sqrt_m": 76,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 112,
+      "yield_MPa": 883,
+      "kic_MPa_sqrt_m": 38,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 1076,
+      "kic_MPa_sqrt_m": 33,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 6 in (152 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 112,
+      "yield_MPa": 800,
+      "kic_MPa_sqrt_m": 44,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 6 in (152 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 972,
+      "kic_MPa_sqrt_m": 33,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 144,
+      "yield_MPa": 758,
+      "kic_MPa_sqrt_m": 82,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 112,
+      "yield_MPa": 821,
+      "kic_MPa_sqrt_m": 55,
+      "specimen_type": "WOL",
+      "reference": null
+    },
+    {
+      "form": "Plate: 12 in (305 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 965,
+      "kic_MPa_sqrt_m": 39,
+      "specimen_type": "WOL",
+      "reference": null
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.15,
+      "Mn": 0.46,
+      "Si": 0.3,
+      "P": 0.013,
+      "S": 0.027,
+      "Ni": 0.22,
+      "Cr": 2.34,
+      "Mo": 1.1,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.008,
+      "Ti": null,
+      "Cu": 0.22
+    },
+    "B": {
+      "C": 0.15,
+      "Mn": 0.32,
+      "Si": 0.28,
+      "P": 0.013,
+      "S": 0.02,
+      "Ni": 3.55,
+      "Cr": 1.85,
+      "Mo": 0.5,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": 0.06
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1750F (1228K), 1 Hr; 1200F (922K), 8 Hr; 1100F (867K), 24 Hr.",
+    "2": "1575F (1130K), 1 Hr; 1200F (922K), 8 Hr; 1100F (867K), 24 Hr."
+  }
+}

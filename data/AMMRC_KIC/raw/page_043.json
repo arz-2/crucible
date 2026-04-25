@@ -1,0 +1,186 @@
+{
+  "page_type": "data",
+  "table_number": 23,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ABS-C, ASTM A203 Grade A & B",
+  "steel_category": "Steel",
+  "data_rows": [
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth, Si-Al Killed",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 269,
+      "kic_MPa_sqrt_m": 47,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth, Si-Al Killed",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 138,
+      "yield_MPa": 414,
+      "kic_MPa_sqrt_m": 27,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth, Si-Al Killed",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 103,
+      "yield_MPa": 648,
+      "kic_MPa_sqrt_m": 27,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth, Si-Al Killed",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 77.2,
+      "yield_MPa": 800,
+      "kic_MPa_sqrt_m": 25,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "A203 Grade A Plate: 1.65 in (42 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 144,
+      "yield_MPa": 448,
+      "kic_MPa_sqrt_m": 56,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade A Plate: 1.65 in (42 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 117,
+      "yield_MPa": 531,
+      "kic_MPa_sqrt_m": 43,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade A Plate: 1.65 in (42 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 117,
+      "yield_MPa": 621,
+      "kic_MPa_sqrt_m": 62,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade A Plate: 1.65 in (42 mm) Thick",
+      "comp_code": "B",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 88,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 45,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade B Plate: 2 in (50.8 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 172,
+      "yield_MPa": 421,
+      "kic_MPa_sqrt_m": 42,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade B Plate: 2 in (50.8 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 144,
+      "yield_MPa": 483,
+      "kic_MPa_sqrt_m": 41,
+      "specimen_type": "CT",
+      "reference": 102
+    },
+    {
+      "form": "A203 Grade B Plate: 2 in (50.8 mm) Thick",
+      "comp_code": "C",
+      "ht_code": "3",
+      "test_orientation": "L-T",
+      "temp_K": 88,
+      "yield_MPa": null,
+      "kic_MPa_sqrt_m": 43,
+      "specimen_type": "CT",
+      "reference": 102
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.2,
+      "Mn": 0.6,
+      "Si": 0.023,
+      "P": 0.009,
+      "S": 0.016,
+      "Ni": 0.02,
+      "Cr": 0.07,
+      "Mo": 0.01,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.057,
+      "Ti": null,
+      "Cu": 0.03
+    },
+    "B": {
+      "C": 0.14,
+      "Mn": 0.51,
+      "Si": 0.18,
+      "P": 0.014,
+      "S": 0.022,
+      "Ni": 2.35,
+      "Cr": null,
+      "Mo": null,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.11,
+      "Mn": 0.45,
+      "Si": 0.23,
+      "P": 0.01,
+      "S": 0.023,
+      "Ni": 3.35,
+      "Cr": null,
+      "Mo": null,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1650F (1172K), 1 Hr, Air Cool",
+    "2": "Normalized",
+    "3": "1650F (1172K), 2 Hr, Water Spray Quenched; Tempered 1150F (894K), 2 Hr, Air Cool"
+  }
+}

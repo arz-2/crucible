@@ -6,23 +6,21 @@ Every data source in this project: what it contains, its quality, and its ingest
 
 ## Ingested Sources (in steels.db)
 
-| Source ID | Parser | Records | Reliability | Notes |
-|-----------|--------|---------|-------------|-------|
-| `src_steelbench_nims` | `steelbench.py` | 360 | 5 | NIMS lab measurements — UTS-only |
-| `src_steelbench_emk` | `steelbench.py` | 753 | 4 | EMK spec values — hardness is spec limits, not measurements |
-| `src_steelbench_kaggle` | `steelbench.py` | 247 | 2 | Unclear provenance — HB confirmed |
-| `src_asm_vol1` | `asm_vol1.py` + `asm_vol4.py` | 385 + ~70 new Vol.1 tables | 4 | ASM Vol.1 Knovel exports — 5 original tables + martensitic stainless + L/S tool steels |
-| `src_asm_vol4` | `asm_vol4.py` | 272 | 4 | ASM Vol.4 QT curves, wide HRC tempering table, maraging, tool steel HT, fracture toughness |
-| `src_mondal_appendix` | `mondal.py` | 272 | 4 | S.K. Mondal textbook appendix tables |
-| `src_cheng_2024` | `cheng2024.py` | 580 | 3 | Fe–C–Mn–Al advanced steels; processing-rich; no yield |
-| `src_figshare_steel` | `figshare_steel.py` | 312 | 3 | Figshare high-alloy dataset; no processing |
-| `src_zenodo_steel_grades` | `zenodo_steel_grades.py` | 432 | 3 | Jalalian 2025 Zenodo; carbon + stainless; full properties |
-| `src_azom_scraper` | `azom_scraper.py` | 8 | 3 | AZoM.com targeted scrape; tool steels + A36 + alloy |
-| `src_astm_hsla_specs` | `astm_hsla_specs.py` | 11 | 4 | ASTM min specs: A36, A572 Gr42–65, A514, A588, A709 |
-| `src_nims_fatigue` | `nims_fatigue.py` | 437 | 5 | NIMS fatigue DB — rotating bending fatigue at 10⁷ cycles; carbon + low-alloy |
+| Source ID | Parser | Steels | Prop rows | Reliability | Notes |
+|-----------|--------|--------|-----------|-------------|-------|
+| `src_steelbench_nims` | `steelbench.py` | 720 | 720 | 5 | NIMS lab measurements — UTS-only |
+| `src_steelbench_emk` | `steelbench.py` | 1,506 | 1,506 | 4 | EMK spec values — hardness is spec limits, not measurements |
+| `src_steelbench_kaggle` | `steelbench.py` | 494 | 494 | 2 | Unclear provenance — HB confirmed |
+| `src_asm_vol1` | `asm_vol1.py` + `asm_vol4.py` | 431 | 193 | 4 | ASM Vol.1 Knovel exports — 5 original tables + martensitic stainless + L/S tool steels |
+| `src_asm_vol4` | `asm_vol4.py` | 218 | 396 | 4 | ASM Vol.4 QT curves, wide HRC tempering table, maraging, tool steel HT, fracture toughness |
+| `src_mondal_appendix` | `mondal.py` | 272 | 78 | 4 | S.K. Mondal textbook appendix tables |
+| `src_cheng_2024` | `cheng2024.py` | 580 | 580 | 3 | Fe–C–Mn–Al advanced steels; processing-rich; no yield |
+| `src_figshare_steel` | `figshare_steel.py` | 312 | 312 | 3 | Figshare high-alloy dataset; no processing |
+| `src_zenodo_steel_grades` | `zenodo_steel_grades.py` | 432 | 432 | 3 | Jalalian 2025 Zenodo; carbon + stainless; full properties |
+| `src_nims_fatigue` | `nims_fatigue.py` | 155 | 437 | 5 | NIMS fatigue DB — rotating bending fatigue at 10⁷ cycles; carbon + low-alloy |
+| `src_ammrc_kic_1973` | `ammrc_kic.py` | 181 | 375 | 4 | AMMRC MS 73-6 fracture toughness handbook; VLM-extracted; 374 KIC rows |
 
-**Total as of 2026-04-22: ~4,014 property rows ingested, ~3,670 unique steels**
-**~300 additional rows pending parser work** (newly downloaded ASM Vol.4 tempering hardness + tool steel tables — see "Downloaded, Parser Not Yet Written" below)
+**Total as of 2026-04-25: 5,523 property rows, 5,301 unique steels**
 
 ---
 
@@ -133,25 +131,25 @@ Notes: Izod impact values stored in `charpy_J` with a note. Maraging `route_type
 
 ---
 
-### AZoM.com Targeted Scrape
-- **Location:** Fetched at runtime from azom.com (direct HTTP, no bot protection on article pages)
-- **Source:** https://www.azom.com
-- **Reliability:** 3
+### AMMRC MS 73-6 — Plane Strain Fracture Toughness (KIC) Data Handbook
+- **Location:** `literature_review/Plane Strain Fracture Toughness (K.) Data Handbook for Metals.pdf`
+- **Source:** Army Materials and Mechanics Research Center, AMMRC MS 73-6, 1973. Public domain.
+- **Reliability:** 4
+- **Parser:** `data/parsers/ammrc_kic.py`
 
-Targeted scrape of 9 grade pages to fill specific gaps. One condition per grade.
+The primary KIC source in the project. 33 tables (pages 16–54) covering structural and aerospace steels: 4330M, 4340, 300M, D6AC, H-11, maraging 200/250, 9Ni-4Co, 17-7 PH, PH 15-7 Mo, ASTM A533, and more.
 
-| Grade | ArticleID | Family | Key Data |
-|-------|-----------|--------|----------|
-| ASTM A36 | 6117 | HSLA | UTS=475 MPa, YS=250 MPa |
-| AISI 4130 | 6742 | low-alloy | UTS=560 MPa, YS=460 MPa, HB=217 |
-| AISI 4340 | 6772 | low-alloy | UTS=745 MPa, YS=470 MPa, HB=217 |
-| AISI 8620 | 6754 | low-alloy | UTS=530 MPa, YS=385 MPa, HB=149 |
-| AISI D2 | 6214 | tool | HRC=62 (hardened) |
-| AISI M2 | 6174 | tool | HRC=62 (hardened) |
-| AISI H13 | 9107 | tool | UTS=1395 MPa, YS=1190 MPa |
-| AISI O1 | 6229 | tool | HB=190 (annealed) |
+**Extraction method:** pdf2image (300 DPI PNG) → Claude Opus vision model → structured JSON cached to `data/AMMRC_KIC/raw/page_NNN.json` → `SteelIngestBundle` validation → ingest. Re-running from cache costs no API calls. Requires `ANTHROPIC_API_KEY` in `.env` only on the first run.
 
-To add more grades: find the AZoM ArticleID and add to `GRADE_ARTICLES` in `azom_scraper.py`.
+**Data structure:** Each table has a composition legend (codes A/B/C/D/…) and a heat treatment legend (codes 1/2/3/…). Data rows cross-reference both codes. The parser groups by (comp_code, ht_code) pairs and emits one bundle per pair.
+
+**Multi-sheet tables:** Tables spanning two PDF pages (common for 4340) are merged by `table_number`: `data_rows` concatenated, legend dicts unioned (second sheet wins for legend content).
+
+**Property content:** KIC (MPa√m), test temperature (K → °C), yield strength (MPa), specimen type (WOL, CT, Bend, NR). 374 KIC rows across 181 steels.
+
+**HT parsing notes:** Handbook uses "1550F (1117K) Oil Quench; Temper…" format — no "Austenitize" keyword. Parser detects austenitize temp from the first 4-digit K value ≥900 K preceding a quench keyword. Route detection: `has_quench AND has_temper → QT`.
+
+**Data quality:** One validation failure per run (P=0.15 in one stainless composition; likely OCR misread of 0.015). Over-limit composition values are set to null with a warning log rather than failing the bundle.
 
 ---
 
@@ -165,36 +163,36 @@ To add more grades: find the AZoM ArticleID and add to `GRADE_ARTICLES` in `azom
 
 **This is the sole source of `fatigue_limit_MPa` in the project.** Values are rotating bending fatigue strength at 10⁷ cycles (R=−1 fully reversed). Processing coverage: austenitize temp + quench medium + temper temp + temper time for all 437 rows.
 
-**File status:** `data/NIMS_fatigue/nims_fatigue_agrawal.xlsx` is present (placed 2026-04-21). Parser is functional and ready to run.
+**File status:** `data/NIMS_fatigue/nims_fatigue_agrawal.xlsx` is present (placed 2026-04-21). **Ingested 2026-04-25** — 155 steels, 437 fatigue property rows in steels.db.
 
 **Column encoding notes:** The Agrawal preprocessing uses 30°C as a sentinel for "parameter not used" (temperatures) and 0 for times. `THQCr` (cooling rate °C/s): 0 = no quench, 8 = oil (~8°C/s), 24 = water (~24°C/s). `QmT` (quench media temp): 30 = room-temp water/oil, 60 = warm oil (post-carburize), 140 = hot salt bath.
 
 ---
 
-### ASTM HSLA Structural Steel Minimum Specifications
-- **Location:** Hand-curated in parser (public domain ASTM spec values)
-- **Source:** ASTM A36, A572, A514, A588, A709 published standards
-- **Reliability:** 4 (primary standard documents)
-
-11 records: A36, A572 Gr 42/50/55/60/65, A514 Gr B, A588 Gr A, A709 Gr 36/50/HPS 70W.
-
-Values are **minimum specification limits**, not measured typicals — treat as lower bounds for training. Composition values are maximum limits from the spec unless a range is explicitly given.
-
----
-
-## Known Coverage Gaps (as of 2026-04-22)
+## Known Coverage Gaps (as of 2026-04-25)
 
 | Gap | Severity | Notes |
 |-----|----------|-------|
-| `hardness_HRC` — 295 rows (9.9%) | Medium | **Improved from 0%** via ASM Vol.4 wide tempering table + QT curves. Main remaining gap: HSLA and maraging families show 0% HRC. |
+| `hardness_HRC` — ~295 rows (~5.3%) | Medium | **Improved from 0%** via ASM Vol.4 wide tempering table + QT curves. Main remaining gap: HSLA and maraging families show 0% HRC. |
 | `hardness_HV` — 0 rows | High | Not in any current source. |
-| `fracture_tough_KIC` — 15 rows (0.5%) | High | **Improved from 0%**: 4340 (3 rows), D6AC (8 rows), maraging (5 rows from age-hardened table). Still sparse; prioritize new sources. |
-| `fatigue_limit_MPa` — 437 rows (10.9%) | Medium | NIMS fatigue DB file placed; ready to ingest. Carbon/low-alloy only; no stainless, maraging, or tool steel fatigue. |
+| `fracture_tough_KIC` — 389 rows (7.0%) | Low–Medium | **Greatly improved**: AMMRC MS 73-6 added 374 rows (181 steels). Remaining gap: no KIC for carbon, HSLA, or Cheng 2024 families. |
+| `fatigue_limit_MPa` — 437 rows (7.9%) | Medium | Carbon/low-alloy only (NIMS fatigue DB). No stainless, maraging, or tool steel fatigue data. |
 | `coiling_temp_C` — 0 rows | Medium | TMCP parameter; no coiling temp in any current source. |
-| `temper_time_min` — partial | Medium | NIMS fatigue adds ~400 temper_time rows once ingested. Still sparse for ASM/SteelBench records. |
+| `temper_time_min` — partial | Medium | NIMS fatigue covers ~437 rows; still sparse for ASM/SteelBench records. |
 | HSLA family — 0% hardness | Medium | A36/A572/A514/A588 present. No HB/HRC for structural grades. |
 | `HSLA` — 0% Charpy | Low | Structural plate often spec'd by Charpy; no data here. |
 | `other` family yield — 0% | Low | Cheng 2024 only has UTS; not fixable without new source. |
+
+---
+
+## Parsers Written, Not Yet Ingested
+
+Parser scripts exist in `data/parsers/` but have not been run against steels.db.
+
+| Parser | Proposed source ID | Records | Notes |
+|--------|--------------------|---------|-------|
+| `azom_scraper.py` | `src_azom_scraper` | ~8 | AZoM.com targeted scrape — tool steels + A36 + common alloy grades. To add more grades: find the AZoM ArticleID and append to `GRADE_ARTICLES`. Fetches at runtime; no local file needed. |
+| `astm_hsla_specs.py` | `src_astm_hsla_specs` | 11 | Hand-curated ASTM min specs: A36, A572 Gr 42/50/55/60/65, A514 Gr B, A588 Gr A, A709 Gr 36/50/HPS 70W. Values are minimum limits, not typicals — weight training accordingly. |
 
 ---
 

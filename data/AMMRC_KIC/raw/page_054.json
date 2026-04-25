@@ -1,0 +1,114 @@
+{
+  "page_type": "data",
+  "table_number": 33,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "ASTM A517-F",
+  "steel_category": "Steel, Intermediate Strength",
+  "data_rows": [
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth Melted",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 200,
+      "yield_MPa": 876,
+      "kic_MPa_sqrt_m": 82,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth Melted",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 162,
+      "yield_MPa": 917,
+      "kic_MPa_sqrt_m": 58,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth Melted",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 111,
+      "yield_MPa": 958,
+      "kic_MPa_sqrt_m": 51,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Open Hearth Melted",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 1200,
+      "kic_MPa_sqrt_m": 38,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Air Melted",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 112,
+      "yield_MPa": 1158,
+      "kic_MPa_sqrt_m": 88,
+      "specimen_type": "Bend",
+      "reference": 10
+    },
+    {
+      "form": "Plate: 1 in (25.4 mm) Thick, Air Melted",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-T",
+      "temp_K": 78,
+      "yield_MPa": 1310,
+      "kic_MPa_sqrt_m": 17,
+      "specimen_type": "Bend",
+      "reference": 10
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.17,
+      "Mn": 0.78,
+      "Si": 0.23,
+      "P": 0.012,
+      "S": 0.017,
+      "Ni": 0.88,
+      "Cr": 0.56,
+      "Mo": 0.42,
+      "V": 0.036,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": 0.26
+    },
+    "B": {
+      "C": 0.11,
+      "Mn": 0.85,
+      "Si": 0.25,
+      "P": 0.009,
+      "S": 0.007,
+      "Ni": 1.91,
+      "Cr": 0.58,
+      "Mo": 0.58,
+      "V": 0.06,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": null
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1660F (1178K), 70 minutes, Water Quench; 1230F (939K), 95 minutes, Water Quench.",
+    "2": "1500F (1089K), 95 minutes, Water Quench; 1160F (890K), 95 minutes, Water Quench."
+  }
+}

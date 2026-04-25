@@ -1,0 +1,174 @@
+{
+  "page_type": "data",
+  "table_number": 21,
+  "sheet": 1,
+  "sheet_of": 1,
+  "steel_grade": "PH13-8 Mo and FV 520B",
+  "steel_category": "Stainless Steel",
+  "data_rows": [
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 294,
+      "yield_MPa": 1420,
+      "kic_MPa_sqrt_m": 100,
+      "specimen_type": "DEC",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 191,
+      "yield_MPa": 1579,
+      "kic_MPa_sqrt_m": 47,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 194,
+      "yield_MPa": 1565,
+      "kic_MPa_sqrt_m": 45,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 194,
+      "yield_MPa": 1544,
+      "kic_MPa_sqrt_m": 58,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 194,
+      "yield_MPa": 1503,
+      "kic_MPa_sqrt_m": 62,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Plate",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "L-T",
+      "temp_K": 194,
+      "yield_MPa": 1510,
+      "kic_MPa_sqrt_m": 51,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Plate",
+      "comp_code": "A",
+      "ht_code": "1",
+      "test_orientation": "T-L",
+      "temp_K": 194,
+      "yield_MPa": 1558,
+      "kic_MPa_sqrt_m": 51,
+      "specimen_type": "SEN",
+      "reference": 16
+    },
+    {
+      "form": "Forging",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-S",
+      "temp_K": 294,
+      "yield_MPa": 1412,
+      "kic_MPa_sqrt_m": 98,
+      "specimen_type": "CN",
+      "reference": 50
+    },
+    {
+      "form": "Forging",
+      "comp_code": "B",
+      "ht_code": "2",
+      "test_orientation": "L-S",
+      "temp_K": 194,
+      "yield_MPa": 1510,
+      "kic_MPa_sqrt_m": 46,
+      "specimen_type": "CN",
+      "reference": 50
+    },
+    {
+      "form": "Bar",
+      "comp_code": "C",
+      "ht_code": "2",
+      "test_orientation": "L-R",
+      "temp_K": 294,
+      "yield_MPa": 1172,
+      "kic_MPa_sqrt_m": 131,
+      "specimen_type": null,
+      "reference": 65
+    }
+  ],
+  "composition_legend": {
+    "A": {
+      "C": 0.042,
+      "Mn": 0.02,
+      "Si": 0.02,
+      "P": 0.004,
+      "S": 0.001,
+      "Ni": 8.07,
+      "Cr": 12.58,
+      "Mo": 2.06,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 1.11,
+      "Ti": null,
+      "Cu": null
+    },
+    "B": {
+      "C": 0.045,
+      "Mn": 0.1,
+      "Si": 0.32,
+      "P": 0.004,
+      "S": 0.001,
+      "Ni": 8.4,
+      "Cr": 12.72,
+      "Mo": 2.13,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": 0.96,
+      "Ti": null,
+      "Cu": null
+    },
+    "C": {
+      "C": 0.05,
+      "Mn": 1.04,
+      "Si": 0.69,
+      "P": 0.058,
+      "S": 0.055,
+      "Ni": 5.48,
+      "Cr": 13.78,
+      "Mo": 1.68,
+      "V": null,
+      "Co": null,
+      "W": null,
+      "Al": null,
+      "Ti": null,
+      "Cu": 1.65
+    }
+  },
+  "heat_treatment_legend": {
+    "1": "1700F (1200K), 1 Hr, Air Cool; Refrigerated at -110F (194K), 16 Hrs; Aged 1000F (811K), 1 Hr, Air Cool",
+    "2": "1925F (1325K), 15 min (HT) + 840F (723K), 3 Hr"
+  }
+}
